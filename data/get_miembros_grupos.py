@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 BASE = "https://portalinvestigacion.uniovi.es"
 ROOT = Path(__file__).parent
 CARPETA_HTML_SCRIPTS_DATA = ROOT / "html_grupos"
-SALIDA_JSON = ROOT / "json" / "grupos_detalle_extraido.json"
+SALIDA_JSON = ROOT / "json" / "grupos_detalle.json"
 URL_LISTADO_GRUPOS = f"{BASE}/grupos/buscar"
 
 session = requests.Session()
