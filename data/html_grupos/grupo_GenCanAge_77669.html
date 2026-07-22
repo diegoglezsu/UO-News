@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="en" xml:lang="en">
+
+    <head>
+        
+                
+        
+        
+        
+        <title>Genomas, Cáncer y Envejecimiento | Research groups - Universidad de Oviedo</title>
+        
+        
+    
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+        <link media="all" type="text/css" rel="stylesheet" href="/css/theme_base-c663fa161570519c0673046fd9b2623e.css?ts=1781020800" />
+        <link media="all" type="text/css" rel="stylesheet" href="/css/theme_16-3786c44b5c6659f87312569737a4348c.css?ts=1781020800" />
+        <link media="all" type="text/css" rel="stylesheet" href="/css/style-8c855758e24035b51af7239e05b7d6b4.css" />
+
+        <script src="https://cdn.jsdelivr.net/npm/htmx.org@1.9.12/dist/htmx.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>        
+        <script src="/js/app-5f1057f8bbda83d62fced0b3b3aecbd8.js"></script>
+
+        
+        <link media="all" type="text/css" rel="stylesheet" href="/cookies/cookieconsent-670b37e75a82edfd7af1776c3081eac5.css"/>
+        <script defer src="/cookies/cookieconsent-0a3c8bda3a0c2359787caa8bfe0cae04.js"></script>
+    
+        
+        <link rel="alternate" hreflang="es" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle"/><link rel="alternate" hreflang="ca" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=ca"/><link rel="alternate" hreflang="eu" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=eu"/><link rel="alternate" hreflang="gl" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=gl"/><link rel="alternate" hreflang="en" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=en"/><link rel="alternate" hreflang="fr" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=fr"/><link rel="alternate" hreflang="de" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=de"/>
+        <link rel="alternate" hreflang="x-default" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle"/>
+        <link rel="canonical" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=en_US"/>
+    
+        
+    </head>
+    <body hx-history="false">   
+        
+        
+        <!--button type="button" data-cc="c-settings">Show cookie settings</button-->
+        <script>
+            window.addEventListener('load', function () {
+                /**
+                 * All config. options available here:
+                 * https://cookieconsent.orestbida.com/reference/configuration-reference.html
+                 */
+                CookieConsent.run({
+
+                    // root: 'body',
+                    // autoShow: true,
+                    // disablePageInteraction: true,
+                    // hideFromBots: true,
+                    // mode: 'opt-in',
+                    // revision: 0,
+
+                    cookie: {
+                        name: 'cc_cookie',
+                        // domain: location.hostname,
+                        // path: '/',
+                        // sameSite: "Lax",
+                        // expiresAfterDays: 365,
+                    },
+
+                    // https://cookieconsent.orestbida.com/reference/configuration-reference.html#guioptions
+                    guiOptions: {
+                        consentModal: {
+                            layout: 'bar',
+                            position: 'bottom',
+                            equalWeightButtons: true,
+                            flipButtons: false
+                        },
+                        preferencesModal: {
+                            layout: 'box',
+                            equalWeightButtons: true,
+                            flipButtons: false
+                        }
+                    },
+
+                    categories: {
+                        necessary: {
+                            enabled: true, // this category is enabled by default
+                            readOnly: true  // this category cannot be disabled
+                        },
+                        analytics: {
+                            autoClear: {
+                                cookies: [
+                                    {
+                                        name: /^(_ga|_gid)/
+                                    }
+                                ]
+                            }
+                        }                        
+                    },
+
+                    language: {
+                        default: 'en',
+                        translations: {
+                            en: {
+                                consentModal: {
+                                    title: "This website uses cookies",
+                                    description: "This portal uses its own and third-party cookies for analytical purposes. Those related to analytical purposes will only be taken into account if you accept the cookies.",
+                                    acceptAllBtn: "Allow all",
+                                    acceptNecessaryBtn: "Allow only necessary",
+                                    showPreferencesBtn: "Manage cookies",
+                                    // closeIconLabel: 'Reject all and close modal',
+                                    footer: `<a href="/aviso_legal#cookies" target="_blank">Política de cookies</a>`,
+                                },
+                                preferencesModal: {
+                                    title: "Manage cookies",
+                                    acceptAllBtn: "Allow all",
+                                    acceptNecessaryBtn: "Allow only necessary",
+                                    savePreferencesBtn: "Save preferences",
+                                    closeIconLabel: "Close",
+                                    serviceCounterLabel: 'Service|Services',
+                                    sections: [
+                                        {
+                                            title: "Use of Cookies\uD83D\uDCE2",
+                                            description: "The use of cookies guarantees the basic functionalities of the website and improves your user experience. You can choose for each category whether or not to accept at any time. For more details about cookies and other sensitive data, please read the <a href=\"\/aviso_legal#cookies\" class=\"cc-link\">Cookie Policy<\/a>."
+                                        },
+                                        {
+                                            title: "Technical and Functional (Strictly necessary)",
+                                            description: "Strictly necessary cookies help make a website navigable by activating basic functions, such as language selection, page navigation and access to secure areas of the website. Without these cookies, the site could not function properly.",
+
+                                            //this field will generate a toggle linked to the 'necessary' category
+                                            linkedCategory: 'necessary'
+                                        },
+                                        {
+                                            title: "Statistics",
+                                            description: "Statistical cookies help the website owner understand how visitors interact with the site, collecting and reporting information.",
+                                            linkedCategory: 'analytics',
+                                            cookieTable: {
+                                                headers: {
+                                                    name: "Name",
+                                                    domain: "Domain",
+                                                    vencimiento: "Expiration",
+                                                    desc: "Description"
+                                                },
+                                                body: [
+                                                    {
+                                                        name: '_ga',
+                                                        domain: 'google.com',
+                                                        vencimiento: "2 years",
+                                                        desc: "This cookie is installed by Google Analytics. The cookie is used to calculate the data of visitors, sessions, campaigns and to track the use of the website for the analytical report of said website. Cookies store information anonymously and assign a randomly generated number to identify unique visitors."
+                                                    },
+                                                    {
+                                                        name: '_gat',
+                                                        domain: 'google.com',
+                                                        vencimiento: "1 minute",
+                                                        desc: "This cookie is installed by Google Analytics. The cookie is used to store information about how visitors use the website and helps create an analytical report on how the website is performing. The data collected, including the number of visitors, the source from which they came and the pages, appeared anonymously."
+                                                    },
+                                                    {
+                                                        name: '_gid',
+                                                        domain: 'google.com',
+                                                        vencimiento: "24 hours",
+                                                        desc: "Google Universal Analytics sets these cookies to slow down the request rate and limit data collection on high-traffic sites."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            title: "More information",
+                                            description: "Any questions or concerns regarding the cookie policy, please <a class=\"cc-link\" href=\"\/contacto\">contact us<\/a>."
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        </script>
+    
+        <header class="site-header">
+            
+    
+    
+        <section class="site-header__container">
+            <nav>
+                <span class="site-header__logos">
+                    <a class="site-header__logo site-header__logo--portal" href="/">
+                        <img src="/img/logo-a41eeda6d21dfaa1b863a086b230aa03.png" alt="Research Portal Logo: Universidad de Oviedo"/>
+                    </a>
+                    <a target="_blank" class="site-header__logo site-header__logo--parent" href="https://www.uniovi.es/">
+                        <img src="/img/parent-logo-20d80e325a34b9860623f288c21b34ef.png" alt="Logo: Universidad de Oviedo"/>
+                    </a>
+                </span>
+                <span class="site-header__push"></span>
+                
+        <span class="site-header__authentication" >
+            <span class="site-header__login">
+                <a class="site-header__link" rel="nofollow" href="/sso/login?redirect_uri=https://portalinvestigacion.uniovi.es/grupos/77669/detalle">Sign in</a>
+
+                
+            </span>
+        </span>
+    
+            </nav>
+        </section>
+        
+
+
+        </header>
+
+        <nav class="site-navbar">
+            
+    
+    
+        <div class="site-navbar__container">
+            <div class="site-navbar__links">
+                <a class="navbar__grupos" href="/grupos">Groups</a>
+                <a class="navbar__investigadores" href="/investigadores">Researchers</a>   
+                <a class="navbar__proyectos" href="/financiaciones">Funding</a>
+                <a class="navbar__produccion" href="/resultados">Results</a>              
+            </div>
+        </div>
+    
+
+
+
+
+
+        </nav>
+
+        <main class="content">            
+            
+            
+            
+        <div class="content-header">
+            <div class="content-header__container">
+                <div class="grupo-header__content">
+                    
+                    <div class="grupo-nombre">
+                        <h1 class="original"><span class="original">GenCanAge</span></h1>
+                        <h2>Genomas, Cáncer y Envejecimiento</h2>
+                    </div>
+                    
+                </div>
+                <div class="c-tabs">
+                    
+                        
+                        <a class="c-tabs__tab c-tabs__tab--current"
+                           href="/grupos/77669/detalle">Detail</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/77669/lineas">Research lines</a>
+
+                    
+                        
+                        
+
+                    
+                        
+                        
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/77669/financiacion">Funding</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/77669/publicaciones">Publications</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/77669/colaboracion">Collaboration</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/77669/tesis">Theses</a>
+
+                    
+                        
+                        
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/77669/indicadores">Metrics</a>
+
+                    
+                </div>
+
+                <!--<a th:if="${owner}"
+                   class="c-tabs__tab c-tabs__tab&#45;&#45;account"
+                   href="#" th:href="${@environment.getProperty('pciencia-account.url')}"><span th:text="#{'grupo.link.account'}">Editar</span></a>-->
+
+            </div>
+        </div>
+               
+            <div class="main-content">
+                <section class="grupo-detalles">               
+                    <div class="grupo-detalles__imagen">
+                        <img src="/img/grupo-f008a4e99d3411796790f841bfcf55ea.png" width="100%" alt="Genomas, Cáncer y Envejecimiento"/>
+                    </div>
+
+                    <div class="grupo-detalles__detalles">
+
+
+                        <p class="grupo-detalles__detalle"><span>Date of inception</span> <span>02 December 2024</span></p>
+
+                        
+
+                        <p class="grupo-detalles__detalle">
+                            <span>Leader</span>:
+                            <span class="item"><a href="/investigadores/218128/detalle"><span>JOSE MARIA PEREZ FREIJE</span></a></span>
+                        </p>
+
+                        <p class="grupo-detalles__detalle">
+                            <span>Department</span>:
+                            <a href="/unidades/6044/detalle"><span>Bioquímica y Biología Molecular</span></a>
+                        </p>
+
+                                        
+                        
+                        <p class="grupo-detalles__detalle">
+                            <span>Website</span>:
+                            <a href="https://degradome.uniovi.es"><span>https://degradome.uniovi.es</span></a>
+                        </p>
+                        
+                        
+                        
+                        
+                    </div>
+
+                </section>
+
+                
+        
+    
+
+                <section id="grupo-detalles-descripcion">
+                    <div>
+                        
+                    </div>
+                </section>
+
+                
+        
+    
+
+                <section id="miembros" class="grupo-miembros">
+                    <h2 class="section-title section-title--filterable">
+                        <span>Researchers</span>
+
+                        <div class="c-filter">
+                            <button class="c-filter__btn btn btn-secondary">Filter</button>
+                            <input class="c-filter__size" type="hidden" name="size" value="37"/>
+                            <input class="c-filter__input" placeholder="Filter by first and last name" name="termino" type="text" style="display:none;" aria-label="Filter by first and last name" />
+                            <script type="text/javascript">
+                                $(document).ready(function () {
+                                    new FilterComponent("miembros/filtrar", "personas", "#miembros", ".grupo-miembros__item").init();
+                                });
+                            </script>
+                        </div>
+                    </h2>
+
+                    <div class="grupo-miembros__items">
+                        <div data-id="218128" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218128/detalle">
+                                        <img loading="lazy" src="/img/uploaded/BA92F6EDEB1A21FE6B8A522FF8E55481.jpg" alt="Foto de JOSE MARIA"
+                                             title="Foto de JOSE MARIA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218128/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JOSE MARIA</div>
+                                        <div class="c-persona-card__apellidos">PEREZ FREIJE</div>
+                                    </a>
+                                    <div class="c-persona-card__rol">Leader</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1116360" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1116360/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de DIANA"
+                                             title="Foto de DIANA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1116360/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">DIANA</div>
+                                        <div class="c-persona-card__apellidos">ALVAREZ PUENTE</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2354651" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2354651/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALBERTO"
+                                             title="Foto de ALBERTO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2354651/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALBERTO</div>
+                                        <div class="c-persona-card__apellidos">ANTOLIN LERMA</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1010244" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1010244/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de CLEA"
+                                             title="Foto de CLEA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1010244/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">CLEA</div>
+                                        <div class="c-persona-card__apellidos">BARCENA FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1301679" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1301679/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de GUILLERMINA"
+                                             title="Foto de GUILLERMINA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1301679/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">GUILLERMINA</div>
+                                        <div class="c-persona-card__apellidos">BEA FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218996" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218996/detalle">
+                                        <img loading="lazy" src="/img/uploaded/47E5FE4E742C4A9D40D035D33F0FEE22.jpg" alt="Foto de GABRIEL"
+                                             title="Foto de GABRIEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218996/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">GABRIEL</div>
+                                        <div class="c-persona-card__apellidos">BRETONES SANCHEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2014308" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2014308/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de VICTOR JOSE"
+                                             title="Foto de VICTOR JOSE" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2014308/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">VICTOR JOSE</div>
+                                        <div class="c-persona-card__apellidos">CELEMIN CAPALDI</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2354438" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2354438/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de LAURA"
+                                             title="Foto de LAURA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2354438/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">LAURA</div>
+                                        <div class="c-persona-card__apellidos">COBIAN CUEVAS</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1116363" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1116363/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de YAIZA"
+                                             title="Foto de YAIZA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1116363/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">YAIZA</div>
+                                        <div class="c-persona-card__apellidos">ESPAÑOL FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218863" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218863/detalle">
+                                        <img loading="lazy" src="/img/uploaded/1084037B1AA6B12863ADEACB5BC5B64D.jpg" alt="Foto de ALVARO"
+                                             title="Foto de ALVARO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218863/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALVARO</div>
+                                        <div class="c-persona-card__apellidos">FERNANDEZ FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218878" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218878/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de JAVIER"
+                                             title="Foto de JAVIER" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218878/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JAVIER</div>
+                                        <div class="c-persona-card__apellidos">FERNANDEZ MATEOS</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2355799" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2355799/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ANA DE LA"
+                                             title="Foto de ANA DE LA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2355799/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ANA DE LA</div>
+                                        <div class="c-persona-card__apellidos">FUENTE GONZALEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2014345" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2014345/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ANTONIO"
+                                             title="Foto de ANTONIO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2014345/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ANTONIO</div>
+                                        <div class="c-persona-card__apellidos">GARCIA-BERNARDO TARTIERE</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1010322" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1010322/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de MARIA"
+                                             title="Foto de MARIA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1010322/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MARIA</div>
+                                        <div class="c-persona-card__apellidos">GUERRA ANDRES</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217882" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217882/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ANA YOLANDA"
+                                             title="Foto de ANA YOLANDA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217882/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ANA YOLANDA</div>
+                                        <div class="c-persona-card__apellidos">GUTIERREZ FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217783" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217783/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALEJANDRO"
+                                             title="Foto de ALEJANDRO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217783/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALEJANDRO</div>
+                                        <div class="c-persona-card__apellidos">LOPEZ SOTO</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1010372" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1010372/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de LUCAS"
+                                             title="Foto de LUCAS" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1010372/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">LUCAS</div>
+                                        <div class="c-persona-card__apellidos">MOLEDO NODAR</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1301683" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1301683/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de PEDRO"
+                                             title="Foto de PEDRO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1301683/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">PEDRO</div>
+                                        <div class="c-persona-card__apellidos">MORAL QUIROS</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1116359" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1116359/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de Mª ASUNCION"
+                                             title="Foto de Mª ASUNCION" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1116359/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">Mª ASUNCION</div>
+                                        <div class="c-persona-card__apellidos">MORCHON SOLIS</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1010383" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1010383/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de CRISTINA"
+                                             title="Foto de CRISTINA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1010383/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">CRISTINA</div>
+                                        <div class="c-persona-card__apellidos">OLIVAR FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2355953" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2355953/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALEJANDRA"
+                                             title="Foto de ALEJANDRA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2355953/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALEJANDRA</div>
+                                        <div class="c-persona-card__apellidos">PIEDRA MACÍAS</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219253" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219253/detalle">
+                                        <img loading="lazy" src="/img/uploaded/0815BF50C2C0E4B9100BC06F1F78F4C5.jpg" alt="Foto de ALEJANDRO"
+                                             title="Foto de ALEJANDRO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219253/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALEJANDRO</div>
+                                        <div class="c-persona-card__apellidos">PIÑEIRO UGALDE</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2353845" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2353845/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de SAMUEL"
+                                             title="Foto de SAMUEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2353845/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">SAMUEL</div>
+                                        <div class="c-persona-card__apellidos">PIS VIGIL</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218027" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218027/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de VICTOR"
+                                             title="Foto de VICTOR" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218027/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">VICTOR</div>
+                                        <div class="c-persona-card__apellidos">QUESADA FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2354966" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2354966/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de GEMA"
+                                             title="Foto de GEMA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2354966/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">GEMA</div>
+                                        <div class="c-persona-card__apellidos">REY AGUILERA</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218354" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218354/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALICIA"
+                                             title="Foto de ALICIA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218354/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALICIA</div>
+                                        <div class="c-persona-card__apellidos">RODRIGUEZ FOLGUERAS</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219231" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219231/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de DAVID"
+                                             title="Foto de DAVID" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219231/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">DAVID</div>
+                                        <div class="c-persona-card__apellidos">RODRIGUEZ MARTINEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218886" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218886/detalle">
+                                        <img loading="lazy" src="/img/uploaded/7C8346E73163DDE68302832286896EED.jpg" alt="Foto de DAVID"
+                                             title="Foto de DAVID" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218886/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">DAVID</div>
+                                        <div class="c-persona-card__apellidos">ROIZ DEL VALLE</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1301719" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1301719/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de MARIA"
+                                             title="Foto de MARIA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1301719/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MARIA</div>
+                                        <div class="c-persona-card__apellidos">SOJO PEREZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218591" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218591/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de XOSE ANTON"
+                                             title="Foto de XOSE ANTON" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218591/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">XOSE ANTON</div>
+                                        <div class="c-persona-card__apellidos">SUAREZ PUENTE</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                
+        
+    
+
+                <section>
+                    <h2 class="section-title">Classifications</h2>
+                    <ul class="grupo-clasificaciones">     
+                        <li>
+                            <span>area-cct: </span>
+                            <span>A-07 BIOQUÍMICA, </span><span>A BIOLOGÍA, MEDICINA</span>
+                        </li>
+                    </ul>
+                    <ul class="grupo-clasificaciones">     
+                        <li>
+                            <span>area-rama-conocimiento: </span>
+                            <span>Ciencias de la Salud</span>
+                        </li>
+                    </ul>
+                </section>
+
+                
+        
+    
+
+                
+
+                <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    
+
+    
+</html>
+
+
+                <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    
+    
+    
+</html> 
+
+
+                
+        
+    
+                
+                <section id="ex-miembros" class="grupo-miembros">
+                    <h2 class="section-title section-title--filterable">
+                        Former members (7)  
+                    </h2>
+                    <ul >
+                        <li data-id="1116361">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/1116361/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ALVAREZ MIRANDA,</span>
+                                    <span class="c-persona-card__nombre">MARIA SONSOLES</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2026</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218993">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218993/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">BOUSQUETS MUÑOZ,</span>
+                                    <span class="c-persona-card__nombre">PABLO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2024</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="1010257">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/1010257/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">CAPIN PEREZ,</span>
+                                    <span class="c-persona-card__nombre">RAQUEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2026</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218878">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218878/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">FERNANDEZ MATEOS,</span>
+                                    <span class="c-persona-card__nombre">JAVIER</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2024</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218764">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218764/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">LOPEZ TAMARGO,</span>
+                                    <span class="c-persona-card__nombre">SARA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2025</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218886">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218886/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ROIZ DEL VALLE,</span>
+                                    <span class="c-persona-card__nombre">DAVID</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2025</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219361">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219361/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">VALLE CAO,</span>
+                                    <span class="c-persona-card__nombre">ALEJANDRA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2024</span><span class="fechaFin">2024</span></span>
+                            </span>                       
+                        </li>
+                    </ul>
+                </section>
+
+                
+        
+    
+
+
+            </div>
+
+        
+        </main>
+
+        <nav class="site-navfooter">
+            
+    
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <ul>
+                        
+                        <li><a href="/contacto">Contact</a></li>
+                        
+                        <li><a href="/aviso_legal">Legal notice</a></li>
+                        <li><a href="/mapa_sitio">Site map</a></li>
+                        
+                    </ul>                                        
+                </div>
+                <div>
+        <div class="c-langselect">
+            <a href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle" tabindex="0" class="c-langselect--trigger" title="Change language">
+                <i class="material-icons material-icons--translate">translate</i> en <i class="material-icons">arrow_drop_down</i>
+            </a>
+            
+            <div class="mdc-menu mdc-menu-surface">
+                <div class="mdc-list">
+                    <a href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=en" title="English">
+                        <i class="material-icons material-icons--translate">translate</i> en <i class="material-icons">arrow_drop_down</i>
+                    </a>
+                    <a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=es"
+                       data-lang="es"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Español">
+                        es
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=ca"
+                       data-lang="ca"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Català i valencià">
+                        ca
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=eu"
+                       data-lang="eu"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Euskara">
+                        eu
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=gl"
+                       data-lang="gl"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Galego">
+                        gl
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=en"
+                       data-lang="en"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="English">
+                        en
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=fr"
+                       data-lang="fr"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Francais">
+                        fr
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/77669/detalle?lang=de"
+                       data-lang="de"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Deutsch">
+                        de
+                    </a>
+                </div>
+            </div>
+        </div>        
+    </div>
+            </div>
+        </div>
+    
+
+        </nav>
+        <footer class="site-footer">
+            
+    
+    
+        <section class="site-footer__container">
+            <div class="site-footer__inner">
+                <div class="site-footer__column">
+                    <span class="site-footer__column-title">Relevants</span>
+                    <ul class="site-footer__nav">
+                        <li><a target="_blank" href="https://www.uniovi.es/">Oviedo University</a></li>
+                        <li><a target="_blank" href="https://buo.uniovi.es/">Library</a></li>
+                        <li><a target="_blank" href="https://digibuo.uniovi.es/dspace/">RUO</a></li>
+                        <li><a target="_blank" href="https://accesoabiertouniovi.wordpress.com/">Blog Difunde Uniovi</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer__column">
+                    <span class="site-footer__column-title">Research</span>
+                    <ul class="site-footer__nav">
+                        <li><a target="_blank" href="https://www.uniovi.es/en/conocenos/gobierno/vicerrectorados/investigacion">Research Vice-rectorate</a></li>
+                        <li><a target="_blank" href="https://www.uniovi.es/conocenos/gobierno/vicerrectorados/transferencia">Knowledge Transfer Vice-rectorate</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer__column">
+                    
+
+    
+        <div class="site-footer__column--social">
+            <span class="site-footer__column-title">UniOvi in the network</span>
+            <ul>
+                <li>
+                    <a target="_blank" href="https://www.facebook.com/UniversidadOviedo">
+                        <img src="/img/social/facebook.png" alt="Facebook"/>
+                        Facebook
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://bsky.app/profile/universidadoviedo.bsky.social">
+                        <img src="/img/social/bsky.png" alt="BlueSky"/>
+                        BlueSky
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.instagram.com/accounts/login/?next=/universidad_de_oviedo/">
+                        <img src="/img/social/instagram.png" alt="Instagram"/>
+                        Instagram
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.youtube.com/user/uniovi">
+                        <img src="/img/social/youtube.png" alt="Youtube"/>
+                        Youtube
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.linkedin.com/school/uniovi/mycompany/verification/">
+                        <img src="/img/social/linkedin.png" alt="LinkedIn"/>
+                        LinkedIn
+                    </a>
+                </li>
+            </ul>
+        </div>
+    
+    
+
+                </div>
+            </div>
+            <div class="site-footer__colaboracion">
+                <p>With the collaboration of: </p>
+                <div class="site-footer__logo">
+                    <img src="/img/ministerio-fecyt-con-banderas-01_JPG.jpg" alt="Logo Ministerio Fecyt"/>
+                </div>
+            </div>
+        </section>
+    
+    
+
+            
+    
+    
+        <div class="site-actualizacion__container">
+            <div class="info-container">
+                Data updated as of:
+                16-07-2026
+                <i class="material-icons">info</i>
+                <div class="info-content">
+                    <p>Portal documents are updated daily. This date refers to the updating of information related to the portal structure (people, research groups, organizational units, projects...).</p>
+                </div>
+            </div>
+        </div>
+    
+
+            
+    
+    
+        <div class="site-footer__copyright">
+            <div>
+                <span>CRIS project developed in collaboration with <strong><a target="_blank" href="https://fundaciondialnet.unirioja.es/" class="externo">Fundación Dialnet</a> (<a target="_blank" href="https://www.unirioja.es/" class="externo">University of La Rioja</a>)</strong></span>
+            </div>
+        </div>       
+        
+
+
+        </footer>
+
+        
+
+
+
+
+
+
+        
+
+    
+
+    
+    
+
+        
+    </body>
+</html>
