@@ -371,7 +371,7 @@ def parsear_grupo(fuente: dict[str, str]) -> dict:
                 miembro["nombre_listado"],
                 es_ip=miembro.get("es_ip", False)
             )
-            if detalle["correo"]:
+            if detalle["email"]:
                 miembros.append(detalle)
         except Exception as error:
             miembros.append(
