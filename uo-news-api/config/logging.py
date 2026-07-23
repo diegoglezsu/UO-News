@@ -6,7 +6,7 @@ Sistema de logging con archivos rotativos.
 import logging
 import logging.handlers
 
-from src.config.settings import LOG_DIR, LOG_LEVEL
+from config.settings import LOG_DIR, LOG_LEVEL
 
 
 def setup_logging() -> None:

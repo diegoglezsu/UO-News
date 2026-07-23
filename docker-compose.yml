@@ -1,12 +1,16 @@
 services:
   api:
-    container_name: api
-    build: .
+    container_name: uo-news-api
+    build:
+      context: ./uo-news-api
     ports:
       - "${API_PORT:-8000}:8000"
     env_file:
-      - .env
+      - ./uo-news-api/.env
+    environment:
+      - UO_NEWS_ROOT=/app
     volumes:
+      - ./data:/app/data:ro
       - uo-news-db:/app/db
       - uo-news-logs:/app/logs
     restart: unless-stopped

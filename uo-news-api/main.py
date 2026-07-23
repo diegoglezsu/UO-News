@@ -3,9 +3,9 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
-from src.config.logging import setup_logging
-from src.config.settings import API_HOST, API_PORT, API_RELOAD
-from src.api.routes import router
+from config.logging import setup_logging
+from config.settings import API_HOST, API_PORT, API_RELOAD
+from api.routes import router
 
 setup_logging()
 logger = logging.getLogger("uo-news-api")
@@ -33,4 +33,4 @@ app.include_router(router)
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run("src.main:app", host=API_HOST, port=API_PORT, reload=API_RELOAD)
+    uvicorn.run("main:app", host=API_HOST, port=API_PORT, reload=API_RELOAD)

@@ -26,7 +26,8 @@ def find_project_root() -> Path:
 
 
 ROOT = find_project_root()
-JSON_PATH = ROOT / "data" / "json" / "noticias_uniovi.json"
+REPO_ROOT = ROOT.parent
+JSON_PATH = REPO_ROOT / "data" / "json" / "noticias_uniovi.json"
 DB_PATH = ROOT / "db"
 LOG_DIR = ROOT / "logs"
 
@@ -34,4 +35,3 @@ API_HOST = os.getenv("API_HOST", "0.0.0.0")
 API_PORT = int(os.getenv("API_PORT", "8000"))
 API_RELOAD = os.getenv("API_RELOAD", "false").lower() == "true"
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
-
