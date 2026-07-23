@@ -12,7 +12,7 @@ dist/
 build/
 *.egg
 
-# Outputs y checkpoints (no versionar)
+# Outputs y checkpoints
 outputs/
 checkpoints/
 wandb/
@@ -35,4 +35,8 @@ Thumbs.db
 db/
 
 # Logs
+logs/
 *.log
+
+# Env (keep .env.example)
+.env

@@ -1,0 +1,16 @@
+services:
+  api:
+    container_name: api
+    build: .
+    ports:
+      - "${API_PORT:-8000}:8000"
+    env_file:
+      - .env
+    volumes:
+      - uo-news-db:/app/db
+      - uo-news-logs:/app/logs
+    restart: unless-stopped
+
+volumes:
+  uo-news-db:
+  uo-news-logs:
