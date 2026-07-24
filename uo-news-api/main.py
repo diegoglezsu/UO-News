@@ -1,19 +1,29 @@
+import json
 import logging
 from contextlib import asynccontextmanager
+from pathlib import Path
 
 from fastapi import FastAPI
 
 from config.logging import setup_logging
-from config.settings import API_HOST, API_PORT, API_RELOAD
+from config.settings import API_HOST, API_PORT, API_RELOAD, JSON_PATH
 from api.routes import router
 
 setup_logging()
 logger = logging.getLogger("uo-news-api")
 
+noticias_uniovi: list[dict] = []
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    global noticias_uniovi
     logger.info("Indexing ChromaDB on startup...")
+
+    logger.info("Loading noticias_uniovi.json...")
+    with open(JSON_PATH, encoding="utf-8") as f:
+        noticias_uniovi = json.load(f)
+    logger.info("Loaded %d noticias from %s", len(noticias_uniovi), JSON_PATH)
 
     yield
 

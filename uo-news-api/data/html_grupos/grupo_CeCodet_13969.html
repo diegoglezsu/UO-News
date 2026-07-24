@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="en" xml:lang="en">
+
+    <head>
+        
+                
+        
+        
+        
+        <title>Centro de Cooperación y Desarrollo Territorial de la Universidad de Oviedo | Research groups - Universidad de Oviedo</title>
+        
+        
+    
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+        <link media="all" type="text/css" rel="stylesheet" href="/css/theme_base-c663fa161570519c0673046fd9b2623e.css?ts=1781020800" />
+        <link media="all" type="text/css" rel="stylesheet" href="/css/theme_16-3786c44b5c6659f87312569737a4348c.css?ts=1781020800" />
+        <link media="all" type="text/css" rel="stylesheet" href="/css/style-8c855758e24035b51af7239e05b7d6b4.css" />
+
+        <script src="https://cdn.jsdelivr.net/npm/htmx.org@1.9.12/dist/htmx.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>        
+        <script src="/js/app-5f1057f8bbda83d62fced0b3b3aecbd8.js"></script>
+
+        
+        <link media="all" type="text/css" rel="stylesheet" href="/cookies/cookieconsent-670b37e75a82edfd7af1776c3081eac5.css"/>
+        <script defer src="/cookies/cookieconsent-0a3c8bda3a0c2359787caa8bfe0cae04.js"></script>
+    
+        
+        <link rel="alternate" hreflang="es" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle"/><link rel="alternate" hreflang="ca" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=ca"/><link rel="alternate" hreflang="eu" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=eu"/><link rel="alternate" hreflang="gl" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=gl"/><link rel="alternate" hreflang="en" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=en"/><link rel="alternate" hreflang="fr" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=fr"/><link rel="alternate" hreflang="de" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=de"/>
+        <link rel="alternate" hreflang="x-default" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle"/>
+        <link rel="canonical" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=en_US"/>
+    
+        
+    </head>
+    <body hx-history="false">   
+        
+        
+        <!--button type="button" data-cc="c-settings">Show cookie settings</button-->
+        <script>
+            window.addEventListener('load', function () {
+                /**
+                 * All config. options available here:
+                 * https://cookieconsent.orestbida.com/reference/configuration-reference.html
+                 */
+                CookieConsent.run({
+
+                    // root: 'body',
+                    // autoShow: true,
+                    // disablePageInteraction: true,
+                    // hideFromBots: true,
+                    // mode: 'opt-in',
+                    // revision: 0,
+
+                    cookie: {
+                        name: 'cc_cookie',
+                        // domain: location.hostname,
+                        // path: '/',
+                        // sameSite: "Lax",
+                        // expiresAfterDays: 365,
+                    },
+
+                    // https://cookieconsent.orestbida.com/reference/configuration-reference.html#guioptions
+                    guiOptions: {
+                        consentModal: {
+                            layout: 'bar',
+                            position: 'bottom',
+                            equalWeightButtons: true,
+                            flipButtons: false
+                        },
+                        preferencesModal: {
+                            layout: 'box',
+                            equalWeightButtons: true,
+                            flipButtons: false
+                        }
+                    },
+
+                    categories: {
+                        necessary: {
+                            enabled: true, // this category is enabled by default
+                            readOnly: true  // this category cannot be disabled
+                        },
+                        analytics: {
+                            autoClear: {
+                                cookies: [
+                                    {
+                                        name: /^(_ga|_gid)/
+                                    }
+                                ]
+                            }
+                        }                        
+                    },
+
+                    language: {
+                        default: 'en',
+                        translations: {
+                            en: {
+                                consentModal: {
+                                    title: "This website uses cookies",
+                                    description: "This portal uses its own and third-party cookies for analytical purposes. Those related to analytical purposes will only be taken into account if you accept the cookies.",
+                                    acceptAllBtn: "Allow all",
+                                    acceptNecessaryBtn: "Allow only necessary",
+                                    showPreferencesBtn: "Manage cookies",
+                                    // closeIconLabel: 'Reject all and close modal',
+                                    footer: `<a href="/aviso_legal#cookies" target="_blank">Política de cookies</a>`,
+                                },
+                                preferencesModal: {
+                                    title: "Manage cookies",
+                                    acceptAllBtn: "Allow all",
+                                    acceptNecessaryBtn: "Allow only necessary",
+                                    savePreferencesBtn: "Save preferences",
+                                    closeIconLabel: "Close",
+                                    serviceCounterLabel: 'Service|Services',
+                                    sections: [
+                                        {
+                                            title: "Use of Cookies\uD83D\uDCE2",
+                                            description: "The use of cookies guarantees the basic functionalities of the website and improves your user experience. You can choose for each category whether or not to accept at any time. For more details about cookies and other sensitive data, please read the <a href=\"\/aviso_legal#cookies\" class=\"cc-link\">Cookie Policy<\/a>."
+                                        },
+                                        {
+                                            title: "Technical and Functional (Strictly necessary)",
+                                            description: "Strictly necessary cookies help make a website navigable by activating basic functions, such as language selection, page navigation and access to secure areas of the website. Without these cookies, the site could not function properly.",
+
+                                            //this field will generate a toggle linked to the 'necessary' category
+                                            linkedCategory: 'necessary'
+                                        },
+                                        {
+                                            title: "Statistics",
+                                            description: "Statistical cookies help the website owner understand how visitors interact with the site, collecting and reporting information.",
+                                            linkedCategory: 'analytics',
+                                            cookieTable: {
+                                                headers: {
+                                                    name: "Name",
+                                                    domain: "Domain",
+                                                    vencimiento: "Expiration",
+                                                    desc: "Description"
+                                                },
+                                                body: [
+                                                    {
+                                                        name: '_ga',
+                                                        domain: 'google.com',
+                                                        vencimiento: "2 years",
+                                                        desc: "This cookie is installed by Google Analytics. The cookie is used to calculate the data of visitors, sessions, campaigns and to track the use of the website for the analytical report of said website. Cookies store information anonymously and assign a randomly generated number to identify unique visitors."
+                                                    },
+                                                    {
+                                                        name: '_gat',
+                                                        domain: 'google.com',
+                                                        vencimiento: "1 minute",
+                                                        desc: "This cookie is installed by Google Analytics. The cookie is used to store information about how visitors use the website and helps create an analytical report on how the website is performing. The data collected, including the number of visitors, the source from which they came and the pages, appeared anonymously."
+                                                    },
+                                                    {
+                                                        name: '_gid',
+                                                        domain: 'google.com',
+                                                        vencimiento: "24 hours",
+                                                        desc: "Google Universal Analytics sets these cookies to slow down the request rate and limit data collection on high-traffic sites."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            title: "More information",
+                                            description: "Any questions or concerns regarding the cookie policy, please <a class=\"cc-link\" href=\"\/contacto\">contact us<\/a>."
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        </script>
+    
+        <header class="site-header">
+            
+    
+    
+        <section class="site-header__container">
+            <nav>
+                <span class="site-header__logos">
+                    <a class="site-header__logo site-header__logo--portal" href="/">
+                        <img src="/img/logo-a41eeda6d21dfaa1b863a086b230aa03.png" alt="Research Portal Logo: Universidad de Oviedo"/>
+                    </a>
+                    <a target="_blank" class="site-header__logo site-header__logo--parent" href="https://www.uniovi.es/">
+                        <img src="/img/parent-logo-20d80e325a34b9860623f288c21b34ef.png" alt="Logo: Universidad de Oviedo"/>
+                    </a>
+                </span>
+                <span class="site-header__push"></span>
+                
+        <span class="site-header__authentication" >
+            <span class="site-header__login">
+                <a class="site-header__link" rel="nofollow" href="/sso/login?redirect_uri=https://portalinvestigacion.uniovi.es/grupos/13969/detalle">Sign in</a>
+
+                
+            </span>
+        </span>
+    
+            </nav>
+        </section>
+        
+
+
+        </header>
+
+        <nav class="site-navbar">
+            
+    
+    
+        <div class="site-navbar__container">
+            <div class="site-navbar__links">
+                <a class="navbar__grupos" href="/grupos">Groups</a>
+                <a class="navbar__investigadores" href="/investigadores">Researchers</a>   
+                <a class="navbar__proyectos" href="/financiaciones">Funding</a>
+                <a class="navbar__produccion" href="/resultados">Results</a>              
+            </div>
+        </div>
+    
+
+
+
+
+
+        </nav>
+
+        <main class="content">            
+            
+            
+            
+        <div class="content-header">
+            <div class="content-header__container">
+                <div class="grupo-header__content">
+                    
+                    <div class="grupo-nombre">
+                        <h1 class="original"><span class="original">CeCodet</span></h1>
+                        <h2>Centro de Cooperación y Desarrollo Territorial de la Universidad de Oviedo</h2>
+                    </div>
+                    
+                </div>
+                <div class="c-tabs">
+                    
+                        
+                        <a class="c-tabs__tab c-tabs__tab--current"
+                           href="/grupos/13969/detalle">Detail</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/lineas">Research lines</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/ofertas">Scientific offering</a>
+
+                    
+                        
+                        
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/financiacion">Funding</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/publicaciones">Publications</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/colaboracion">Collaboration</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/tesis">Theses</a>
+
+                    
+                        
+                        
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/13969/indicadores">Metrics</a>
+
+                    
+                </div>
+
+                <!--<a th:if="${owner}"
+                   class="c-tabs__tab c-tabs__tab&#45;&#45;account"
+                   href="#" th:href="${@environment.getProperty('pciencia-account.url')}"><span th:text="#{'grupo.link.account'}">Editar</span></a>-->
+
+            </div>
+        </div>
+               
+            <div class="main-content">
+                <section class="grupo-detalles">               
+                    <div class="grupo-detalles__imagen">
+                        <img src="/img/grupo-f008a4e99d3411796790f841bfcf55ea.png" width="100%" alt="Centro de Cooperación y Desarrollo Territorial de la Universidad de Oviedo"/>
+                    </div>
+
+                    <div class="grupo-detalles__detalles">
+
+
+                        <p class="grupo-detalles__detalle"><span>Date of inception</span> <span>28 June 2012</span></p>
+
+                        
+
+                        <p class="grupo-detalles__detalle">
+                            <span>Leader</span>:
+                            <span class="item"><a href="/investigadores/218363/detalle"><span>FERMIN RODRIGUEZ GUTIERREZ</span></a></span>
+                        </p>
+
+                        
+
+                                        
+                        
+                        <p class="grupo-detalles__detalle">
+                            <span>Website</span>:
+                            <a href="https://www.unioviedo.es/cecodet"><span>https://www.unioviedo.es/cecodet</span></a>
+                        </p>
+                        
+                        
+                        
+                        
+                    </div>
+
+                </section>
+
+                
+        
+    
+
+                <section id="grupo-detalles-descripcion">
+                    <div>
+                        
+                    </div>
+                </section>
+
+                
+        
+    
+
+                <section id="miembros" class="grupo-miembros">
+                    <h2 class="section-title section-title--filterable">
+                        <span>Researchers</span>
+
+                        <div class="c-filter">
+                            <button class="c-filter__btn btn btn-secondary">Filter</button>
+                            <input class="c-filter__size" type="hidden" name="size" value="34"/>
+                            <input class="c-filter__input" placeholder="Filter by first and last name" name="termino" type="text" style="display:none;" aria-label="Filter by first and last name" />
+                            <script type="text/javascript">
+                                $(document).ready(function () {
+                                    new FilterComponent("miembros/filtrar", "personas", "#miembros", ".grupo-miembros__item").init();
+                                });
+                            </script>
+                        </div>
+                    </h2>
+
+                    <div class="grupo-miembros__items">
+                        <div data-id="218363" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218363/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de FERMIN"
+                                             title="Foto de FERMIN" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218363/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">FERMIN</div>
+                                        <div class="c-persona-card__apellidos">RODRIGUEZ GUTIERREZ</div>
+                                    </a>
+                                    <div class="c-persona-card__rol">Leader</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219153" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219153/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de JOSE LUIS"
+                                             title="Foto de JOSE LUIS" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219153/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JOSE LUIS</div>
+                                        <div class="c-persona-card__apellidos">GARCIA SUAREZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218822" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218822/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de BENJAMIN"
+                                             title="Foto de BENJAMIN" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218822/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">BENJAMIN</div>
+                                        <div class="c-persona-card__apellidos">GONZALEZ DIAZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219141" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219141/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de JOSE ANTONIO"
+                                             title="Foto de JOSE ANTONIO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219141/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JOSE ANTONIO</div>
+                                        <div class="c-persona-card__apellidos">GONZALEZ DIAZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2373272" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2373272/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de CRISTINA"
+                                             title="Foto de CRISTINA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2373272/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">CRISTINA</div>
+                                        <div class="c-persona-card__apellidos">PULGAR DÍAZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                
+        
+    
+
+                <section>
+                    <h2 class="section-title">Classifications</h2>
+                    <ul class="grupo-clasificaciones">     
+                        <li>
+                            <span>area-cct: </span>
+                            <span>S-84 URBANISMO, </span><span>C-29 PLANIFICACIÓN URBANA, </span><span>S-86 ORDENACIÓN DEL TERRITORIO, </span><span>S-82 GEOGRAFÍA POLÍTICA Y ECONÓMICA, </span><span>Y-06 RECURSOS NATURALES, </span><span>S-80 GEOGRAFÍA</span>
+                        </li>
+                    </ul>
+                    <ul class="grupo-clasificaciones">     
+                        <li>
+                            <span>area-rama-conocimiento: </span>
+                            <span>Artes y Humanidades</span>
+                        </li>
+                    </ul>
+                </section>
+
+                
+        
+    
+
+                <section class="grupo-miembros">
+                    <h2 class="section-title">Contributors</h2>
+
+                    <div class="grupo-miembros__items">
+                        <div data-id="219395" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219395/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de MONICA"
+                                             title="Foto de MONICA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219395/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MONICA</div>
+                                        <div class="c-persona-card__apellidos">ALMEIDA LOPEZ</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219396" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219396/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ROCIO MARGARITA"
+                                             title="Foto de ROCIO MARGARITA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219396/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ROCIO MARGARITA</div>
+                                        <div class="c-persona-card__apellidos">CACHO CRUZ</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="2355144" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/2355144/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de URIEL"
+                                             title="Foto de URIEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/2355144/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">URIEL</div>
+                                        <div class="c-persona-card__apellidos">COY VERANO</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1205495" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1205495/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ANDRES RAMON"
+                                             title="Foto de ANDRES RAMON" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1205495/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ANDRES RAMON</div>
+                                        <div class="c-persona-card__apellidos">DE LAS MERCEDES</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219400" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219400/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de CRISTINA"
+                                             title="Foto de CRISTINA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219400/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">CRISTINA</div>
+                                        <div class="c-persona-card__apellidos">ENGEL DE ALVAREZ</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219405" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219405/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de Mª CONCEPCION"
+                                             title="Foto de Mª CONCEPCION" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219405/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">Mª CONCEPCION</div>
+                                        <div class="c-persona-card__apellidos">ESCOBEDO GONZALEZ</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219406" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219406/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de JOSE ANGEL"
+                                             title="Foto de JOSE ANGEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219406/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JOSE ANGEL</div>
+                                        <div class="c-persona-card__apellidos">FERNANDEZ PRIETO</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1205494" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1205494/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALFREDO HENRY"
+                                             title="Foto de ALFREDO HENRY" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1205494/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALFREDO HENRY</div>
+                                        <div class="c-persona-card__apellidos">HIDALGO RASMUSSEN</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1205485" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1205485/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de LEONARDO JOSE"
+                                             title="Foto de LEONARDO JOSE" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1205485/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">LEONARDO JOSE</div>
+                                        <div class="c-persona-card__apellidos">ROMERO OLIVEIRA</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1205487" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1205487/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALVARO IVES"
+                                             title="Foto de ALVARO IVES" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1205487/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALVARO IVES</div>
+                                        <div class="c-persona-card__apellidos">VALVERDE GARNICA</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219402" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219402/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ROBERTO"
+                                             title="Foto de ROBERTO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219402/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ROBERTO</div>
+                                        <div class="c-persona-card__apellidos">ZEDDA</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </section>
+
+                <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    
+
+    
+</html>
+
+
+                <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    
+    
+    <section class="publicaciones-topics-topn">
+        <h2 class="section-title">
+            <span>beta</span>
+            Prevailing specialties (top 10)
+            <a href="#" class="publicaciones-topics-topn-help">
+                <small>Obtained from publications <i class="material-icons">help</i></small>
+            </a>
+            <div class="publicaciones-topics-topn-help publicaciones-topics-topn-help-detail">
+                <small>Obtained from publications</small>
+                <p>The displayed thematic specialties have been obtained through the application of artificial intelligence models, derived as a result of the Hercules Project from those publications with an abstract, provided that the record does not come from commercial databases, which impose restrictions on data usage.</p>
+                <footer class="publicaciones-topics-topn-help-disclaimer">The list may contain errors. Under evaluation and improvement. Shared to gather community suggestions.</footer>
+            </div>
+        </h2>
+        <ol>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Geography,%20Planning%20and%20Development" title='Filter publications by &quot;Geography, Planning and Development&quot;' style="width: 100%">
+                    Geography, Planning and Development (Social Sciences) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="29" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Urban%20Studies" title='Filter publications by &quot;Urban Studies&quot;' style="width: 48%">
+                    Urban Studies (Social Sciences) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="14" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Geology" title='Filter publications by &quot;Geology&quot;' style="width: 24%">
+                    Geology (Earth and Planetary Sciences) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="7" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Education" title='Filter publications by &quot;Education&quot;' style="width: 17%">
+                    Education (Social Sciences) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="5" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Social%20Psychology" title='Filter publications by &quot;Social Psychology&quot;' style="width: 17%">
+                    Social Psychology (Psychology) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="5" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Civil%20and%20Structural%20Engineering" title='Filter publications by &quot;Civil and Structural Engineering&quot;' style="width: 13%">
+                    Civil and Structural Engineering (Engineering) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="4" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Global%20and%20Planetary%20Change" title='Filter publications by &quot;Global and Planetary Change&quot;' style="width: 13%">
+                    Global and Planetary Change (Environmental Science) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="4" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=History" title='Filter publications by &quot;History&quot;' style="width: 13%">
+                    History (Arts and Humanities) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="4" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Applied%20Psychology" title='Filter publications by &quot;Applied Psychology&quot;' style="width: 10%">
+                    Applied Psychology (Psychology) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="3" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Developmental%20and%20Educational%20Psychology" title='Filter publications by &quot;Developmental and Educational Psychology&quot;' style="width: 10%">
+                    Developmental and Educational Psychology (Psychology) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="3" style="width: 100%"></span>                    
+                </a>
+            </li>
+        </ol>        
+    </section>
+</html> 
+
+
+                
+        
+    
+                
+                <section id="ex-miembros" class="grupo-miembros">
+                    <h2 class="section-title section-title--filterable">
+                        Former members (18)  
+                    </h2>
+                    <ul >
+                        <li data-id="216733">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/216733/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">AGULLO TOMAS,</span>
+                                    <span class="c-persona-card__nombre">ESTEBAN</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="216877">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/216877/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ALVARGONZALEZ RODRIGUEZ,</span>
+                                    <span class="c-persona-card__nombre">RAMON MARIA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2024</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219391">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219391/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">CASTRO CASTAÑEDA,</span>
+                                    <span class="c-persona-card__nombre">REMBERTO</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219399">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219399/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">DELFOUR,</span>
+                                    <span class="c-persona-card__nombre">CHRISTINE</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219405">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219405/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ESCOBEDO GONZALEZ,</span>
+                                    <span class="c-persona-card__nombre">Mª CONCEPCION</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219406">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219406/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">FERNANDEZ PRIETO,</span>
+                                    <span class="c-persona-card__nombre">JOSE ANGEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2012</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="217420">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/217420/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GARCIA HERNANDEZ,</span>
+                                    <span class="c-persona-card__nombre">CRISTINA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2019</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219397">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219397/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GARCIA RODRIGUEZ,</span>
+                                    <span class="c-persona-card__nombre">JOSE LEON</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219393">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219393/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HERNANDEZ GONZALEZ,</span>
+                                    <span class="c-persona-card__nombre">EDUARDO</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219404">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219404/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HIDALGO TUÑON,</span>
+                                    <span class="c-persona-card__nombre">ALBERTO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219394">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219394/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">MEDINA CENTENO,</span>
+                                    <span class="c-persona-card__nombre">RAUL</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219401">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219401/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">MENENDEZ FERNANDEZ,</span>
+                                    <span class="c-persona-card__nombre">RAFAEL</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219403">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219403/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">NEL-LO COLOM,</span>
+                                    <span class="c-persona-card__nombre">ORIOL</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218362">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218362/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">RODRIGUEZ GUTIERREZ,</span>
+                                    <span class="c-persona-card__nombre">CESAR</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2014</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219392">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219392/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ROJAS PAREDES,</span>
+                                    <span class="c-persona-card__nombre">ROSA</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219398">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219398/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ROMERO GONZALEZ,</span>
+                                    <span class="c-persona-card__nombre">JUAN</span></a>                             
+                                
+                                <span class="c-persona-card__rol">Contributor</span>
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219670">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219670/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">RUIZ FERNANDEZ,</span>
+                                    <span class="c-persona-card__nombre">JESUS</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218619">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218619/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">TOME FERNANDEZ,</span>
+                                    <span class="c-persona-card__nombre">SERGIO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2012</span><span class="fechaFin">2022</span></span>
+                            </span>                       
+                        </li>
+                    </ul>
+                </section>
+
+                
+        
+    
+
+
+            </div>
+
+        
+        </main>
+
+        <nav class="site-navfooter">
+            
+    
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <ul>
+                        
+                        <li><a href="/contacto">Contact</a></li>
+                        
+                        <li><a href="/aviso_legal">Legal notice</a></li>
+                        <li><a href="/mapa_sitio">Site map</a></li>
+                        
+                    </ul>                                        
+                </div>
+                <div>
+        <div class="c-langselect">
+            <a href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle" tabindex="0" class="c-langselect--trigger" title="Change language">
+                <i class="material-icons material-icons--translate">translate</i> en <i class="material-icons">arrow_drop_down</i>
+            </a>
+            
+            <div class="mdc-menu mdc-menu-surface">
+                <div class="mdc-list">
+                    <a href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=en" title="English">
+                        <i class="material-icons material-icons--translate">translate</i> en <i class="material-icons">arrow_drop_down</i>
+                    </a>
+                    <a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=es"
+                       data-lang="es"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Español">
+                        es
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=ca"
+                       data-lang="ca"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Català i valencià">
+                        ca
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=eu"
+                       data-lang="eu"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Euskara">
+                        eu
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=gl"
+                       data-lang="gl"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Galego">
+                        gl
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=en"
+                       data-lang="en"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="English">
+                        en
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=fr"
+                       data-lang="fr"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Francais">
+                        fr
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/13969/detalle?lang=de"
+                       data-lang="de"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Deutsch">
+                        de
+                    </a>
+                </div>
+            </div>
+        </div>        
+    </div>
+            </div>
+        </div>
+    
+
+        </nav>
+        <footer class="site-footer">
+            
+    
+    
+        <section class="site-footer__container">
+            <div class="site-footer__inner">
+                <div class="site-footer__column">
+                    <span class="site-footer__column-title">Relevants</span>
+                    <ul class="site-footer__nav">
+                        <li><a target="_blank" href="https://www.uniovi.es/">Oviedo University</a></li>
+                        <li><a target="_blank" href="https://buo.uniovi.es/">Library</a></li>
+                        <li><a target="_blank" href="https://digibuo.uniovi.es/dspace/">RUO</a></li>
+                        <li><a target="_blank" href="https://accesoabiertouniovi.wordpress.com/">Blog Difunde Uniovi</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer__column">
+                    <span class="site-footer__column-title">Research</span>
+                    <ul class="site-footer__nav">
+                        <li><a target="_blank" href="https://www.uniovi.es/en/conocenos/gobierno/vicerrectorados/investigacion">Research Vice-rectorate</a></li>
+                        <li><a target="_blank" href="https://www.uniovi.es/conocenos/gobierno/vicerrectorados/transferencia">Knowledge Transfer Vice-rectorate</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer__column">
+                    
+
+    
+        <div class="site-footer__column--social">
+            <span class="site-footer__column-title">UniOvi in the network</span>
+            <ul>
+                <li>
+                    <a target="_blank" href="https://www.facebook.com/UniversidadOviedo">
+                        <img src="/img/social/facebook.png" alt="Facebook"/>
+                        Facebook
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://bsky.app/profile/universidadoviedo.bsky.social">
+                        <img src="/img/social/bsky.png" alt="BlueSky"/>
+                        BlueSky
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.instagram.com/accounts/login/?next=/universidad_de_oviedo/">
+                        <img src="/img/social/instagram.png" alt="Instagram"/>
+                        Instagram
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.youtube.com/user/uniovi">
+                        <img src="/img/social/youtube.png" alt="Youtube"/>
+                        Youtube
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.linkedin.com/school/uniovi/mycompany/verification/">
+                        <img src="/img/social/linkedin.png" alt="LinkedIn"/>
+                        LinkedIn
+                    </a>
+                </li>
+            </ul>
+        </div>
+    
+    
+
+                </div>
+            </div>
+            <div class="site-footer__colaboracion">
+                <p>With the collaboration of: </p>
+                <div class="site-footer__logo">
+                    <img src="/img/ministerio-fecyt-con-banderas-01_JPG.jpg" alt="Logo Ministerio Fecyt"/>
+                </div>
+            </div>
+        </section>
+    
+    
+
+            
+    
+    
+        <div class="site-actualizacion__container">
+            <div class="info-container">
+                Data updated as of:
+                16-07-2026
+                <i class="material-icons">info</i>
+                <div class="info-content">
+                    <p>Portal documents are updated daily. This date refers to the updating of information related to the portal structure (people, research groups, organizational units, projects...).</p>
+                </div>
+            </div>
+        </div>
+    
+
+            
+    
+    
+        <div class="site-footer__copyright">
+            <div>
+                <span>CRIS project developed in collaboration with <strong><a target="_blank" href="https://fundaciondialnet.unirioja.es/" class="externo">Fundación Dialnet</a> (<a target="_blank" href="https://www.unirioja.es/" class="externo">University of La Rioja</a>)</strong></span>
+            </div>
+        </div>       
+        
+
+
+        </footer>
+
+        
+
+
+
+
+
+
+        
+
+    
+
+    
+    
+
+        
+    </body>
+</html>

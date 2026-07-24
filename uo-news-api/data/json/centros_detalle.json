@@ -1,0 +1,4576 @@
+[
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47857/investigadores",
+    "nombre_centro": "Centro de Cooperación y Desarrollo Territorial",
+    "periodo": "Effective from 2012",
+    "investigadores": [
+      {
+        "nombre": "ESTEBAN AGULLO TOMAS",
+        "email": "estomas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216733/detalle"
+      },
+      {
+        "nombre": "JOSE ALBA ALONSO",
+        "email": "jalba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216739/detalle"
+      },
+      {
+        "nombre": "ALEJANDRA BOTO ALVAREZ",
+        "email": "botoalejandra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216844/detalle"
+      },
+      {
+        "nombre": "ROCIO MARGARITA CACHO CRUZ",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219396/detalle"
+      },
+      {
+        "nombre": "RAFAEL VICENTE CASTRO DELGADO",
+        "email": "castrorafael@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217253/detalle"
+      },
+      {
+        "nombre": "URIEL COY VERANO",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355144/detalle"
+      },
+      {
+        "nombre": "MIRIAM CUETO PEREZ",
+        "email": "mcuetop@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217081/detalle"
+      },
+      {
+        "nombre": "CRISTINA ENGEL DE ALVAREZ",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219400/detalle"
+      },
+      {
+        "nombre": "ANTONIO FERNANDEZ FERNANDEZ",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1931688/detalle"
+      },
+      {
+        "nombre": "FELIPE FERNANDEZ GARCIA",
+        "email": "felipe@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217048/detalle"
+      },
+      {
+        "nombre": "CRISTINA GARCIA HERNANDEZ",
+        "email": "garciahcristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217420/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS GARCIA SUAREZ",
+        "email": "jlgarcia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219153/detalle"
+      },
+      {
+        "nombre": "BENJAMIN GONZALEZ DIAZ",
+        "email": "gonzalezbenjamin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218822/detalle"
+      },
+      {
+        "nombre": "MARTA HERRAN ALONSO",
+        "email": "herranmarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219200/detalle"
+      },
+      {
+        "nombre": "ALFREDO HENRY HIDALGO RASMUSSEN",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205494/detalle"
+      },
+      {
+        "nombre": "JOSE ANTONIO LLOSA FERNANDEZ",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1095916/detalle"
+      },
+      {
+        "nombre": "ALFONSO GERONIMO LOZANO MARTINEZ LUENGAS",
+        "email": "alozano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217801/detalle"
+      },
+      {
+        "nombre": "RAUL MEDINA CENTENO",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219394/detalle"
+      },
+      {
+        "nombre": "SARA MENENDEZ ESPINA",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1095917/detalle"
+      },
+      {
+        "nombre": "ARMANDO MENENDEZ VISO",
+        "email": "amv@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218237/detalle"
+      },
+      {
+        "nombre": "JOSE ANTONIO PEREZ MENDEZ",
+        "email": "japerez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218137/detalle"
+      },
+      {
+        "nombre": "CRISTINA PULGAR DÍAZ",
+        "email": "pulgarcristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2373272/detalle"
+      },
+      {
+        "nombre": "CESAR RODRIGUEZ GUTIERREZ",
+        "email": "crodri@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218362/detalle"
+      },
+      {
+        "nombre": "FERMIN RODRIGUEZ GUTIERREZ",
+        "email": "farragut@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218363/detalle"
+      },
+      {
+        "nombre": "CARMEN RODRIGUEZ PEREZ",
+        "email": "crperez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218642/detalle"
+      },
+      {
+        "nombre": "JULIO RODRIGUEZ SUAREZ",
+        "email": "rodriguezsjulio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218656/detalle"
+      },
+      {
+        "nombre": "LEONARDO JOSE ROMERO OLIVEIRA",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205485/detalle"
+      },
+      {
+        "nombre": "JESUS RUIZ FERNANDEZ",
+        "email": "ruizjesus@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219670/detalle"
+      },
+      {
+        "nombre": "LEOPOLDO TOLIVAR ALAS",
+        "email": "ltolivar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218615/detalle"
+      },
+      {
+        "nombre": "ALVARO IVES VALVERDE GARNICA",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205487/detalle"
+      }
+    ],
+    "acronimo": "CeCodet"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47868/investigadores",
+    "nombre_centro": "Centro de Estudios sobre el Impacto Social de la Inteligencia Artificial",
+    "periodo": "Effective from 2023",
+    "investigadores": [
+      {
+        "nombre": "ALVARO AGUILAR GONZALEZ",
+        "email": "aguilaralvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216730/detalle"
+      },
+      {
+        "nombre": "MARLEN ALONSO CASTAÑO",
+        "email": "alonsomarlen@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219313/detalle"
+      },
+      {
+        "nombre": "ANA ALONSO GARCIA",
+        "email": "alonsoana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216756/detalle"
+      },
+      {
+        "nombre": "PEDRO ALONSO VELAZQUEZ",
+        "email": "palonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216770/detalle"
+      },
+      {
+        "nombre": "DIEGO ALVAREZ ALONSO",
+        "email": "diegoalonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216774/detalle"
+      },
+      {
+        "nombre": "ANA ROSA ARGUELLES BLANCO",
+        "email": "anaargue@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216909/detalle"
+      },
+      {
+        "nombre": "JUAN BAZ GONZALEZ",
+        "email": "bazjuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216797/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS BELVER DOMINGUEZ",
+        "email": "belverjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216804/detalle"
+      },
+      {
+        "nombre": "ALEJANDRA BOTO ALVAREZ",
+        "email": "botoalejandra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216844/detalle"
+      },
+      {
+        "nombre": "MANUEL JAVIER CALLEJO GALLEGO",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220096/detalle"
+      },
+      {
+        "nombre": "SORAYA CALVO GONZALEZ",
+        "email": "calvosoraya@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216958/detalle"
+      },
+      {
+        "nombre": "TONI ROGER CAMPIONE",
+        "email": "campione@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216966/detalle"
+      },
+      {
+        "nombre": "MARIA ANTONIA CASTRO ARGUELLES",
+        "email": "mcastro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217252/detalle"
+      },
+      {
+        "nombre": "ELENA DIAZ RODRIGUEZ",
+        "email": "elenadr@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217123/detalle"
+      },
+      {
+        "nombre": "SUSANA IRENE DIAZ RODRIGUEZ",
+        "email": "sirene@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217124/detalle"
+      },
+      {
+        "nombre": "SUSANA DIAZ VAZQUEZ",
+        "email": "diazsusana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217128/detalle"
+      },
+      {
+        "nombre": "ANGEL ESPINIELLA MENENDEZ",
+        "email": "espiniell@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217169/detalle"
+      },
+      {
+        "nombre": "SERGIO FERNANDEZ ALONSO",
+        "email": "fernandezalosergio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217015/detalle"
+      },
+      {
+        "nombre": "MARIA DEL MAR FERNANDEZ ALVAREZ",
+        "email": "fernandezmar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217019/detalle"
+      },
+      {
+        "nombre": "IGNACIO FERNANDEZ CHACON",
+        "email": "ichacon@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217028/detalle"
+      },
+      {
+        "nombre": "ALBERTO FERNANDEZ COSTALES",
+        "email": "fernandezcalberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217029/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER FERNANDEZ RIO",
+        "email": "javier.rio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217503/detalle"
+      },
+      {
+        "nombre": "LUIS ANTONIO FERNANDEZ VILLAZON",
+        "email": "villazon@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217593/detalle"
+      },
+      {
+        "nombre": "JUAN RAMON FERREIRO GALGUERA",
+        "email": "juanferreiro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217606/detalle"
+      },
+      {
+        "nombre": "JAVIER FOMBONA CADAVIECO",
+        "email": "fombona@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217619/detalle"
+      },
+      {
+        "nombre": "REGINA HELENA FONSECA FORTES-FURTADO",
+        "email": "fortesregina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217621/detalle"
+      },
+      {
+        "nombre": "MARIA AQUILINA FUEYO GUTIERREZ",
+        "email": "mafueyo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219160/detalle"
+      },
+      {
+        "nombre": "ITZIAR GARCIA HONRADO",
+        "email": "garciaitziar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217421/detalle"
+      },
+      {
+        "nombre": "PATRICIA GARCIA MAJADO",
+        "email": "garciampatricia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217426/detalle"
+      },
+      {
+        "nombre": "MARTA SOLEDAD GARCIA RODRIGUEZ",
+        "email": "martagar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219152/detalle"
+      },
+      {
+        "nombre": "MARIA JOSE GARCIA SALGADO",
+        "email": "salgado@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217454/detalle"
+      },
+      {
+        "nombre": "ALBA GARCIA TORRES",
+        "email": "garciatalba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217461/detalle"
+      },
+      {
+        "nombre": "PABLO GIADAS ALVAREZ",
+        "email": "giadaspablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217485/detalle"
+      },
+      {
+        "nombre": "JUAN GONZALEZ AYESTA",
+        "email": "gonzalezajuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217334/detalle"
+      },
+      {
+        "nombre": "CELESTINO GONZALEZ GONZALEZ",
+        "email": "tinog@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217364/detalle"
+      },
+      {
+        "nombre": "MARIA AMPARO GONZALEZ RUA",
+        "email": "mgrua@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217916/detalle"
+      },
+      {
+        "nombre": "SONIA GONZALEZ SOLARES",
+        "email": "soniagsolares@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217922/detalle"
+      },
+      {
+        "nombre": "TIM HAMMRICH",
+        "email": "hammrichtim@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219197/detalle"
+      },
+      {
+        "nombre": "NURIA HERNANDEZ NANCLARES",
+        "email": "nhernan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217899/detalle"
+      },
+      {
+        "nombre": "PEDRO HUIDOBRO FERNANDEZ",
+        "email": "huidobropedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218706/detalle"
+      },
+      {
+        "nombre": "MARTA IBAÑEZ PASCUAL",
+        "email": "mibanez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217999/detalle"
+      },
+      {
+        "nombre": "MARIA DE LAS MERCEDES INDA CARO",
+        "email": "indamaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217648/detalle"
+      },
+      {
+        "nombre": "STEFANIE JOHN",
+        "email": "johnstefanie@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217662/detalle"
+      },
+      {
+        "nombre": "DANIEL JOVE VILLARES",
+        "email": "jovedaniel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2354706/detalle"
+      },
+      {
+        "nombre": "ENOL JUNQUERA ALVAREZ",
+        "email": "junqueraenol@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217666/detalle"
+      },
+      {
+        "nombre": "CRISTINA ISABEL LOPEZ LOPEZ",
+        "email": "lopezisabel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218759/detalle"
+      },
+      {
+        "nombre": "MARCOS LOREDO COLUNGA",
+        "email": "loredomarcos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217793/detalle"
+      },
+      {
+        "nombre": "MARIA ESTHER LORENZO FERNANDEZ",
+        "email": "lorenzomaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217797/detalle"
+      },
+      {
+        "nombre": "IRENE MARIÑAS DEL COLLADO",
+        "email": "marinasirene@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217932/detalle"
+      },
+      {
+        "nombre": "DAVID MENENDEZ ALVAREZ-HEVIA",
+        "email": "menendezdavid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217837/detalle"
+      },
+      {
+        "nombre": "EVA MARIA MENENDEZ SEBASTIAN",
+        "email": "menendezeva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218231/detalle"
+      },
+      {
+        "nombre": "SUSANA MONTES RODRIGUEZ",
+        "email": "montes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218267/detalle"
+      },
+      {
+        "nombre": "MARIA ESTHER DEL MORAL PEREZ",
+        "email": "emoral@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218269/detalle"
+      },
+      {
+        "nombre": "LAURA MUÑIZ RODRIGUEZ",
+        "email": "munizlaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218191/detalle"
+      },
+      {
+        "nombre": "LUCIA PAYERO LOPEZ",
+        "email": "payerolucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218095/detalle"
+      },
+      {
+        "nombre": "CRISTIAN PEREZ GARCIA",
+        "email": "perezgcristian@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301778/detalle"
+      },
+      {
+        "nombre": "MIGUEL ANGEL PRESNO LINERA",
+        "email": "presno@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218008/detalle"
+      },
+      {
+        "nombre": "JORGE PUENTE PEINADOR",
+        "email": "puente@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218022/detalle"
+      },
+      {
+        "nombre": "CARMEN QUIJADA DIEZ",
+        "email": "quijadacarmen@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218029/detalle"
+      },
+      {
+        "nombre": "NOELIA RICO PACHON",
+        "email": "noeliarico@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219278/detalle"
+      },
+      {
+        "nombre": "VANESA RODRIGUEZ ALVAREZ",
+        "email": "rodriguezvanesa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218337/detalle"
+      },
+      {
+        "nombre": "IVAN ANTONIO RODRIGUEZ CARDO",
+        "email": "rodriguezivan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218340/detalle"
+      },
+      {
+        "nombre": "ALFONSO CARLOS RODRIGUEZ FERNANDEZ-PEÑA",
+        "email": "rodriguezalfonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218353/detalle"
+      },
+      {
+        "nombre": "Alejandro Rodriguez-Martín",
+        "email": "rodriguezmalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218174/detalle"
+      },
+      {
+        "nombre": "ADAN RODRIGUEZ MARTINEZ",
+        "email": "rodriguezadan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010408/detalle"
+      },
+      {
+        "nombre": "LUIS JOSE RODRIGUEZ MUÑIZ",
+        "email": "luisj@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218181/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CAMINO RODRIGUEZ VELA",
+        "email": "crvela@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218659/detalle"
+      },
+      {
+        "nombre": "SUSANA SANCHEZ CASTRO",
+        "email": "sanchezsusana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218381/detalle"
+      },
+      {
+        "nombre": "JUAN JOSE SANTA ENGRACIA DE PEDRO",
+        "email": "juanjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010417/detalle"
+      },
+      {
+        "nombre": "JUSTINE AGNES CORINE SCARLAKEN",
+        "email": "scarlakenjustine@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452968/detalle"
+      },
+      {
+        "nombre": "MARIA RITA SIERRA SANCHEZ",
+        "email": "sierramaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218435/detalle"
+      },
+      {
+        "nombre": "PELAYO SUAREZ DOSANTOS",
+        "email": "suarezdpelayo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452971/detalle"
+      },
+      {
+        "nombre": "SARA SUAREZ FERNANDEZ",
+        "email": "sfernandezsara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1283427/detalle"
+      },
+      {
+        "nombre": "CARMELA SUAREZ GONZALEZ",
+        "email": "carmelasuarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301839/detalle"
+      },
+      {
+        "nombre": "EMILIO TORRES MANZANERA",
+        "email": "torres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218624/detalle"
+      },
+      {
+        "nombre": "MARIA CRISTINA VALDES RODRIGUEZ",
+        "email": "cris@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219654/detalle"
+      },
+      {
+        "nombre": "SONIA VICTORIA VILLA SIEIRO",
+        "email": "villasonia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218524/detalle"
+      },
+      {
+        "nombre": "LOURDES VILLALUSTRE MARTINEZ",
+        "email": "villalustrelourdes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218528/detalle"
+      },
+      {
+        "nombre": "MARIO VILLAR SANZ",
+        "email": "villarmario@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010442/detalle"
+      },
+      {
+        "nombre": "AIDA ZAPICO LINARES",
+        "email": "zapicoaida@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219849/detalle"
+      }
+    ],
+    "acronimo": "CEISIA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47871/investigadores",
+    "nombre_centro": "Centro de Ingeniería Biomédica",
+    "periodo": "Effective from 2023",
+    "investigadores": [
+      {
+        "nombre": "JULIAN ALVAREZ DIAZ",
+        "email": "jad@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2497777/detalle"
+      },
+      {
+        "nombre": "DIEGO ALVAREZ PRIETO",
+        "email": "dalvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216862/detalle"
+      },
+      {
+        "nombre": "JAVIER DE ANDRES SUAREZ",
+        "email": "jdandres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216887/detalle"
+      },
+      {
+        "nombre": "ROSANA BADIA LAIÑO",
+        "email": "rbadia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217310/detalle"
+      },
+      {
+        "nombre": "DAVID BLANCO FERNANDEZ",
+        "email": "dbf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216822/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN BLANCO LOPEZ",
+        "email": "cblanco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216827/detalle"
+      },
+      {
+        "nombre": "ENRIQUE ANTONIO DE LA CAL MARIN",
+        "email": "delacal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217007/detalle"
+      },
+      {
+        "nombre": "NAHUEL ALEJANDRO COSTA CORTEZ",
+        "email": "costanahuel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217198/detalle"
+      },
+      {
+        "nombre": "ESTEFANIA COSTA RAMA",
+        "email": "costaestefania@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219684/detalle"
+      },
+      {
+        "nombre": "IGNACIO DIAZ BLANCO",
+        "email": "idiaz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217097/detalle"
+      },
+      {
+        "nombre": "JOSE MARIA ENGUITA GONZALEZ",
+        "email": "jmenguita@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217157/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA FERNANDEZ ABEDUL",
+        "email": "mtfernandeza@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217179/detalle"
+      },
+      {
+        "nombre": "BEATRIZ FERNANDEZ GARCIA",
+        "email": "fernandezbeatriz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217044/detalle"
+      },
+      {
+        "nombre": "SARA FERNANDEZ GARCIA",
+        "email": "fernandezgsara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2370664/detalle"
+      },
+      {
+        "nombre": "ALFONSO FERNANDEZ GONZALEZ",
+        "email": "fernandezgalfonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217058/detalle"
+      },
+      {
+        "nombre": "DANIEL FERNANDEZ LANVIN",
+        "email": "dflanvin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219112/detalle"
+      },
+      {
+        "nombre": "MARIA DEL ROCIO FERNANDEZ RODRIGUEZ",
+        "email": "rocio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217512/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA FERNANDEZ SANCHEZ",
+        "email": "mfernandez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217519/detalle"
+      },
+      {
+        "nombre": "IVAN FERNANDEZ VEGA",
+        "email": "fernandezvivan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217591/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER FERRERO MARTIN",
+        "email": "ferrero@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217609/detalle"
+      },
+      {
+        "nombre": "ENOL GARCIA GONZALEZ",
+        "email": "garciaenol@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217414/detalle"
+      },
+      {
+        "nombre": "PABLO GARCIA MARCOS",
+        "email": "garciamarpablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010304/detalle"
+      },
+      {
+        "nombre": "LUZ MAR GONZALEZ ARIAS",
+        "email": "luzmar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217502/detalle"
+      },
+      {
+        "nombre": "MARTIN GONZALEZ-RODRIGUEZ",
+        "email": "martin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217910/detalle"
+      },
+      {
+        "nombre": "Víctor M. González",
+        "email": "vmsuarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217925/detalle"
+      },
+      {
+        "nombre": "JOSE EMILIO LABRA GAYO",
+        "email": "labra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219176/detalle"
+      },
+      {
+        "nombre": "MARIA JESUS LAMELA REY",
+        "email": "mjesuslr@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217719/detalle"
+      },
+      {
+        "nombre": "TANIA LLANA FERNANDEZ",
+        "email": "llanatania@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010344/detalle"
+      },
+      {
+        "nombre": "LARA LOBO REVILLA",
+        "email": "lobolara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217747/detalle"
+      },
+      {
+        "nombre": "ANTONIO MIGUEL LOPEZ RODRIGUEZ",
+        "email": "amlopez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217780/detalle"
+      },
+      {
+        "nombre": "SANTIAGO MARTIN GONZALEZ",
+        "email": "martinsantiago@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217944/detalle"
+      },
+      {
+        "nombre": "MARTA MENDEZ LOPEZ",
+        "email": "mendezlmarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217830/detalle"
+      },
+      {
+        "nombre": "MANUEL MENENDEZ GONZALEZ",
+        "email": "menendezgmanuel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217847/detalle"
+      },
+      {
+        "nombre": "FERNANDO MONCADA MARTINS",
+        "email": "moncadafernando@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010373/detalle"
+      },
+      {
+        "nombre": "ANTONELLO NOVELLI CIOTTI",
+        "email": "anovelli@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218218/detalle"
+      },
+      {
+        "nombre": "MARIA ROSARIO PEREIRO GARCIA",
+        "email": "mrpereiro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218116/detalle"
+      },
+      {
+        "nombre": "SET PEREZ GONZALEZ",
+        "email": "perezset@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219226/detalle"
+      },
+      {
+        "nombre": "CARMEN QUIJADA DIEZ",
+        "email": "quijadacarmen@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218029/detalle"
+      },
+      {
+        "nombre": "ANGEL FRANCISCO DEL RIO ALVAREZ",
+        "email": "rioangel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218159/detalle"
+      },
+      {
+        "nombre": "JOSE IGNACIO RODRIGUEZ GARCIA",
+        "email": "rodriguezgjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218356/detalle"
+      },
+      {
+        "nombre": "RAMON RUBIO GARCIA",
+        "email": "rrubio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218678/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL SIERRA VELASCO",
+        "email": "jmsierra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218436/detalle"
+      },
+      {
+        "nombre": "LUCIA SOLARES FERNANDEZ",
+        "email": "solareslucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2356410/detalle"
+      },
+      {
+        "nombre": "RUBEN USAMENTIAGA FERNANDEZ",
+        "email": "rusamentiaga@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219653/detalle"
+      },
+      {
+        "nombre": "JOSE RAMON VILLAR FLECHA",
+        "email": "villarjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218531/detalle"
+      },
+      {
+        "nombre": "GERARD VILLARROYA PIQUE",
+        "email": "villarroyagerard@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219650/detalle"
+      },
+      {
+        "nombre": "CANDELA ZORZO VALLINA",
+        "email": "zorzocandela@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218498/detalle"
+      }
+    ],
+    "acronimo": "BME"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47865/investigadores",
+    "nombre_centro": "Centro Universitario de Investigación Asturias Raw Materials",
+    "periodo": "Effective from 2023",
+    "investigadores": [
+      {
+        "nombre": "CRISTINA ALLENDE PRIETO",
+        "email": "callende@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219312/detalle"
+      },
+      {
+        "nombre": "TERESA DE JESUS ALONSO SANCHEZ",
+        "email": "tjalonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219317/detalle"
+      },
+      {
+        "nombre": "PEDRO DOMINGO ALVAREZ LLORET",
+        "email": "pedroalvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216950/detalle"
+      },
+      {
+        "nombre": "JULIA MARIA AYALA ESPINA",
+        "email": "jayala@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217307/detalle"
+      },
+      {
+        "nombre": "MARCOS BARRIO ANTA",
+        "email": "barriomarcos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216791/detalle"
+      },
+      {
+        "nombre": "ASUNCION CAMARA OBREGON",
+        "email": "camara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216961/detalle"
+      },
+      {
+        "nombre": "JUAN MANUEL CUEVA LOVELLE",
+        "email": "cueva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219115/detalle"
+      },
+      {
+        "nombre": "MAIDA MARIA DOMAT RODRIGUEZ",
+        "email": "domatmaida@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217141/detalle"
+      },
+      {
+        "nombre": "JULIO MANUEL FERNANDEZ DIAZ",
+        "email": "julio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217031/detalle"
+      },
+      {
+        "nombre": "MARIA DE LOS ANGELES FERNANDEZ GONZALEZ",
+        "email": "mafernandez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217062/detalle"
+      },
+      {
+        "nombre": "BEGOÑA FERNANDEZ PEREZ",
+        "email": "fernandezbegona@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217331/detalle"
+      },
+      {
+        "nombre": "ROBERTO LUIS IGLESIAS PASTRANA",
+        "email": "roberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217643/detalle"
+      },
+      {
+        "nombre": "FERNANDO LOPEZ GAYARRE",
+        "email": "gayarre@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217768/detalle"
+      },
+      {
+        "nombre": "CARLOS ANTONIO LOPEZ SANCHEZ",
+        "email": "lopezscarlos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217782/detalle"
+      },
+      {
+        "nombre": "ALFONSO GERONIMO LOZANO MARTINEZ LUENGAS",
+        "email": "alozano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217801/detalle"
+      },
+      {
+        "nombre": "MANUEL MARIA MAHAMUD LOPEZ",
+        "email": "mahamud@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217818/detalle"
+      },
+      {
+        "nombre": "JUAN MARIA MENENDEZ AGUADO",
+        "email": "maguado@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217834/detalle"
+      },
+      {
+        "nombre": "CELESTINO ORDOÑEZ GALAN",
+        "email": "ordonezcelestino@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218053/detalle"
+      },
+      {
+        "nombre": "JAIME OREJAS IBAÑEZ",
+        "email": "orejasjaime@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218057/detalle"
+      },
+      {
+        "nombre": "JOAQUIN FRANCISCO PEDRAYES GONZALEZ",
+        "email": "pedrayesjoaquin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218098/detalle"
+      },
+      {
+        "nombre": "JORGE PISONERO CASTRO",
+        "email": "pisonerojorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218309/detalle"
+      },
+      {
+        "nombre": "JORGE ROCES GARCIA",
+        "email": "rocesjorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218327/detalle"
+      },
+      {
+        "nombre": "MIGUEL ANGEL RODRIGUEZ DIAZ",
+        "email": "mangelrd@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218344/detalle"
+      },
+      {
+        "nombre": "ALVARO RUBIO ORDOÑEZ",
+        "email": "rubioalvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218679/detalle"
+      },
+      {
+        "nombre": "LUIS ANGEL SAÑUDO FONTANEDA",
+        "email": "sanudoluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218417/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS VIESCA RODRIGUEZ",
+        "email": "viescajose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218516/detalle"
+      }
+    ],
+    "acronimo": "AsRaM"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47863/investigadores",
+    "nombre_centro": "Centro Universitario de Investigación y Desarrollo del Agua",
+    "periodo": "Effective from 2023",
+    "investigadores": [
+      {
+        "nombre": "TERESA DE JESUS ALONSO SANCHEZ",
+        "email": "tjalonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219317/detalle"
+      },
+      {
+        "nombre": "EDUARDO ALVAREZ ALVAREZ",
+        "email": "edualvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216777/detalle"
+      },
+      {
+        "nombre": "RODRIGO ALVAREZ GARCIA",
+        "email": "alvarezrodrigo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216940/detalle"
+      },
+      {
+        "nombre": "ALBA ARDURA GUTIERREZ",
+        "email": "arduraalba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216902/detalle"
+      },
+      {
+        "nombre": "RAUL BARRIO PEROTTI",
+        "email": "barrioraul@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216792/detalle"
+      },
+      {
+        "nombre": "EDUARDO BLANCO MARIGORTA",
+        "email": "eblanco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216828/detalle"
+      },
+      {
+        "nombre": "ANTONIO JAVIER CALLEJA RODRIGUEZ",
+        "email": "calleja@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216956/detalle"
+      },
+      {
+        "nombre": "RODOLFO ESPINA VALDES",
+        "email": "espinarodolfo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217168/detalle"
+      },
+      {
+        "nombre": "EFREN GARCIA ORDIALES",
+        "email": "garciaefren@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217438/detalle"
+      },
+      {
+        "nombre": "EVA GARCIA VAZQUEZ",
+        "email": "egv@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217465/detalle"
+      },
+      {
+        "nombre": "ADRIANA LACA PEREZ",
+        "email": "lacaadriana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217674/detalle"
+      },
+      {
+        "nombre": "AMANDA LACA PEREZ",
+        "email": "lacaamanda@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217675/detalle"
+      },
+      {
+        "nombre": "MARIO LOPEZ GALLEGO",
+        "email": "mario.lopez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217763/detalle"
+      },
+      {
+        "nombre": "ANTONIO NAVARRO MANSO",
+        "email": "navarroantonio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218207/detalle"
+      },
+      {
+        "nombre": "MARIA ALMUDENA ORDOÑEZ ALONSO",
+        "email": "aoalonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218052/detalle"
+      },
+      {
+        "nombre": "JORGE LUIS PARRONDO GAYO",
+        "email": "parrondo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218085/detalle"
+      },
+      {
+        "nombre": "MANUEL RICO SECADES",
+        "email": "mrico@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218150/detalle"
+      }
+    ],
+    "acronimo": "CUIDA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47861/investigadores",
+    "nombre_centro": "Instituto de Ciencias y Tecnologías Espaciales de Asturias",
+    "periodo": "Effective from 2019",
+    "investigadores": [
+      {
+        "nombre": "EVANGELOS AFXONIDIS",
+        "email": "afxonidisevangelos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010225/detalle"
+      },
+      {
+        "nombre": "BARBARA ALVAREZ GONZALEZ",
+        "email": "alvarezbarbara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218955/detalle"
+      },
+      {
+        "nombre": "JORGE AYLLON TORRESANO",
+        "email": "ayllonjorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116423/detalle"
+      },
+      {
+        "nombre": "LAURA BONAVERA",
+        "email": "bonaveralaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216836/detalle"
+      },
+      {
+        "nombre": "ALEJANDRO BUENDIA ROCA",
+        "email": "buendiaalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452993/detalle"
+      },
+      {
+        "nombre": "HUGO CALVO CASTRO",
+        "email": "calvohugo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301832/detalle"
+      },
+      {
+        "nombre": "JORGE CARBALLIDO LANDEIRA",
+        "email": "carballidojorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217227/detalle"
+      },
+      {
+        "nombre": "ANDREA CARDINI",
+        "email": "cardiniandrea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2014294/detalle"
+      },
+      {
+        "nombre": "IGNACIO CARREÑO BOLLA",
+        "email": "carrenoignacio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301857/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL CASAS GONZALEZ",
+        "email": "casasjm@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219009/detalle"
+      },
+      {
+        "nombre": "ANDREA CONTI",
+        "email": "contiandrea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452994/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER DE COS JUEZ",
+        "email": "fjcos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217196/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER CUEVAS MAESTRO",
+        "email": "fjcuevas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217085/detalle"
+      },
+      {
+        "nombre": "ENRIQUE DIEZ ALONSO",
+        "email": "diezenrique@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217133/detalle"
+      },
+      {
+        "nombre": "DANIEL ESTRADA ACEVEDO",
+        "email": "estradadaniel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301891/detalle"
+      },
+      {
+        "nombre": "JULIA MARIA FERNANDEZ DIAZ",
+        "email": "fernandezjulia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2356382/detalle"
+      },
+      {
+        "nombre": "ANTON FERNANDEZ FAEDO",
+        "email": "anton.faedo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218862/detalle"
+      },
+      {
+        "nombre": "JAVIER FERNANDEZ MENENDEZ",
+        "email": "fernandezmenjavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217636/detalle"
+      },
+      {
+        "nombre": "SUSANA DEL CARMEN FERNANDEZ MENENDEZ",
+        "email": "fernandezmsusana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217637/detalle"
+      },
+      {
+        "nombre": "GREGORIO FIDALGO VALVERDE",
+        "email": "gfidalgo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217612/detalle"
+      },
+      {
+        "nombre": "SANTIAGO FOLGUERAS GOMEZ",
+        "email": "folguerassantiago@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219169/detalle"
+      },
+      {
+        "nombre": "VALENTINA FRANCO VELASQUEZ",
+        "email": "francovalentina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301859/detalle"
+      },
+      {
+        "nombre": "ISIDRO GONZALEZ CABALLERO",
+        "email": "gonzalezisidro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217340/detalle"
+      },
+      {
+        "nombre": "CARLOS GONZALEZ GUTIERREZ",
+        "email": "gonzalezgcarlos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217370/detalle"
+      },
+      {
+        "nombre": "JOAQUIN GONZALEZ-NUEVO GONZALEZ",
+        "email": "gnuevo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217976/detalle"
+      },
+      {
+        "nombre": "JAVIER GRACIA RODRIGUEZ",
+        "email": "graciajavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217982/detalle"
+      },
+      {
+        "nombre": "JOSE ADOLFO GUARINO ALMEIDA",
+        "email": "adolfo.guarino@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217872/detalle"
+      },
+      {
+        "nombre": "CARLOS HOYOS BADAJOZ",
+        "email": "hoyoscarlos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219209/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER IGLESIAS RODRIGUEZ",
+        "email": "fjiglesias@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217644/detalle"
+      },
+      {
+        "nombre": "PELAYO LEGUINA LOPEZ",
+        "email": "leguinapelayo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452995/detalle"
+      },
+      {
+        "nombre": "HECTOR DE LLANOS LANCHARES",
+        "email": "llanoshector@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217741/detalle"
+      },
+      {
+        "nombre": "YOLANDA LOZANO GOMEZ",
+        "email": "ylozano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217800/detalle"
+      },
+      {
+        "nombre": "NIALL THOMAS MACPHERSON",
+        "email": "macphersonniall@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452999/detalle"
+      },
+      {
+        "nombre": "ANTONIO LUIS MARQUES SIERRA",
+        "email": "marquesantonio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218776/detalle"
+      },
+      {
+        "nombre": "PATRICK ANDREAS ANNA MEESSEN",
+        "email": "meessenpatrick@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218290/detalle"
+      },
+      {
+        "nombre": "JIMENA MENENDEZ MACO",
+        "email": "menendezjimena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452992/detalle"
+      },
+      {
+        "nombre": "LYSIANE PATRICIA KARINE MORNAS",
+        "email": "mornas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217863/detalle"
+      },
+      {
+        "nombre": "MARCOS MUÑIZ CUELI",
+        "email": "mcueli@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219072/detalle"
+      },
+      {
+        "nombre": "DANIELE MUSSO",
+        "email": "mussodaniele@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218201/detalle"
+      },
+      {
+        "nombre": "MIGUEL OBESO MENENDEZ",
+        "email": "obesomiguel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116422/detalle"
+      },
+      {
+        "nombre": "DANIEL PABLOS ALFONSO",
+        "email": "pablosdaniel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205489/detalle"
+      },
+      {
+        "nombre": "JOSE ENRIQUE PALENCIA CORTEZON",
+        "email": "enrique.palencia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218071/detalle"
+      },
+      {
+        "nombre": "NOEMI PINILLA ALONSO",
+        "email": "npinilla@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355302/detalle"
+      },
+      {
+        "nombre": "JAVIER PRADO PICO",
+        "email": "pradojavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452996/detalle"
+      },
+      {
+        "nombre": "JAVIER DEL RIEGO BADAS",
+        "email": "riegojavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116421/detalle"
+      },
+      {
+        "nombre": "PEDRO RIESGO FERNANDEZ",
+        "email": "priesgo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218156/detalle"
+      },
+      {
+        "nombre": "MARIA ADORACION RIOL DIEGO",
+        "email": "riolmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219283/detalle"
+      },
+      {
+        "nombre": "DIEGO RODRIGUEZ GOMEZ",
+        "email": "d.rodriguez.gomez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218358/detalle"
+      },
+      {
+        "nombre": "JAVIER RODRIGUEZ RODRIGUEZ",
+        "email": "rodriguezrjavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218884/detalle"
+      },
+      {
+        "nombre": "SERGIO SANCHEZ CRUZ",
+        "email": "sanchezcrusergio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219597/detalle"
+      },
+      {
+        "nombre": "FERNANDO SANCHEZ LASHERAS",
+        "email": "sanchezfernando@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218389/detalle"
+      },
+      {
+        "nombre": "MARIA LUISA SANCHEZ RODRIGUEZ",
+        "email": "mlsr@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218396/detalle"
+      },
+      {
+        "nombre": "JESUS DANIEL SANTOS RODRIGUEZ",
+        "email": "jdsantos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218412/detalle"
+      },
+      {
+        "nombre": "PABLO SOLER GOMIS",
+        "email": "solerpablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/327222/detalle"
+      },
+      {
+        "nombre": "RICARDO BENJAMIN ENRIQUE STUARDO TRONCOSO",
+        "email": "stuardoricardo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301885/detalle"
+      },
+      {
+        "nombre": "SERGIO LUIS SUAREZ GOMEZ",
+        "email": "suarezsergio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219656/detalle"
+      },
+      {
+        "nombre": "ANA SUAREZ SANCHEZ",
+        "email": "suarezana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219659/detalle"
+      },
+      {
+        "nombre": "LUIGI TOFFOLATTI BALLARIN",
+        "email": "ltoffolatti@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218613/detalle"
+      },
+      {
+        "nombre": "PIETRO VISCHIA",
+        "email": "vischia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/453002/detalle"
+      }
+    ],
+    "acronimo": "ICTEA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47874/investigadores",
+    "nombre_centro": "Instituto de Neurociencias del Principado de Asturias",
+    "periodo": "Effective from 2012",
+    "investigadores": [
+      {
+        "nombre": "SUSANA AL-HALABI DIAZ",
+        "email": "alsusana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216748/detalle"
+      },
+      {
+        "nombre": "JUAN CESAR ALVAREZ CARRILES",
+        "email": "alvarezjuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216918/detalle"
+      },
+      {
+        "nombre": "DIEGO ALVAREZ RAFAEL",
+        "email": "alvarezrafdiego@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301882/detalle"
+      },
+      {
+        "nombre": "JUAN ARGUELLES LUIS",
+        "email": "jal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217275/detalle"
+      },
+      {
+        "nombre": "JORGE LUIS ARIAS PEREZ",
+        "email": "jarias@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217290/detalle"
+      },
+      {
+        "nombre": "MARIA AZUCENA BEGEGA LOSA",
+        "email": "begega@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219318/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA BOBES BASCARAN",
+        "email": "bobesmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216833/detalle"
+      },
+      {
+        "nombre": "JOSE ANTONIO BOGA RIVEIRO",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220224/detalle"
+      },
+      {
+        "nombre": "BEATRIZ CABALLERO GARCIA",
+        "email": "caballerobeatriz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217271/detalle"
+      },
+      {
+        "nombre": "TONI ROGER CAMPIONE",
+        "email": "campione@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216966/detalle"
+      },
+      {
+        "nombre": "NELIDA MARIA CONEJO JIMENEZ",
+        "email": "conejonelida@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219107/detalle"
+      },
+      {
+        "nombre": "ELIECER COTO GARCIA",
+        "email": "cotoeliecer@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217204/detalle"
+      },
+      {
+        "nombre": "ANA MARIA COTO MONTES",
+        "email": "acoto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217206/detalle"
+      },
+      {
+        "nombre": "RUTH COYA TESTON",
+        "email": "coyaruth@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219025/detalle"
+      },
+      {
+        "nombre": "FRANCESCO DAL SANTO",
+        "email": "dalfrancesco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2456580/detalle"
+      },
+      {
+        "nombre": "JUAN DIAZ GONZALEZ",
+        "email": "jdiazg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217113/detalle"
+      },
+      {
+        "nombre": "MARIA PAULA FERNANDEZ GARCIA",
+        "email": "paula@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217051/detalle"
+      },
+      {
+        "nombre": "LETICIA GARCIA ALVAREZ",
+        "email": "garcialeticia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217550/detalle"
+      },
+      {
+        "nombre": "GLORIA GARCIA FERNANDEZ",
+        "email": "garciafgloria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217579/detalle"
+      },
+      {
+        "nombre": "JAIME GARCIA FERNANDEZ",
+        "email": "garciafernandezj@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218785/detalle"
+      },
+      {
+        "nombre": "CLAUDIA GARCIA GONZALEZ",
+        "email": "garciaclaudia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355544/detalle"
+      },
+      {
+        "nombre": "MARIA PAZ GARCIA-PORTILLA GONZALEZ",
+        "email": "albert@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217478/detalle"
+      },
+      {
+        "nombre": "CAROLINA GOMEZ DIAZ",
+        "email": "gomezdiazcarolina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217491/detalle"
+      },
+      {
+        "nombre": "LAURA ELISABET GOMEZ SANCHEZ",
+        "email": "gomezlaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217496/detalle"
+      },
+      {
+        "nombre": "LETICIA GONZALEZ BLANCO",
+        "email": "gonzalezbleticia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217338/detalle"
+      },
+      {
+        "nombre": "ALBA GONZALEZ DE LA ROZ",
+        "email": "gonzalezralba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217966/detalle"
+      },
+      {
+        "nombre": "MONTSERRAT GONZALEZ DELGADO",
+        "email": "gonzalezdmontserrat@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355557/detalle"
+      },
+      {
+        "nombre": "MARIA GONZALEZ NOSTI",
+        "email": "gonzaleznmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219145/detalle"
+      },
+      {
+        "nombre": "HECTOR GONZALEZ PARDO",
+        "email": "hgpardo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217394/detalle"
+      },
+      {
+        "nombre": "COVADONGA GONZALEZ-NUEVO VAZQUEZ",
+        "email": "gonzalezvcovadonga@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218839/detalle"
+      },
+      {
+        "nombre": "ELENA HERRERA GOMEZ",
+        "email": "herreraelena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217904/detalle"
+      },
+      {
+        "nombre": "CELSO ANGEL IGLESIAS GARCIA",
+        "email": "iglesiascelso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217638/detalle"
+      },
+      {
+        "nombre": "LUIS JIMENEZ TREVIÑO",
+        "email": "jimenezluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2354125/detalle"
+      },
+      {
+        "nombre": "MIGUEL ANGEL JOSE PRIETO",
+        "email": "mike@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217663/detalle"
+      },
+      {
+        "nombre": "DAVINIA LARROSA CAMPO",
+        "email": "larrosadavinia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219181/detalle"
+      },
+      {
+        "nombre": "TANIA LLANA FERNANDEZ",
+        "email": "llanatania@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010344/detalle"
+      },
+      {
+        "nombre": "LAUDINO LOPEZ ALVAREZ",
+        "email": "llopez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217753/detalle"
+      },
+      {
+        "nombre": "ALFONSO JOAQUIN LOPEZ MUÑIZ",
+        "email": "almu@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217775/detalle"
+      },
+      {
+        "nombre": "ELENA LOPEZ-CANCIO MARTINEZ",
+        "email": "lopezmelena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217788/detalle"
+      },
+      {
+        "nombre": "JOSE FERNANDO MARTIN LOPEZ",
+        "email": "martinljose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217947/detalle"
+      },
+      {
+        "nombre": "ALBERTO MARTIN PERNIA",
+        "email": "amartinp@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219205/detalle"
+      },
+      {
+        "nombre": "JUAN ANTONIO MARTIN RAMOS",
+        "email": "jamartin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217951/detalle"
+      },
+      {
+        "nombre": "JUAN ANGEL MARTINEZ ESTEBAN",
+        "email": "jamartinez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217684/detalle"
+      },
+      {
+        "nombre": "JUAN JOSÉ MARTÍNEZ JAMBRINA",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205484/detalle"
+      },
+      {
+        "nombre": "EVA MARTINEZ PINILLA",
+        "email": "martinezeva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217704/detalle"
+      },
+      {
+        "nombre": "MARTA MENDEZ LOPEZ",
+        "email": "mendezlmarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217830/detalle"
+      },
+      {
+        "nombre": "MANUEL MENENDEZ GONZALEZ",
+        "email": "menendezgmanuel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217847/detalle"
+      },
+      {
+        "nombre": "GERMAN MORIS DE LA TASSA",
+        "email": "morisgerman@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219195/detalle"
+      },
+      {
+        "nombre": "MARIA DEL PILAR MOSTEIRO DIAZ",
+        "email": "mmosteirod@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217867/detalle"
+      },
+      {
+        "nombre": "ALEJANDRO MUÑOZ JIMENEZ",
+        "email": "munozjalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301717/detalle"
+      },
+      {
+        "nombre": "EDUARDO MURIAS QUINTANA",
+        "email": "muriaseduardo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218199/detalle"
+      },
+      {
+        "nombre": "ANA MARIA NAVARRO INCIO",
+        "email": "anavarro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218206/detalle"
+      },
+      {
+        "nombre": "PAULA NUÑEZ MARTINEZ",
+        "email": "nunezpaula@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218222/detalle"
+      },
+      {
+        "nombre": "FERNANDO NUÑO GARCIA",
+        "email": "fnuno@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219620/detalle"
+      },
+      {
+        "nombre": "MARIA DE LAS MERCEDES PAINO PIÑEIRO",
+        "email": "mpaino@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218063/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN PERILLAN MENDEZ",
+        "email": "perillanmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218302/detalle"
+      },
+      {
+        "nombre": "ALVARO POSTIGO GUTIERREZ",
+        "email": "postigoalvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219256/detalle"
+      },
+      {
+        "nombre": "YAIZA POTES OCHOA",
+        "email": "potesyaiza@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218319/detalle"
+      },
+      {
+        "nombre": "JULIA RODRIGUEZ REVUELTA",
+        "email": "rodriguezjulia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218650/detalle"
+      },
+      {
+        "nombre": "ANTONIO SAIZ AYALA",
+        "email": "saizantonio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218637/detalle"
+      },
+      {
+        "nombre": "PILAR ALEJANDRA SAIZ MARTINEZ",
+        "email": "frank@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219664/detalle"
+      },
+      {
+        "nombre": "SAUL SAL SARRIA",
+        "email": "salsaul@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010415/detalle"
+      },
+      {
+        "nombre": "ROBERTO SECADES VILLA",
+        "email": "secades@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218421/detalle"
+      },
+      {
+        "nombre": "LUCIA SOLARES FERNANDEZ",
+        "email": "solareslucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2356410/detalle"
+      },
+      {
+        "nombre": "GONZALO SOLIS SANCHEZ",
+        "email": "solisgonzalo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218449/detalle"
+      },
+      {
+        "nombre": "MARIA CRUZ SOUSA FRAGUAS",
+        "email": "sousamaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219643/detalle"
+      },
+      {
+        "nombre": "MARIA PAZ SUAREZ COALLA",
+        "email": "suarezpaz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218464/detalle"
+      },
+      {
+        "nombre": "EVA MARIA DEL VALLE SUAREZ",
+        "email": "valleeva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218897/detalle"
+      },
+      {
+        "nombre": "JOSE ANTONIO VEGA ALVAREZ",
+        "email": "javega@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218481/detalle"
+      },
+      {
+        "nombre": "IGNACIO VEGA NAREDO",
+        "email": "vegaignacio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218486/detalle"
+      },
+      {
+        "nombre": "PEDRO VEGA VALDES",
+        "email": "vegapedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218487/detalle"
+      },
+      {
+        "nombre": "PEDRO JOSE VILLEGAS SAIZ",
+        "email": "pedroj@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218537/detalle"
+      },
+      {
+        "nombre": "SARA EVA WEIDBERG LOPEZ",
+        "email": "weidbergsara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219646/detalle"
+      },
+      {
+        "nombre": "CANDELA ZORZO VALLINA",
+        "email": "zorzocandela@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218498/detalle"
+      },
+      {
+        "nombre": "PAULA ZURRON MADERA",
+        "email": "zurronpaula@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218500/detalle"
+      }
+    ],
+    "acronimo": "INEUROPA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47872/investigadores",
+    "nombre_centro": "Instituto de Recursos Naturales y Ordenación del Territorio",
+    "periodo": "Effective from 1985",
+    "investigadores": [
+      {
+        "nombre": "ELIAS AFIF KHOURI",
+        "email": "elias@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216727/detalle"
+      },
+      {
+        "nombre": "PEDRO ALVAREZ ALVAREZ",
+        "email": "alvarezpedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216782/detalle"
+      },
+      {
+        "nombre": "ABEL ARIAS CASTAÑO",
+        "email": "ariasabel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217285/detalle"
+      },
+      {
+        "nombre": "ANDRES ARIAS RODRIGUEZ",
+        "email": "ariasandres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217293/detalle"
+      },
+      {
+        "nombre": "JAVIER AVELINO BLANCO GONZALEZ",
+        "email": "blanco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216825/detalle"
+      },
+      {
+        "nombre": "CARLOS CABO GOMEZ",
+        "email": "carloscabo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218998/detalle"
+      },
+      {
+        "nombre": "EDUARDO CIRES RODRIGUEZ",
+        "email": "cireseduardo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216992/detalle"
+      },
+      {
+        "nombre": "ARTURO COLINA VUELTA",
+        "email": "colinaarturo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216996/detalle"
+      },
+      {
+        "nombre": "CANDELA CUESTA MOLINER",
+        "email": "cuestacandela@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217078/detalle"
+      },
+      {
+        "nombre": "JOSE FRANCISCO FERNANDEZ GARCIA",
+        "email": "josefranciscofg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217050/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JOSE FERNANDEZ RODRIGUEZ",
+        "email": "fjfernandez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217509/detalle"
+      },
+      {
+        "nombre": "LAURA GARCIA DE LA FUENTE",
+        "email": "garciaflaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217570/detalle"
+      },
+      {
+        "nombre": "EFREN GARCIA ORDIALES",
+        "email": "garciaefren@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217438/detalle"
+      },
+      {
+        "nombre": "SERGIO GONZALEZ BEGEGA",
+        "email": "gonzalezsergio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217337/detalle"
+      },
+      {
+        "nombre": "GIL GONZALEZ RODRIGUEZ",
+        "email": "gil@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217912/detalle"
+      },
+      {
+        "nombre": "ROSA ANA MENENDEZ DUARTE",
+        "email": "ramenendez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217842/detalle"
+      },
+      {
+        "nombre": "LIDIA MORIANO GONZÁLEZ",
+        "email": "morianolidia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2186168/detalle"
+      },
+      {
+        "nombre": "ICARO OBESO MUÑIZ",
+        "email": "obesoicaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218040/detalle"
+      },
+      {
+        "nombre": "CELESTINO ORDOÑEZ GALAN",
+        "email": "ordonezcelestino@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218053/detalle"
+      },
+      {
+        "nombre": "VERONICA PEÑA ALVAREZ",
+        "email": "palvarezveronica@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219095/detalle"
+      },
+      {
+        "nombre": "PEDRO PLASENCIA LOZANO",
+        "email": "plasenciapedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218311/detalle"
+      },
+      {
+        "nombre": "ALEXANDER PROSENKOV",
+        "email": "prosenkovalexander@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010402/detalle"
+      },
+      {
+        "nombre": "ANA BELEN RAMOS GUAJARDO",
+        "email": "ramosana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218038/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN RECONDO GONZALEZ",
+        "email": "mdrecondo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218552/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL RICO ORDAS",
+        "email": "jmrico@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218149/detalle"
+      },
+      {
+        "nombre": "ADRIAN MAARTEN RODRIGUEZ DEL VALLE DEN OUDEN",
+        "email": "rodriguezmaarten@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301704/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS RODRIGUEZ GALLEGO",
+        "email": "jgallego@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218355/detalle"
+      },
+      {
+        "nombre": "LORENA SALGADO FERNANDEZ",
+        "email": "salgadolorena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219335/detalle"
+      },
+      {
+        "nombre": "SALVADOR SANCHEZ MARTINEZ",
+        "email": "sanchezsalvador@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219344/detalle"
+      },
+      {
+        "nombre": "ALICIA SANCHEZ POYAL",
+        "email": "sanchezalicia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301834/detalle"
+      },
+      {
+        "nombre": "ANTONIO TORRALBA BURRIAL",
+        "email": "torralbaantonio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219660/detalle"
+      },
+      {
+        "nombre": "EMMA ZAPICO FERNANDEZ",
+        "email": "zapicoemma@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219310/detalle"
+      }
+    ],
+    "acronimo": "INDUROT"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47873/investigadores",
+    "nombre_centro": "Instituto Feijoo de Estudios del Siglo XVIII",
+    "periodo": "Effective from 2005",
+    "investigadores": [
+      {
+        "nombre": "JUAN DIAZ ALVAREZ",
+        "email": "diazaljuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217096/detalle"
+      },
+      {
+        "nombre": "FRANCISCO FERNANDEZ LOPEZ",
+        "email": "fernandezlfrancisco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1095851/detalle"
+      },
+      {
+        "nombre": "IGNACIO FERNANDEZ SARASOLA",
+        "email": "sarasola@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217521/detalle"
+      },
+      {
+        "nombre": "MARTA FRIERA ALVAREZ",
+        "email": "frieramarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217525/detalle"
+      },
+      {
+        "nombre": "VIRGINIA GIL AMATE",
+        "email": "vigia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217487/detalle"
+      },
+      {
+        "nombre": "JAVIER GONZALEZ SANTOS",
+        "email": "jgonzalez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217919/detalle"
+      },
+      {
+        "nombre": "ELENA LORENZO ALVAREZ",
+        "email": "lorenzoelena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217796/detalle"
+      },
+      {
+        "nombre": "VIDAL DE LA MADRID ALVAREZ",
+        "email": "lamadrid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217814/detalle"
+      },
+      {
+        "nombre": "VENANCIO MARTINEZ SUAREZ",
+        "email": "martinezvenancio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217708/detalle"
+      },
+      {
+        "nombre": "ARMANDO MENENDEZ VISO",
+        "email": "amv@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218237/detalle"
+      },
+      {
+        "nombre": "RODRIGO OLAY VALDES",
+        "email": "olayrodrigo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218046/detalle"
+      },
+      {
+        "nombre": "ALBERTO CUSTODIO ROMERO VALLEJO",
+        "email": "romeroalberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010410/detalle"
+      },
+      {
+        "nombre": "EDUARDO SAN JOSE VAZQUEZ",
+        "email": "eduardosanjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218367/detalle"
+      }
+    ],
+    "acronimo": ""
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47859/investigadores",
+    "nombre_centro": "Instituto Universitario de Biotecnología de Asturias",
+    "periodo": "Effective from 2017",
+    "investigadores": [
+      {
+        "nombre": "MIGUEL ALLER PELLITERO",
+        "email": "mapellitero@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/752209/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL ALVAREZ DIAZ",
+        "email": "alvarezmanuel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216927/detalle"
+      },
+      {
+        "nombre": "DIEGO ALVAREZ RAFAEL",
+        "email": "alvarezrafdiego@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301882/detalle"
+      },
+      {
+        "nombre": "ANGEL LUIS ALVAREZ RODRIGUEZ",
+        "email": "alvarezrangel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216865/detalle"
+      },
+      {
+        "nombre": "ANDRES ARIAS RODRIGUEZ",
+        "email": "ariasandres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217293/detalle"
+      },
+      {
+        "nombre": "Mª DEL CARMEN BLANCO FERNANDEZ",
+        "email": "blancofmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218990/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN BLANCO LOPEZ",
+        "email": "cblanco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216827/detalle"
+      },
+      {
+        "nombre": "YAISEL JUAN BORRELL PICHS",
+        "email": "borrellyaisel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216842/detalle"
+      },
+      {
+        "nombre": "MARIA JESUS CAÑAL VILLANUEVA",
+        "email": "mjcanal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217222/detalle"
+      },
+      {
+        "nombre": "MARIA CELENZA",
+        "email": "celenzamaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301692/detalle"
+      },
+      {
+        "nombre": "EDUARDO CIRES RODRIGUEZ",
+        "email": "cireseduardo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216992/detalle"
+      },
+      {
+        "nombre": "MADALIN ALEXANDRU COBZARIU",
+        "email": "cobzariumadalin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010266/detalle"
+      },
+      {
+        "nombre": "RUTH COYA TESTON",
+        "email": "coyaruth@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219025/detalle"
+      },
+      {
+        "nombre": "CANDELA CUESTA MOLINER",
+        "email": "cuestacandela@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217078/detalle"
+      },
+      {
+        "nombre": "KEVIN PAUL DALTON",
+        "email": "daltonkevin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217088/detalle"
+      },
+      {
+        "nombre": "TARUN KUMAR DHIMAN",
+        "email": "dhimantarun@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301786/detalle"
+      },
+      {
+        "nombre": "ANA DIAZ FERNANDEZ",
+        "email": "anadf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218906/detalle"
+      },
+      {
+        "nombre": "PEDRO JAVIER DOMINGUEZ LUENGO",
+        "email": "pdluengo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217145/detalle"
+      },
+      {
+        "nombre": "MONICA ESCANDON MARTINEZ",
+        "email": "escandonmonica@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218919/detalle"
+      },
+      {
+        "nombre": "ALFREDO DE LA ESCOSURA MUÑIZ",
+        "email": "alfredo.escosura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218920/detalle"
+      },
+      {
+        "nombre": "ROCIO FEITO RODRIGUEZ",
+        "email": "feitorocio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218927/detalle"
+      },
+      {
+        "nombre": "SARA FERNANDEZ FERNANDEZ",
+        "email": "fernandezfsara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218867/detalle"
+      },
+      {
+        "nombre": "ELENA MARIA FERNANDEZ GONZALEZ",
+        "email": "fernandezelena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217059/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA FERNANDEZ SANCHEZ",
+        "email": "mfernandez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217519/detalle"
+      },
+      {
+        "nombre": "IRENE GARCIA FERNANDEZ",
+        "email": "garciafirene@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010303/detalle"
+      },
+      {
+        "nombre": "EVA GARCIA VAZQUEZ",
+        "email": "egv@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217465/detalle"
+      },
+      {
+        "nombre": "DANIEL ANDRES GOMEZ-LOBO CAMACHO",
+        "email": "gomezdaniel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301724/detalle"
+      },
+      {
+        "nombre": "MARIA AIDA GONZALEZ DIAZ",
+        "email": "aidag@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217349/detalle"
+      },
+      {
+        "nombre": "GEMMA GUTIERREZ CERVELLO",
+        "email": "gutierrezgemma@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217881/detalle"
+      },
+      {
+        "nombre": "ÁLVARO GUTIERREZ RODRÍGUEZ",
+        "email": "gutierrezalvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301907/detalle"
+      },
+      {
+        "nombre": "IRIA JANEIRO TATO",
+        "email": "janeiroiria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010336/detalle"
+      },
+      {
+        "nombre": "MARIA ELENA LASTRA BENGOCHEA",
+        "email": "elb@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217726/detalle"
+      },
+      {
+        "nombre": "MARIA JESUS LOBO CASTAÑON",
+        "email": "mjlc@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217746/detalle"
+      },
+      {
+        "nombre": "GONZALO MACHADO-SCHIAFFINO FERRER",
+        "email": "machadogonzalo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217813/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL MARTIN ALONSO",
+        "email": "jmmartin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217939/detalle"
+      },
+      {
+        "nombre": "MARIA MATOS GONZALEZ",
+        "email": "matosmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218277/detalle"
+      },
+      {
+        "nombre": "MONICA MEIJON VIDAL",
+        "email": "meijonmonica@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218291/detalle"
+      },
+      {
+        "nombre": "JUAN MARIA MENENDEZ AGUADO",
+        "email": "maguado@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217834/detalle"
+      },
+      {
+        "nombre": "ANDREA MENENDEZ MANJON",
+        "email": "menendezmandrea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218749/detalle"
+      },
+      {
+        "nombre": "ELISA MARIA MIGUELEZ GONZALEZ",
+        "email": "emmiguelez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218244/detalle"
+      },
+      {
+        "nombre": "LAURA MIRALLES LOPEZ",
+        "email": "miralleslaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219703/detalle"
+      },
+      {
+        "nombre": "REBECA MIRANDA CASTRO",
+        "email": "mirandarebeca@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218246/detalle"
+      },
+      {
+        "nombre": "INES NICIEZA LAVILLA",
+        "email": "niciezaines@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2186290/detalle"
+      },
+      {
+        "nombre": "ANTONELLO NOVELLI CIOTTI",
+        "email": "anovelli@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218218/detalle"
+      },
+      {
+        "nombre": "RICARDO JAVIER ORDAS FERNANDEZ",
+        "email": "rordas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218050/detalle"
+      },
+      {
+        "nombre": "JESUS PASCUAL VAZQUEZ",
+        "email": "pascualjesus@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219092/detalle"
+      },
+      {
+        "nombre": "ANA ISABEL PELAEZ ANDRES",
+        "email": "pelaezana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218104/detalle"
+      },
+      {
+        "nombre": "VERONICA PEÑA ALVAREZ",
+        "email": "palvarezveronica@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219095/detalle"
+      },
+      {
+        "nombre": "MARIA TRINIDAD PEREZ MENDEZ",
+        "email": "pereztrinidad@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218138/detalle"
+      },
+      {
+        "nombre": "ALEXANDER PROSENKOV",
+        "email": "prosenkovalexander@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010402/detalle"
+      },
+      {
+        "nombre": "MARIA ANGELES REVILLA BAHILLO",
+        "email": "arevilla@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218562/detalle"
+      },
+      {
+        "nombre": "ALBERTO SANCHEZ CALVO",
+        "email": "sanchezcalberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219340/detalle"
+      },
+      {
+        "nombre": "RICARDO BALBINO SANCHEZ CARMENES",
+        "email": "rscarmenes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218379/detalle"
+      },
+      {
+        "nombre": "SALVADOR SANCHEZ MARTINEZ",
+        "email": "sanchezsalvador@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219344/detalle"
+      },
+      {
+        "nombre": "NOEMI DE LOS SANTOS ALVAREZ",
+        "email": "santosnoemi@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218411/detalle"
+      },
+      {
+        "nombre": "CLARA SAWERES ARGÜELLES",
+        "email": "saweresclara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219377/detalle"
+      },
+      {
+        "nombre": "ESTHER SERRANO PERTIERRA",
+        "email": "serranoesther@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219379/detalle"
+      },
+      {
+        "nombre": "LUIS VALLEDOR GONZALEZ",
+        "email": "valledorluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218899/detalle"
+      },
+      {
+        "nombre": "GERARD VILLARROYA PIQUE",
+        "email": "villarroyagerard@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219650/detalle"
+      }
+    ],
+    "acronimo": "IUBA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47876/investigadores",
+    "nombre_centro": "Instituto Universitario de Oncología",
+    "periodo": "Effective from 2017",
+    "investigadores": [
+      {
+        "nombre": "CANDELARIA AGUILAR GARCIA",
+        "email": "aguilarcandelaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/752208/detalle"
+      },
+      {
+        "nombre": "ANA ISABEL ALONSO GARCIA",
+        "email": "alonsogana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219314/detalle"
+      },
+      {
+        "nombre": "CESAR ANTONIO ALVAREZ MARCOS",
+        "email": "caalvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216850/detalle"
+      },
+      {
+        "nombre": "SAUL ALVAREZ TEIJEIRO",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219922/detalle"
+      },
+      {
+        "nombre": "MARCO ANTONIO ALVAREZ VEGA",
+        "email": "alvarezmarco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216869/detalle"
+      },
+      {
+        "nombre": "LAURA AMADO RODRIGUEZ",
+        "email": "amadolaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216878/detalle"
+      },
+      {
+        "nombre": "VICENTE DEL AMO SANCHEZ",
+        "email": "vdelamo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216882/detalle"
+      },
+      {
+        "nombre": "ISAAC ANTOLIN GONZALEZ",
+        "email": "iantolin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216891/detalle"
+      },
+      {
+        "nombre": "ANA ISABEL BAAMONDE ARBAIZA",
+        "email": "arbaiza@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219138/detalle"
+      },
+      {
+        "nombre": "CLEA BARCENA FERNANDEZ",
+        "email": "barcenaclea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010244/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA BERNAL DEL CASTILLO",
+        "email": "bernalmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219320/detalle"
+      },
+      {
+        "nombre": "JAVIER BORDALLO LANDA",
+        "email": "bordallojavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216839/detalle"
+      },
+      {
+        "nombre": "GABRIEL BRETONES SANCHEZ",
+        "email": "bretonesgabriel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218996/detalle"
+      },
+      {
+        "nombre": "BEGOÑA CANTABRANA PLAZA",
+        "email": "bego@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217220/detalle"
+      },
+      {
+        "nombre": "RAFAEL CERNUDA CERNUDA",
+        "email": "rcernuda@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216986/detalle"
+      },
+      {
+        "nombre": "MARIA DOLORES CHIARA ROMERO",
+        "email": "mdchiara.uo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219910/detalle"
+      },
+      {
+        "nombre": "ANDRES COCA PELAZ",
+        "email": "cocaandres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216994/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN CONCELLON FERNANDEZ",
+        "email": "ccf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216999/detalle"
+      },
+      {
+        "nombre": "IRENE CRESPO GOMEZ",
+        "email": "crespoirene@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217210/detalle"
+      },
+      {
+        "nombre": "PAULA DIEZ GARCIA",
+        "email": "diezpaula@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116451/detalle"
+      },
+      {
+        "nombre": "YAIZA ESPAÑOL FERNANDEZ",
+        "email": "espanolyaiza@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116363/detalle"
+      },
+      {
+        "nombre": "EMILIO ESTEBAN GONZALEZ",
+        "email": "estebanemilio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217170/detalle"
+      },
+      {
+        "nombre": "MARIA DEL MAR FERNANDEZ ALVAREZ",
+        "email": "fernandezmar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217019/detalle"
+      },
+      {
+        "nombre": "LUCIA FERNANDEZ ARCE",
+        "email": "fernandezalucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010280/detalle"
+      },
+      {
+        "nombre": "ALVARO FERNANDEZ FERNANDEZ",
+        "email": "fernandezferalvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218863/detalle"
+      },
+      {
+        "nombre": "JAVIER FERNANDEZ FERNANDEZ",
+        "email": "fernandezfjavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218865/detalle"
+      },
+      {
+        "nombre": "MARIO FERNANDEZ FRAGA",
+        "email": "fernandezfmario@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217040/detalle"
+      },
+      {
+        "nombre": "JESUS MARIA FERNANDEZ GOMEZ",
+        "email": "jmfergomez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217057/detalle"
+      },
+      {
+        "nombre": "ROCIO FERNANDEZ IGLESIAS",
+        "email": "fernandezirocio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010286/detalle"
+      },
+      {
+        "nombre": "DANIEL FERNANDEZ MARTINEZ",
+        "email": "fernandezmdaniel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2354231/detalle"
+      },
+      {
+        "nombre": "JAVIER FERNANDEZ MATEOS",
+        "email": "fernandezmatjavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218878/detalle"
+      },
+      {
+        "nombre": "ANA FERNANDEZ SOMOANO",
+        "email": "fernandezsana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217522/detalle"
+      },
+      {
+        "nombre": "IVAN FERNANDEZ VEGA",
+        "email": "fernandezvivan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217591/detalle"
+      },
+      {
+        "nombre": "CRISTINA EMILIA GALACHE OSUNA",
+        "email": "galachecristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220063/detalle"
+      },
+      {
+        "nombre": "RICK KYE GAN",
+        "email": "ganrick@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/333430/detalle"
+      },
+      {
+        "nombre": "LUIS JOAQUIN GARCIA FLOREZ",
+        "email": "garciafluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217400/detalle"
+      },
+      {
+        "nombre": "EMILIO GARCIA PRIETO",
+        "email": "garciapemilio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217443/detalle"
+      },
+      {
+        "nombre": "JORGE GARCIA RODRIGUEZ",
+        "email": "garciarjorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217449/detalle"
+      },
+      {
+        "nombre": "MIGUEL GARCIA VILLARINO",
+        "email": "garciavmiguel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452944/detalle"
+      },
+      {
+        "nombre": "MARIA GONZALEZ AMOR",
+        "email": "mgamor@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116406/detalle"
+      },
+      {
+        "nombre": "MARIA CARMEN GONZALEZ DEL REY RODRIGUEZ",
+        "email": "gonzalezrodmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219854/detalle"
+      },
+      {
+        "nombre": "MARIA VICTORIA GONZALEZ MEANA",
+        "email": "gonzalezvictoria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217380/detalle"
+      },
+      {
+        "nombre": "PEDRO GONZALEZ MENENDEZ",
+        "email": "gonzalezmpedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219413/detalle"
+      },
+      {
+        "nombre": "ANA MARIA PILAR GONZALEZ RODRIGUEZ",
+        "email": "gonzalezrana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219202/detalle"
+      },
+      {
+        "nombre": "SARA GONZALEZ RODRIGUEZ",
+        "email": "gonzalezsara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217914/detalle"
+      },
+      {
+        "nombre": "SEGUNDO GONZALEZ RODRIGUEZ",
+        "email": "segundog@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217915/detalle"
+      },
+      {
+        "nombre": "ROCIO GRANDA DIAZ",
+        "email": "grandarocio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2014290/detalle"
+      },
+      {
+        "nombre": "MARIA GUERRA ANDRES",
+        "email": "guerraamaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010322/detalle"
+      },
+      {
+        "nombre": "ANA YOLANDA GUTIERREZ FERNANDEZ",
+        "email": "anaguti@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217882/detalle"
+      },
+      {
+        "nombre": "DAVID HEVIA SANCHEZ",
+        "email": "heviadavid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217989/detalle"
+      },
+      {
+        "nombre": "ALBERTO LANA PEREZ",
+        "email": "lanaalberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217720/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS LLORENTE PENDAS",
+        "email": "jllorentep@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217745/detalle"
+      },
+      {
+        "nombre": "MARIA JESUS LOBO CASTAÑON",
+        "email": "mjlc@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217746/detalle"
+      },
+      {
+        "nombre": "FELIPE ALFONSO LOMBO BRUGOS",
+        "email": "lombofelipe@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217749/detalle"
+      },
+      {
+        "nombre": "FERNANDO LOPEZ ALVAREZ",
+        "email": "lopezafernando@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217752/detalle"
+      },
+      {
+        "nombre": "ANA MARIA LOPEZ FERNANDEZ",
+        "email": "lopezfana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301906/detalle"
+      },
+      {
+        "nombre": "CECILIA LOPEZ MARTINEZ",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1095884/detalle"
+      },
+      {
+        "nombre": "ALEJANDRO LOPEZ SOTO",
+        "email": "lopezsalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217783/detalle"
+      },
+      {
+        "nombre": "BEATRIZ DE LUXAN DELGADO",
+        "email": "luxanbeatriz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2014340/detalle"
+      },
+      {
+        "nombre": "PATRICIA MAGADAN CORPAS",
+        "email": "magadanpatricia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218768/detalle"
+      },
+      {
+        "nombre": "CRISTINA MARIA MANGAS ALONSO",
+        "email": "mangascristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2356313/detalle"
+      },
+      {
+        "nombre": "ANGEL MANTECA FERNANDEZ",
+        "email": "mantecaangel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217820/detalle"
+      },
+      {
+        "nombre": "GUILLERMO MARIÑO GARCIA",
+        "email": "marinoguillermo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217934/detalle"
+      },
+      {
+        "nombre": "VANESA MARTIN FERNANDEZ",
+        "email": "martinvanesa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217943/detalle"
+      },
+      {
+        "nombre": "RUBEN MARTIN PAYO",
+        "email": "martinruben@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217949/detalle"
+      },
+      {
+        "nombre": "ISABEL MARTINEZ PEREZ",
+        "email": "martinezpisabel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301843/detalle"
+      },
+      {
+        "nombre": "JUAN CARLOS MAYO BARRALLO",
+        "email": "mayojuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218281/detalle"
+      },
+      {
+        "nombre": "PATRICK LAUREANO MCALPINE ALVAREZ",
+        "email": "mcalpinepatrick@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010363/detalle"
+      },
+      {
+        "nombre": "MARIA MEDINA SANCHEZ",
+        "email": "mmedina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218289/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN MENDEZ FERNANDEZ",
+        "email": "cmendezf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217826/detalle"
+      },
+      {
+        "nombre": "LUIS MENENDEZ ANTOLIN",
+        "email": "luismen@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217838/detalle"
+      },
+      {
+        "nombre": "LUCAS MOLEDO NODAR",
+        "email": "moledolucas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010372/detalle"
+      },
+      {
+        "nombre": "PEDRO MORAL QUIROS",
+        "email": "pmquiros@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301683/detalle"
+      },
+      {
+        "nombre": "Mª ASUNCION MORCHON SOLIS",
+        "email": "susina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116359/detalle"
+      },
+      {
+        "nombre": "MARCO ANTONIO MORO GARCIA",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220015/detalle"
+      },
+      {
+        "nombre": "GUILLERMO MUÑIZ ALBAICETA",
+        "email": "munizguillermo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217868/detalle"
+      },
+      {
+        "nombre": "FAUSTINO JOSE NUÑEZ BATALLA",
+        "email": "fnunezb@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218220/detalle"
+      },
+      {
+        "nombre": "ALVARO JESUS OBAYA GONZALEZ",
+        "email": "ajobaya@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218229/detalle"
+      },
+      {
+        "nombre": "CARLOS OLANO ALVAREZ",
+        "email": "olanocarlos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218044/detalle"
+      },
+      {
+        "nombre": "CRISTINA OLIVAR FERNANDEZ",
+        "email": "olivarcristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010383/detalle"
+      },
+      {
+        "nombre": "MARIA ISABEL PALACIO VAZQUEZ",
+        "email": "palacioisabel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218065/detalle"
+      },
+      {
+        "nombre": "JOSE MARIA PEREZ FREIJE",
+        "email": "jmpf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218128/detalle"
+      },
+      {
+        "nombre": "ALEJANDRO PIÑEIRO UGALDE",
+        "email": "pineiroalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219253/detalle"
+      },
+      {
+        "nombre": "NOELIA PUENTE MONCADA",
+        "email": "puentenoelia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218021/detalle"
+      },
+      {
+        "nombre": "VICTOR QUESADA FERNANDEZ",
+        "email": "quesadavictor@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218027/detalle"
+      },
+      {
+        "nombre": "ISABEL QUIROS GONZALEZ",
+        "email": "quirosisabel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219264/detalle"
+      },
+      {
+        "nombre": "MANUEL RIVAS DEL FRESNO",
+        "email": "",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220203/detalle"
+      },
+      {
+        "nombre": "ANNALISA ROBERTI",
+        "email": "robertiannalisa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301845/detalle"
+      },
+      {
+        "nombre": "JUAN PABLO RODRIGO TAPIA",
+        "email": "jprodrigo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218332/detalle"
+      },
+      {
+        "nombre": "ALICIA RODRIGUEZ FOLGUERAS",
+        "email": "arfolgueras@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218354/detalle"
+      },
+      {
+        "nombre": "DAVID RODRIGUEZ MARTINEZ",
+        "email": "rodriguezdavid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219231/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN RODRIGUEZ SANCHEZ",
+        "email": "carro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218653/detalle"
+      },
+      {
+        "nombre": "DAVID ROIZ DEL VALLE",
+        "email": "roizdavid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218886/detalle"
+      },
+      {
+        "nombre": "LUCIA RONDEROS LOPEZ",
+        "email": "ronderoslucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301810/detalle"
+      },
+      {
+        "nombre": "ROSA MARIA SAINZ MENENDEZ",
+        "email": "sainzrosa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218636/detalle"
+      },
+      {
+        "nombre": "ESTHER SALGUEIRO VAZQUEZ",
+        "email": "salgueiroesther@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218639/detalle"
+      },
+      {
+        "nombre": "MANUEL SANCHEZ FERNANDEZ",
+        "email": "sanchezf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218385/detalle"
+      },
+      {
+        "nombre": "ANA MARIA SANCHEZ SANCHEZ",
+        "email": "sanchezmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218397/detalle"
+      },
+      {
+        "nombre": "JORGE SANTOS-JUANES JIMENEZ",
+        "email": "santosjjorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218414/detalle"
+      },
+      {
+        "nombre": "JUAN SERNA DIESTRO",
+        "email": "sernadjuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1116358/detalle"
+      },
+      {
+        "nombre": "CHRISTIAN SORDO BAHAMONDE",
+        "email": "sordochristian@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010424/detalle"
+      },
+      {
+        "nombre": "XOSE ANTON SUAREZ PUENTE",
+        "email": "xspuente@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218591/detalle"
+      },
+      {
+        "nombre": "MARIA TUROS CABAL",
+        "email": "turosmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219352/detalle"
+      },
+      {
+        "nombre": "MARIA DEL OLIVO DEL VALLE GOMEZ",
+        "email": "delvalle@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218895/detalle"
+      },
+      {
+        "nombre": "MARIA VARELA CALVO",
+        "email": "varelacmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218469/detalle"
+      },
+      {
+        "nombre": "JOSE ANTONIO VEGA ALVAREZ",
+        "email": "javega@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218481/detalle"
+      },
+      {
+        "nombre": "ESTEFANIA VEGAS PARDAVILA",
+        "email": "vegasestefania@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010438/detalle"
+      },
+      {
+        "nombre": "BLANCA VIVANCO ALLENDE",
+        "email": "vivancoblanca@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218489/detalle"
+      }
+    ],
+    "acronimo": "IUOPA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47869/investigadores",
+    "nombre_centro": "Instituto Universitario de Química Organometálica «Enrique Moles»",
+    "periodo": "Effective from 1993",
+    "investigadores": [
+      {
+        "nombre": "ENRIQUE AGUILAR HUERGO",
+        "email": "eah@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216731/detalle"
+      },
+      {
+        "nombre": "ADRIAN ALVAREZ ALVAREZ",
+        "email": "alvarezaadrian@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2014315/detalle"
+      },
+      {
+        "nombre": "MARIA ANGELES ALVAREZ FIDALGO",
+        "email": "maf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216936/detalle"
+      },
+      {
+        "nombre": "JULIO ALVAREZ VALLE",
+        "email": "alvarezjulio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301835/detalle"
+      },
+      {
+        "nombre": "VICENTE DEL AMO SANCHEZ",
+        "email": "vdelamo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216882/detalle"
+      },
+      {
+        "nombre": "OMAR ARTO SUAREZ",
+        "email": "artoomar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1216811/detalle"
+      },
+      {
+        "nombre": "PABLO BARRIO FERNANDEZ",
+        "email": "barriopablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218983/detalle"
+      },
+      {
+        "nombre": "MARIA DEL ROSARIO BRIEVA COLLADO",
+        "email": "rbrieva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217262/detalle"
+      },
+      {
+        "nombre": "CARMEN MARIA CABAL NAVES",
+        "email": "pcabal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217270/detalle"
+      },
+      {
+        "nombre": "JAVIER ANGEL CABEZA DE MARCO",
+        "email": "jac@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217272/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN CONCELLON FERNANDEZ",
+        "email": "ccf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216999/detalle"
+      },
+      {
+        "nombre": "SUSANA FERNANDEZ GONZALEZ",
+        "email": "fernandezgsusana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217065/detalle"
+      },
+      {
+        "nombre": "MIGUEL FERRERO FUERTES",
+        "email": "mferrero@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217608/detalle"
+      },
+      {
+        "nombre": "SARA FILGUEIRA FERNANDEZ",
+        "email": "filgueirasara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010297/detalle"
+      },
+      {
+        "nombre": "JOSEFA FLOREZ GONZALEZ",
+        "email": "jflorezg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217616/detalle"
+      },
+      {
+        "nombre": "JOAQUIN GARCIA ALVAREZ",
+        "email": "garciajoaquin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217549/detalle"
+      },
+      {
+        "nombre": "PABLO GARCIA ALVAREZ",
+        "email": "pga@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217552/detalle"
+      },
+      {
+        "nombre": "SERGIO EMILIO GARCIA GARRIDO",
+        "email": "garciagsergio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217412/detalle"
+      },
+      {
+        "nombre": "PATRICIA GARCIA MARTINEZ",
+        "email": "garciamarpatricia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1216810/detalle"
+      },
+      {
+        "nombre": "SERGIO GARCIA VEGA",
+        "email": "vegagsergio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301706/detalle"
+      },
+      {
+        "nombre": "DANIEL GARCIA VIVO",
+        "email": "garciavdaniel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217471/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL GONZALEZ DIAZ",
+        "email": "jmgd@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217347/detalle"
+      },
+      {
+        "nombre": "RAQUEL MARIA GONZALEZ SOENGAS",
+        "email": "rsoengas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217921/detalle"
+      },
+      {
+        "nombre": "VICENTE GOTOR FERNANDEZ",
+        "email": "vicgotfer@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217981/detalle"
+      },
+      {
+        "nombre": "ANA MARIA GUERRA MUÑIZ",
+        "email": "guerraana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218841/detalle"
+      },
+      {
+        "nombre": "MARIA ELENA LASTRA BENGOCHEA",
+        "email": "elb@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217726/detalle"
+      },
+      {
+        "nombre": "MARCOS LOPEZ AGUILAR",
+        "email": "lopezamarcos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010346/detalle"
+      },
+      {
+        "nombre": "PABLO LOPEZ FERNANDEZ",
+        "email": "lopezfpablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2354604/detalle"
+      },
+      {
+        "nombre": "LUCIA LOPEZ GARCIA",
+        "email": "lopezglucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218757/detalle"
+      },
+      {
+        "nombre": "LUIS ANGEL LOPEZ GARCIA",
+        "email": "lalg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219186/detalle"
+      },
+      {
+        "nombre": "JUAN MANGAS SANCHEZ",
+        "email": "mangasjuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220134/detalle"
+      },
+      {
+        "nombre": "MARTA MENENDEZ GONZALEZ",
+        "email": "menendezgmarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301807/detalle"
+      },
+      {
+        "nombre": "ALICIA PÉREZ FERNÁNDEZ",
+        "email": "perezalicia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2370979/detalle"
+      },
+      {
+        "nombre": "PAULA PEREZ RAMOS",
+        "email": "perezpaula@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010396/detalle"
+      },
+      {
+        "nombre": "MANUEL PLAZA MARTINEZ",
+        "email": "plazamanuel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219688/detalle"
+      },
+      {
+        "nombre": "ENOL DE PRADO FERNANDEZ",
+        "email": "pradoenol@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2354636/detalle"
+      },
+      {
+        "nombre": "MANUEL ALEJANDRO PRESA SOTO",
+        "email": "presaalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218006/detalle"
+      },
+      {
+        "nombre": "MARINA MARIA RAMOS MARTIN",
+        "email": "ramosmarina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219689/detalle"
+      },
+      {
+        "nombre": "NICOLAS RIOS LOMBARDIA",
+        "email": "riosnicolas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220131/detalle"
+      },
+      {
+        "nombre": "LAURA RODRIGUEZ FERNANDEZ",
+        "email": "rodriguezflaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010404/detalle"
+      },
+      {
+        "nombre": "FELIX RODRIGUEZ IGLESIAS",
+        "email": "frodriguez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218170/detalle"
+      },
+      {
+        "nombre": "HUMBERTO RODRIGUEZ SOLLA",
+        "email": "hrsolla@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218654/detalle"
+      },
+      {
+        "nombre": "CARLOS RODRIGUEZ-ARIAS SANTIAGO",
+        "email": "rodriguezscarlos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1216812/detalle"
+      },
+      {
+        "nombre": "EDUARDO RUBIO ROYO",
+        "email": "erubio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219669/detalle"
+      },
+      {
+        "nombre": "MIGUEL ANGEL RUIZ ALVAREZ",
+        "email": "mara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218681/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER RUIZ PASTOR",
+        "email": "jruiz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218684/detalle"
+      },
+      {
+        "nombre": "JAVIER SANTAMARIA VICTORERO",
+        "email": "jsv@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218406/detalle"
+      },
+      {
+        "nombre": "ALVAR SERRANO PINDADO",
+        "email": "serranoalvar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219380/detalle"
+      },
+      {
+        "nombre": "DAVID SUAREZ GARCIA",
+        "email": "suarezgdavid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301815/detalle"
+      },
+      {
+        "nombre": "ANGEL LUIS SUAREZ SOBRINO",
+        "email": "alss@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218598/detalle"
+      },
+      {
+        "nombre": "ALFONSO CARLOS VALDES GOMEZ",
+        "email": "acvg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218546/detalle"
+      },
+      {
+        "nombre": "ALVARO VALDES MAQUEDA",
+        "email": "valdesmalvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1216807/detalle"
+      },
+      {
+        "nombre": "RUBEN VICENTE ARROYO",
+        "email": "vicenteruben@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218509/detalle"
+      },
+      {
+        "nombre": "MARILIN VIVANCO FERNANDEZ",
+        "email": "vivanco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218490/detalle"
+      }
+    ],
+    "acronimo": "IUQOEM"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47858/investigadores",
+    "nombre_centro": "Instituto Universitario de Tecnología Industrial de Asturias",
+    "periodo": "Effective from 1994",
+    "investigadores": [
+      {
+        "nombre": "MANUEL AENLLE LOPEZ",
+        "email": "aenlle@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216726/detalle"
+      },
+      {
+        "nombre": "CRISTINA ALLENDE PRIETO",
+        "email": "callende@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219312/detalle"
+      },
+      {
+        "nombre": "JOSE MARCOS ALONSO ALVAREZ",
+        "email": "marcos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216750/detalle"
+      },
+      {
+        "nombre": "MAR ALONSO MARTINEZ",
+        "email": "alonsomar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216766/detalle"
+      },
+      {
+        "nombre": "GONZALO ARTURO ALONSO ORCAJO",
+        "email": "gonzalo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216767/detalle"
+      },
+      {
+        "nombre": "PABLO ALVAREZ ALONSO",
+        "email": "alvarezapablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216775/detalle"
+      },
+      {
+        "nombre": "BRAULIO JOSE ALVAREZ ALVAREZ",
+        "email": "braulio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216776/detalle"
+      },
+      {
+        "nombre": "JUAN CARLOS ALVAREZ ALVAREZ",
+        "email": "juan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216779/detalle"
+      },
+      {
+        "nombre": "GUILLERMO ALVAREZ DIAZ",
+        "email": "alvarezdguillermo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218952/detalle"
+      },
+      {
+        "nombre": "Víctor Álvarez",
+        "email": "victoralvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216942/detalle"
+      },
+      {
+        "nombre": "YURI ALVAREZ LOPEZ",
+        "email": "alvarezyuri@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219324/detalle"
+      },
+      {
+        "nombre": "DANIEL ALVAREZ MANTARAS",
+        "email": "mantaras@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216849/detalle"
+      },
+      {
+        "nombre": "PEDRO IGNACIO ALVAREZ PEÑIN",
+        "email": "pialvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216856/detalle"
+      },
+      {
+        "nombre": "DIEGO ALVAREZ PRIETO",
+        "email": "dalvarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216862/detalle"
+      },
+      {
+        "nombre": "FELIPE PEDRO ALVAREZ RABANAL",
+        "email": "alvarezfelipe@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216863/detalle"
+      },
+      {
+        "nombre": "MATIAS ALVAREZ RODRIGUEZ",
+        "email": "alvarezrmatias@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218962/detalle"
+      },
+      {
+        "nombre": "ANTONIO ARGUELLES AMADO",
+        "email": "antonio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216908/detalle"
+      },
+      {
+        "nombre": "KATIA MARIA ARGUELLES DIAZ",
+        "email": "arguelleskatia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217274/detalle"
+      },
+      {
+        "nombre": "MARIA ARANTZAZU ARGÜELLES VELEZ",
+        "email": "arguellesarantzazu@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217278/detalle"
+      },
+      {
+        "nombre": "CRISTIAN AUGUSTO",
+        "email": "augustocristian@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219682/detalle"
+      },
+      {
+        "nombre": "JOSE FRANCISCO BAÑOS PINO",
+        "email": "jbanos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217318/detalle"
+      },
+      {
+        "nombre": "MARIA FLORENTINA BARBES FERNANDEZ",
+        "email": "mfbarbes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216784/detalle"
+      },
+      {
+        "nombre": "MANUEL ARSENIO BARBON ALVAREZ",
+        "email": "barbon@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216785/detalle"
+      },
+      {
+        "nombre": "RAUL BARRIO PEROTTI",
+        "email": "barrioraul@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216792/detalle"
+      },
+      {
+        "nombre": "MARLENE BARTOLOME SAEZ",
+        "email": "bartolomemarlene@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216793/detalle"
+      },
+      {
+        "nombre": "LUIS FROILAN BAYON ARNAU",
+        "email": "bayon@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216796/detalle"
+      },
+      {
+        "nombre": "NATALIA BELTRAN DELGADO",
+        "email": "nataliabeltran@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216802/detalle"
+      },
+      {
+        "nombre": "MARIA COVADONGA BETEGON BIEMPICA",
+        "email": "cova@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216813/detalle"
+      },
+      {
+        "nombre": "RAQUEL BLANCO AGUIRRE",
+        "email": "rblanco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216816/detalle"
+      },
+      {
+        "nombre": "DAVID BLANCO FERNANDEZ",
+        "email": "dbf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216822/detalle"
+      },
+      {
+        "nombre": "JORGE BONHOMME GONZALEZ",
+        "email": "bonhomme@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216838/detalle"
+      },
+      {
+        "nombre": "MARCOS BRAÑA LINARES",
+        "email": "branamarcos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205504/detalle"
+      },
+      {
+        "nombre": "JESUS ANGEL DEL BRIO GONZALEZ",
+        "email": "delbrio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219135/detalle"
+      },
+      {
+        "nombre": "FERNANDO BRIZ DEL BLANCO",
+        "email": "fbriz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217264/detalle"
+      },
+      {
+        "nombre": "ENRIQUE ANTONIO DE LA CAL MARIN",
+        "email": "delacal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217007/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER DE LA CALLE HERRERO",
+        "email": "delacalle@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217010/detalle"
+      },
+      {
+        "nombre": "ANTONIO JAVIER CALLEJA RODRIGUEZ",
+        "email": "calleja@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216956/detalle"
+      },
+      {
+        "nombre": "LAURA CALZADA INFANTE",
+        "email": "calzadalaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216960/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL CANO RODRIGUEZ",
+        "email": "jmcano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219131/detalle"
+      },
+      {
+        "nombre": "JESUS CARDESIN MIRANDA",
+        "email": "cardesin@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217229/detalle"
+      },
+      {
+        "nombre": "CARLOS ENRIQUE CARLEOS ARTIME",
+        "email": "carleos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217230/detalle"
+      },
+      {
+        "nombre": "ARIEL CLAUDIO CATALAN GOÑI",
+        "email": "ariel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217260/detalle"
+      },
+      {
+        "nombre": "JORGE COQUE MARTINEZ",
+        "email": "coque@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217185/detalle"
+      },
+      {
+        "nombre": "VICTOR CORCOBA MAGAÑA",
+        "email": "corcobavictor@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217186/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS CORTIZO RODRIGUEZ",
+        "email": "jcortizor@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217193/detalle"
+      },
+      {
+        "nombre": "JOSE COTO ALADRO",
+        "email": "jcoto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217203/detalle"
+      },
+      {
+        "nombre": "JUAN JOSE DEL COZ DIAZ",
+        "email": "delcoz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217209/detalle"
+      },
+      {
+        "nombre": "EDUARDO CUESTA GONZALEZ",
+        "email": "ecuesta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217076/detalle"
+      },
+      {
+        "nombre": "IGNACIO DIAZ BLANCO",
+        "email": "idiaz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217097/detalle"
+      },
+      {
+        "nombre": "MARIA ROSARIO DIAZ CRESPO",
+        "email": "charo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217100/detalle"
+      },
+      {
+        "nombre": "MARIA EUGENIA DIAZ FERNANDEZ",
+        "email": "madiaz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217106/detalle"
+      },
+      {
+        "nombre": "JUAN DIAZ GONZALEZ",
+        "email": "jdiazg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217113/detalle"
+      },
+      {
+        "nombre": "LUIS ALFONSO DIAZ SECADES",
+        "email": "secadesalfonso@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355321/detalle"
+      },
+      {
+        "nombre": "JOSE DIAZ TRAPIELLA",
+        "email": "diazjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217127/detalle"
+      },
+      {
+        "nombre": "JOSE RAMON DE DIEGO RODRIGUEZ",
+        "email": "dediego@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217132/detalle"
+      },
+      {
+        "nombre": "MAIDA MARIA DOMAT RODRIGUEZ",
+        "email": "domatmaida@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217141/detalle"
+      },
+      {
+        "nombre": "RODOLFO ESPINA VALDES",
+        "email": "espinarodolfo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217168/detalle"
+      },
+      {
+        "nombre": "AITOR NICOLAS FERNANDEZ ALVAREZ",
+        "email": "fernandezaaitor@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301703/detalle"
+      },
+      {
+        "nombre": "PEDRO FERNANDEZ ALVAREZ",
+        "email": "pedrofa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217020/detalle"
+      },
+      {
+        "nombre": "MANES FERNANDEZ CABANAS",
+        "email": "manes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217023/detalle"
+      },
+      {
+        "nombre": "MARTA FERNANDEZ DE ARRIBA",
+        "email": "martafer@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217596/detalle"
+      },
+      {
+        "nombre": "PELAYO FERNANDEZ FERNANDEZ",
+        "email": "fernandezpelayo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217037/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER FERNANDEZ GARCIA",
+        "email": "javierfernandez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217049/detalle"
+      },
+      {
+        "nombre": "MARIA PAZ FERNANDEZ GARCIA",
+        "email": "fernandezpaz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217052/detalle"
+      },
+      {
+        "nombre": "MARIA ZULIMA FERNANDEZ MUÑIZ",
+        "email": "zulima@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217325/detalle"
+      },
+      {
+        "nombre": "YOLANDA FERNANDEZ NAVA",
+        "email": "fernandezyolanda@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217326/detalle"
+      },
+      {
+        "nombre": "JESUS MANUEL FERNANDEZ ORO",
+        "email": "jesusfo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217328/detalle"
+      },
+      {
+        "nombre": "INES FERNANDEZ PARIENTE",
+        "email": "inesfp@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217330/detalle"
+      },
+      {
+        "nombre": "MARIA ISABEL FERNANDEZ QUESADA",
+        "email": "ifq@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217181/detalle"
+      },
+      {
+        "nombre": "MARIA DEL ROCIO FERNANDEZ RODRIGUEZ",
+        "email": "rocio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217512/detalle"
+      },
+      {
+        "nombre": "ALEJANDRO FERNANDEZ SUAREZ",
+        "email": "afs@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010292/detalle"
+      },
+      {
+        "nombre": "DAVID GACIO VAQUERO",
+        "email": "gaciodavid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217536/detalle"
+      },
+      {
+        "nombre": "MONICA GALDO VEGA",
+        "email": "galdomonica@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219161/detalle"
+      },
+      {
+        "nombre": "Dan Garcia-Carrillo",
+        "email": "garciadan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217563/detalle"
+      },
+      {
+        "nombre": "RAFAEL PEDRO GARCIA DIAZ",
+        "email": "pgarcia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219164/detalle"
+      },
+      {
+        "nombre": "VICENTE GARCIA DIAZ",
+        "email": "garciavicente@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217574/detalle"
+      },
+      {
+        "nombre": "MARTA GARCIA DIEGUEZ",
+        "email": "garciadmarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217575/detalle"
+      },
+      {
+        "nombre": "JOSE GARCIA FANJUL",
+        "email": "jgfanjul@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217577/detalle"
+      },
+      {
+        "nombre": "NATALIA GARCIA FERNANDEZ",
+        "email": "garciafnatalia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218788/detalle"
+      },
+      {
+        "nombre": "PABLO GARCIA FERNANDEZ",
+        "email": "garciafpablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217584/detalle"
+      },
+      {
+        "nombre": "ROBERTO GARCIA FERNANDEZ",
+        "email": "garciaroberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217585/detalle"
+      },
+      {
+        "nombre": "JORGE GARCIA GARCIA",
+        "email": "garciajorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219148/detalle"
+      },
+      {
+        "nombre": "MARIA ANGELES GARCIA GARCIA",
+        "email": "magarc@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217407/detalle"
+      },
+      {
+        "nombre": "CRISTINA GARCIA GONZALEZ",
+        "email": "cristinacristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2354615/detalle"
+      },
+      {
+        "nombre": "ENOL GARCIA GONZALEZ",
+        "email": "garciaenol@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217414/detalle"
+      },
+      {
+        "nombre": "ALBERTO GARCIA MARTINEZ",
+        "email": "garciamaralberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217427/detalle"
+      },
+      {
+        "nombre": "PAULINO JOSE GARCIA NIETO",
+        "email": "pjgarcia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217437/detalle"
+      },
+      {
+        "nombre": "XICU XABIEL GARCIA PAÑEDA",
+        "email": "xabiel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217439/detalle"
+      },
+      {
+        "nombre": "MARIA ANTONIA GARCIA PRIETO",
+        "email": "marian@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217444/detalle"
+      },
+      {
+        "nombre": "PEDRO GARCIA REGODESEVES",
+        "email": "garciarpedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217445/detalle"
+      },
+      {
+        "nombre": "ALEJANDRO GARCIA TUERO",
+        "email": "garciatalejandro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217462/detalle"
+      },
+      {
+        "nombre": "Ramy Georgious",
+        "email": "georgiousramy@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217484/detalle"
+      },
+      {
+        "nombre": "ALBERTO GOMEZ GOMEZ",
+        "email": "albertogomez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217492/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA GONZALEZ APARICIO",
+        "email": "maytega@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217501/detalle"
+      },
+      {
+        "nombre": "FRANCISCO GONZALEZ BULNES",
+        "email": "bulnes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217339/detalle"
+      },
+      {
+        "nombre": "MARIA PLACERES GONZALEZ MARTINEZ",
+        "email": "placeres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217379/detalle"
+      },
+      {
+        "nombre": "JOAQUIN GONZALEZ NORNIELLA",
+        "email": "jgnorniella@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217392/detalle"
+      },
+      {
+        "nombre": "JOSE GONZALEZ PEREZ",
+        "email": "aviados@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217395/detalle"
+      },
+      {
+        "nombre": "ENRIQUE GONZALEZ PLAZA",
+        "email": "gonzalezenrique@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217907/detalle"
+      },
+      {
+        "nombre": "RUBEN GONZALEZ RODRIGUEZ",
+        "email": "gonzalezrruben@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217913/detalle"
+      },
+      {
+        "nombre": "Víctor M. González",
+        "email": "vmsuarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217925/detalle"
+      },
+      {
+        "nombre": "PILAR LOURDES GONZALEZ TORRE",
+        "email": "pilargt@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217959/detalle"
+      },
+      {
+        "nombre": "JUAN MANUEL GONZALEZ-CABALLIN SANCHEZ",
+        "email": "gonzalezsjuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217975/detalle"
+      },
+      {
+        "nombre": "PEDRO GORRIA KORRES",
+        "email": "pgorria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217980/detalle"
+      },
+      {
+        "nombre": "JAVIER GRACIA RODRIGUEZ",
+        "email": "graciajavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217982/detalle"
+      },
+      {
+        "nombre": "Juan Carlos Granda Candás",
+        "email": "jcgranda@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219178/detalle"
+      },
+      {
+        "nombre": "JOSE MARIA GRAU RIBAS",
+        "email": "grau@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217869/detalle"
+      },
+      {
+        "nombre": "JUAN MANUEL GUERRERO MUÑOZ",
+        "email": "guerrero@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217874/detalle"
+      },
+      {
+        "nombre": "ANTONIO JOSE GUTIERREZ TRASHORRAS",
+        "email": "gutierrezantonio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217890/detalle"
+      },
+      {
+        "nombre": "FERNANDO LUIS LAS HERAS ANDRES",
+        "email": "flasheras@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217893/detalle"
+      },
+      {
+        "nombre": "ANTOLIN ESTEBAN HERNANDEZ BATTEZ",
+        "email": "aehernandez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217895/detalle"
+      },
+      {
+        "nombre": "ALBERTO HIGUERA GARRIDO",
+        "email": "higueraalberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217992/detalle"
+      },
+      {
+        "nombre": "GUILLERMO LAINE CUERVO",
+        "email": "laineguillermo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217679/detalle"
+      },
+      {
+        "nombre": "OMAR ALEXANDER LEON GARCIA",
+        "email": "leonomar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218722/detalle"
+      },
+      {
+        "nombre": "EMILIO RAMON LOPEZ COROMINAS",
+        "email": "elopezc@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217757/detalle"
+      },
+      {
+        "nombre": "HILARIO LOPEZ GARCIA",
+        "email": "hilario@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217764/detalle"
+      },
+      {
+        "nombre": "JAVIER LOPEZ GARCIA",
+        "email": "lopezjavier@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217766/detalle"
+      },
+      {
+        "nombre": "FERNANDO LOPEZ GAYARRE",
+        "email": "gayarre@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217768/detalle"
+      },
+      {
+        "nombre": "ANTONIO MIGUEL LOPEZ RODRIGUEZ",
+        "email": "amlopez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217780/detalle"
+      },
+      {
+        "nombre": "CARLOS LOPEZ-COLINA PEREZ",
+        "email": "lopezpcarlos@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217789/detalle"
+      },
+      {
+        "nombre": "ALFONSO GERONIMO LOZANO MARTINEZ LUENGAS",
+        "email": "alozano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217801/detalle"
+      },
+      {
+        "nombre": "JUAN CARLOS LUENGO GARCIA",
+        "email": "jcluengo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217805/detalle"
+      },
+      {
+        "nombre": "MANUEL LUNA GARCIA",
+        "email": "lunamanuel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217808/detalle"
+      },
+      {
+        "nombre": "PABLO LUQUE RODRIGUEZ",
+        "email": "luque@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217810/detalle"
+      },
+      {
+        "nombre": "IVAN JOSE MACHON GONZALEZ",
+        "email": "machonivan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219191/detalle"
+      },
+      {
+        "nombre": "LUIS MAGADAN COBO",
+        "email": "magadanluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217817/detalle"
+      },
+      {
+        "nombre": "LOURDES MARCANO PRIETO",
+        "email": "marcanolourdes@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217824/detalle"
+      },
+      {
+        "nombre": "SANTIAGO MARTIN GONZALEZ",
+        "email": "martinsantiago@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217944/detalle"
+      },
+      {
+        "nombre": "ANGEL MARTIN RODRIGUEZ",
+        "email": "martinangel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217952/detalle"
+      },
+      {
+        "nombre": "JOSE CARLOS MARTINEZ GARCIA",
+        "email": "jcmg@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217688/detalle"
+      },
+      {
+        "nombre": "RAQUEL MARTINEZ MARTINEZ",
+        "email": "martinezmraquel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010359/detalle"
+      },
+      {
+        "nombre": "ROBERTO MARTINEZ PEREZ",
+        "email": "martinezroberto@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218736/detalle"
+      },
+      {
+        "nombre": "SABINO MATEOS DIAZ",
+        "email": "sabino@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219180/detalle"
+      },
+      {
+        "nombre": "VICTOR MANUEL MEANA DIAZ",
+        "email": "meanavictor@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218285/detalle"
+      },
+      {
+        "nombre": "ANDRES MEANA FERNANDEZ",
+        "email": "andresmf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218286/detalle"
+      },
+      {
+        "nombre": "DAVID MELENDI PALACIO",
+        "email": "melendi@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218294/detalle"
+      },
+      {
+        "nombre": "DEVA MENENDEZ TELEÑA",
+        "email": "menendezdeva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218234/detalle"
+      },
+      {
+        "nombre": "MARIA MITRE ARANDA",
+        "email": "mitremaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218252/detalle"
+      },
+      {
+        "nombre": "MARIA VICTORIA MOLLON SANCHEZ",
+        "email": "mollonvictoria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218258/detalle"
+      },
+      {
+        "nombre": "FERNANDO MONCADA MARTINS",
+        "email": "moncadafernando@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010373/detalle"
+      },
+      {
+        "nombre": "ELENA MONTAÑES ROCES",
+        "email": "montaneselena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219622/detalle"
+      },
+      {
+        "nombre": "JESUS MORAN BARBON",
+        "email": "moranjesus@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218272/detalle"
+      },
+      {
+        "nombre": "MIGUEL MUÑIZ CALVENTE",
+        "email": "munizcmiguel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218186/detalle"
+      },
+      {
+        "nombre": "RUBEN MUÑIZ SANCHEZ",
+        "email": "rubenms@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218193/detalle"
+      },
+      {
+        "nombre": "ANGEL NEIRA ALVAREZ",
+        "email": "neira@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219234/detalle"
+      },
+      {
+        "nombre": "ALVARO NORIEGA GONZALEZ",
+        "email": "noriegaalvaro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218216/detalle"
+      },
+      {
+        "nombre": "PELAYO NUÑO HUERGO",
+        "email": "nunopelayo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218228/detalle"
+      },
+      {
+        "nombre": "LUIS ANGEL OLIVEIRA RODRIGUEZ",
+        "email": "oliveiraluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355108/detalle"
+      },
+      {
+        "nombre": "JOSE OTERO RODRIGUEZ",
+        "email": "jotero@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218061/detalle"
+      },
+      {
+        "nombre": "PABLO PANDO CERRA",
+        "email": "pandopablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219217/detalle"
+      },
+      {
+        "nombre": "JOSE PARREÑO FERNANDEZ",
+        "email": "parreno@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219219/detalle"
+      },
+      {
+        "nombre": "FERNANDO PEÑA CAMBON",
+        "email": "penafernando@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219235/detalle"
+      },
+      {
+        "nombre": "INES PEÑUELAS SANCHEZ",
+        "email": "penuelasines@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218110/detalle"
+      },
+      {
+        "nombre": "LUIS BORJA PERAL MARTINEZ",
+        "email": "luisborja@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219236/detalle"
+      },
+      {
+        "nombre": "BRUNO PEREIRAS GARCIA",
+        "email": "pereirasbruno@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218115/detalle"
+      },
+      {
+        "nombre": "JESUS ANGEL PEREZ FERNANDEZ",
+        "email": "perezangel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218122/detalle"
+      },
+      {
+        "nombre": "ANA MATILDE PEREZ MAS",
+        "email": "perezmatilde@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452962/detalle"
+      },
+      {
+        "nombre": "RAUL PINO DIEZ",
+        "email": "pino@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218306/detalle"
+      },
+      {
+        "nombre": "PEDRO PLASENCIA LOZANO",
+        "email": "plasenciapedro@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218311/detalle"
+      },
+      {
+        "nombre": "BORJA PONTE BLANCO",
+        "email": "ponteborja@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218315/detalle"
+      },
+      {
+        "nombre": "MARIA DE LOS REYES POO ARGUELLES",
+        "email": "repoo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219629/detalle"
+      },
+      {
+        "nombre": "LAURA POZUECO ALVAREZ",
+        "email": "pozuecolaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218321/detalle"
+      },
+      {
+        "nombre": "MARIA MANUELA PRIETO GONZALEZ",
+        "email": "manuelap@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218015/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JAVIER PUENTE GARCIA",
+        "email": "jpuente@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218020/detalle"
+      },
+      {
+        "nombre": "José Ramón Quevedo",
+        "email": "quevedo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218028/detalle"
+      },
+      {
+        "nombre": "PABLO JOSE QUINTANA BARCIA",
+        "email": "quintanapablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218031/detalle"
+      },
+      {
+        "nombre": "ANGEL JOSE DEL REGUERO HUERGA",
+        "email": "angel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218555/detalle"
+      },
+      {
+        "nombre": "JAVIER RIBAS BUENO",
+        "email": "ribas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218146/detalle"
+      },
+      {
+        "nombre": "PABLO ANTONIO RICO LAZARO",
+        "email": "ricopablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301823/detalle"
+      },
+      {
+        "nombre": "ANGEL FRANCISCO DEL RIO ALVAREZ",
+        "email": "rioangel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218159/detalle"
+      },
+      {
+        "nombre": "JUAN CARLOS RIOS FERNANDEZ",
+        "email": "riosjuan@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218163/detalle"
+      },
+      {
+        "nombre": "CLAUDIO ALBERTO DE LA RIVA ALVAREZ",
+        "email": "claudio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218164/detalle"
+      },
+      {
+        "nombre": "MONTSERRAT RIVAS ARDISANA",
+        "email": "rivas@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218165/detalle"
+      },
+      {
+        "nombre": "NOELIA RIVERA RELLAN",
+        "email": "riveranoelia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218167/detalle"
+      },
+      {
+        "nombre": "ANTONIO ROBLES ALVAREZ",
+        "email": "arobles@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218168/detalle"
+      },
+      {
+        "nombre": "JORGE ROCES GARCIA",
+        "email": "rocesjorge@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218327/detalle"
+      },
+      {
+        "nombre": "MARIA CRISTINA RODRIGUEZ GONZALEZ",
+        "email": "cristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219633/detalle"
+      },
+      {
+        "nombre": "JESUS AVELINO RODRIGUEZ IGLESIAS",
+        "email": "jesusr@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219230/detalle"
+      },
+      {
+        "nombre": "EDUARDO RODRIGUEZ ORDOÑEZ",
+        "email": "eduardo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218183/detalle"
+      },
+      {
+        "nombre": "RAFAEL ROSILLO CAMBLOR",
+        "email": "rosillo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219667/detalle"
+      },
+      {
+        "nombre": "RAMON RUBIO GARCIA",
+        "email": "rrubio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218678/detalle"
+      },
+      {
+        "nombre": "AITANA SANCHEZ GONZALEZ",
+        "email": "sanchezaitana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/333427/detalle"
+      },
+      {
+        "nombre": "LUCIANO SANCHEZ RAMOS",
+        "email": "luciano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218395/detalle"
+      },
+      {
+        "nombre": "JOSE ANTONIO SANCHEZ SANCHEZ",
+        "email": "sanchezsjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218398/detalle"
+      },
+      {
+        "nombre": "LUIS SANTAMARIA BERTOLIN",
+        "email": "santamarialuis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010418/detalle"
+      },
+      {
+        "nombre": "LUIS ANGEL SAÑUDO FONTANEDA",
+        "email": "sanudoluis@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218417/detalle"
+      },
+      {
+        "nombre": "MARIA ELVIRA SEGURADO FRUTOS",
+        "email": "seguradomaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218422/detalle"
+      },
+      {
+        "nombre": "MARCO SERNAGLIA",
+        "email": "sernagliamarco@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/333428/detalle"
+      },
+      {
+        "nombre": "MIGUEL ANGEL SERRANO LOPEZ",
+        "email": "serrano@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218427/detalle"
+      },
+      {
+        "nombre": "JOSE MANUEL SIERRA VELASCO",
+        "email": "jmsierra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218436/detalle"
+      },
+      {
+        "nombre": "VERONICA SOTO LOPEZ",
+        "email": "sotoveronica@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218454/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JOSE SUAREZ ALONSO",
+        "email": "fjsuarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218456/detalle"
+      },
+      {
+        "nombre": "CARLOS MANUEL SUAREZ ALVAREZ",
+        "email": "csuarez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218458/detalle"
+      },
+      {
+        "nombre": "MARIA JOSE SUAREZ-CABAL",
+        "email": "cabal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218461/detalle"
+      },
+      {
+        "nombre": "FRANCISCO JOSE SUAREZ DOMINGUEZ",
+        "email": "fransd@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218571/detalle"
+      },
+      {
+        "nombre": "MARIA JOSE SUAREZ LOPEZ",
+        "email": "suarezlmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219657/detalle"
+      },
+      {
+        "nombre": "JAVIER SUAREZ QUIROS",
+        "email": "quiros@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218592/detalle"
+      },
+      {
+        "nombre": "INES MARIA SUAREZ RAMON",
+        "email": "ines@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218593/detalle"
+      },
+      {
+        "nombre": "MARIA EUGENIA SUAREZ SERRANO",
+        "email": "meugenia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218596/detalle"
+      },
+      {
+        "nombre": "PABLO SUAREZ-OTERO GONZALEZ",
+        "email": "suarezgpablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219056/detalle"
+      },
+      {
+        "nombre": "EMILIO TORRES MANZANERA",
+        "email": "torres@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218624/detalle"
+      },
+      {
+        "nombre": "Javier Tuya",
+        "email": "tuya@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218632/detalle"
+      },
+      {
+        "nombre": "GONZALO VALIÑO RIESTRA",
+        "email": "gvr@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218892/detalle"
+      },
+      {
+        "nombre": "SANDRA VELARDE SUAREZ",
+        "email": "sandrav@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219645/detalle"
+      },
+      {
+        "nombre": "MANUEL VELASCO RODRIGUEZ",
+        "email": "mvr@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2355870/detalle"
+      },
+      {
+        "nombre": "JULIAN VELASCO VALDES",
+        "email": "julian@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218501/detalle"
+      },
+      {
+        "nombre": "JUAN CARLOS VIERA PEREZ",
+        "email": "viera@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218515/detalle"
+      },
+      {
+        "nombre": "JOSE LUIS VIESCA RODRIGUEZ",
+        "email": "viescajose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218516/detalle"
+      },
+      {
+        "nombre": "JOSE RAMON VILLAR FLECHA",
+        "email": "villarjose@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218531/detalle"
+      },
+      {
+        "nombre": "Jaime Viña",
+        "email": "jaure@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218538/detalle"
+      },
+      {
+        "nombre": "MARIA ISABEL VIÑA OLAY",
+        "email": "ivina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218539/detalle"
+      },
+      {
+        "nombre": "PABLO ZAPICO GARCIA",
+        "email": "zapicopablo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218495/detalle"
+      },
+      {
+        "nombre": "RUBEN ZURITA HEVIA",
+        "email": "zurita@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219648/detalle"
+      },
+      {
+        "nombre": "PAULA ZURRON MADERA",
+        "email": "zurronpaula@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218500/detalle"
+      }
+    ],
+    "acronimo": "IUTA"
+  },
+  {
+    "url_centro": "https://portalinvestigacion.uniovi.es/unidades/47864/investigadores",
+    "nombre_centro": "Instituto Universitario en Género y Diversidad",
+    "periodo": "Effective from 2021",
+    "investigadores": [
+      {
+        "nombre": "MAXIMO ALAEZ CORRAL",
+        "email": "alezmaximo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216736/detalle"
+      },
+      {
+        "nombre": "MARIA ANGELES ALCEDO RODRIGUEZ",
+        "email": "malcedo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216742/detalle"
+      },
+      {
+        "nombre": "LAURA ALDEGUER PARDO",
+        "email": "lauraldeguer@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010229/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN ALFONSO GARCIA",
+        "email": "caralf@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216745/detalle"
+      },
+      {
+        "nombre": "OSCAR ALONSO ALVAREZ",
+        "email": "alonsooscar@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216752/detalle"
+      },
+      {
+        "nombre": "MARIA TERESA ALONSO MORO",
+        "email": "alonsommaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/220120/detalle"
+      },
+      {
+        "nombre": "MARIA ALVAREZ FERNANDEZ",
+        "email": "alvarezfmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216932/detalle"
+      },
+      {
+        "nombre": "MARIA ESTHER ALVAREZ LOPEZ",
+        "email": "eal@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216951/detalle"
+      },
+      {
+        "nombre": "ELIANA FRANCESCA AREVALO DELGADO",
+        "email": "arevaloeliana@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301796/detalle"
+      },
+      {
+        "nombre": "ANA ROSA ARGUELLES BLANCO",
+        "email": "anaargue@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216909/detalle"
+      },
+      {
+        "nombre": "LAURA BAK CELY",
+        "email": "baklaura@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010242/detalle"
+      },
+      {
+        "nombre": "ALBA DEL BLANCO MENDEZ",
+        "email": "blancoalba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1095830/detalle"
+      },
+      {
+        "nombre": "ALEJANDRA BOTO ALVAREZ",
+        "email": "botoalejandra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216844/detalle"
+      },
+      {
+        "nombre": "MARIA ISABEL CARRERA SUAREZ",
+        "email": "icarrera@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217235/detalle"
+      },
+      {
+        "nombre": "MELISSA CICCHETTI",
+        "email": "cmelissa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010264/detalle"
+      },
+      {
+        "nombre": "ROSA MARIA CID LOPEZ",
+        "email": "rcid@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/216988/detalle"
+      },
+      {
+        "nombre": "VIRGINIA COCINA DIAZ",
+        "email": "cocinavirginia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/453000/detalle"
+      },
+      {
+        "nombre": "SANDRA DEMA MORENO",
+        "email": "demasandra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217094/detalle"
+      },
+      {
+        "nombre": "MARIA MONTSERRAT DIAZ FERNANDEZ",
+        "email": "mdiaz@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217107/detalle"
+      },
+      {
+        "nombre": "EMILIA MARIA DURAN ALMARZA",
+        "email": "duranemilia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217152/detalle"
+      },
+      {
+        "nombre": "MIASOL LLARINA EGUIBAR HOLGADO",
+        "email": "eguibarmiasol@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217155/detalle"
+      },
+      {
+        "nombre": "JIMENA ESCUDERO PEREZ",
+        "email": "escuderojimena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217167/detalle"
+      },
+      {
+        "nombre": "ANDREA FERNANDEZ GARCÍA",
+        "email": "fernandezgarandrea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1301773/detalle"
+      },
+      {
+        "nombre": "ANDREA FERNANDEZ GARCIA",
+        "email": "fernandezgandrea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219111/detalle"
+      },
+      {
+        "nombre": "Marta Fernández Morales",
+        "email": "fernandezmmarta@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217323/detalle"
+      },
+      {
+        "nombre": "MARIA ARANZAZU FERNANDEZ RODRIGUEZ",
+        "email": "fernandezrodaranzazu@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217511/detalle"
+      },
+      {
+        "nombre": "LUIS ANTONIO FERNANDEZ VILLAZON",
+        "email": "villazon@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217593/detalle"
+      },
+      {
+        "nombre": "MARIA YOLANDA FONTANIL GOMEZ",
+        "email": "fontanil@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219170/detalle"
+      },
+      {
+        "nombre": "MARIA AQUILINA FUEYO GUTIERREZ",
+        "email": "mafueyo@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219160/detalle"
+      },
+      {
+        "nombre": "ALBA GARCIA TORRES",
+        "email": "garciatalba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217461/detalle"
+      },
+      {
+        "nombre": "UTHARA GEETHA",
+        "email": "geethauthara@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010309/detalle"
+      },
+      {
+        "nombre": "MARIA GOMEZ MARTIN",
+        "email": "gomezmmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219832/detalle"
+      },
+      {
+        "nombre": "MARIA DEL ROSARIO GONZALEZ ARIAS",
+        "email": "gonzalezrosario@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217958/detalle"
+      },
+      {
+        "nombre": "ALBA GONZALEZ SANZ",
+        "email": "gonzalezalba@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219833/detalle"
+      },
+      {
+        "nombre": "GHAZALEH HASHEMIAZAR",
+        "email": "hashemiazarghazaleh@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205503/detalle"
+      },
+      {
+        "nombre": "ELENA IGARTUBURU GARCIA",
+        "email": "igartuburuelena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218000/detalle"
+      },
+      {
+        "nombre": "CHRISTINA JURCIC",
+        "email": "jurcicchristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217668/detalle"
+      },
+      {
+        "nombre": "ELENA LASTRA ALONSO",
+        "email": "lastraelena@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1010342/detalle"
+      },
+      {
+        "nombre": "Andrea Llano Busta",
+        "email": "llanoandrea@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218724/detalle"
+      },
+      {
+        "nombre": "MARIA DEL MAR LLORENTE MARRON",
+        "email": "mmarron@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217744/detalle"
+      },
+      {
+        "nombre": "ZUZEL LOPEZ BAQUEZ",
+        "email": "lopezzuzel@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/1205506/detalle"
+      },
+      {
+        "nombre": "MARIA DE LA PAZ MENDEZ RODRIGUEZ",
+        "email": "mpmendez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217831/detalle"
+      },
+      {
+        "nombre": "EVA MARIA MENENDEZ SEBASTIAN",
+        "email": "menendezeva@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218231/detalle"
+      },
+      {
+        "nombre": "MARIA DE LA PAZ MENENDEZ SEBASTIAN",
+        "email": "pazms@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218232/detalle"
+      },
+      {
+        "nombre": "ALEJANDRA MORENO ALVAREZ",
+        "email": "morenoalejandra@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/217853/detalle"
+      },
+      {
+        "nombre": "DOMINIQUE MARIE FRANÇOISE NINANNE",
+        "email": "dominiq@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219617/detalle"
+      },
+      {
+        "nombre": "SILVIA PEREZ CASTELO",
+        "email": "perezcsilvia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/2044728/detalle"
+      },
+      {
+        "nombre": "IRENE PEREZ FERNANDEZ",
+        "email": "perezirene@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219223/detalle"
+      },
+      {
+        "nombre": "MARIA DEL ROCIO PEREZ GAÑAN",
+        "email": "perezganmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219225/detalle"
+      },
+      {
+        "nombre": "FERNANDO PEREZ GARCIA",
+        "email": "perezfernando@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219239/detalle"
+      },
+      {
+        "nombre": "MARIA ISABEL PEREZ RAMOS",
+        "email": "isabelperez@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219245/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN PEREZ RIU",
+        "email": "perezcarmen@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218142/detalle"
+      },
+      {
+        "nombre": "LUCIA ISABEL PRADA GONZALEZ",
+        "email": "pradalucia@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219630/detalle"
+      },
+      {
+        "nombre": "PAOLA PRIETO LOPEZ",
+        "email": "prietopaola@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218016/detalle"
+      },
+      {
+        "nombre": "CRISTINA RIAÑO ALONSO",
+        "email": "rianocristina@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219276/detalle"
+      },
+      {
+        "nombre": "ROCIO RIESTRA CAMACHO",
+        "email": "riestrarocio@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/219974/detalle"
+      },
+      {
+        "nombre": "CARLA MARIA RODRIGUEZ GONZALEZ",
+        "email": "rodriguezcarla@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218359/detalle"
+      },
+      {
+        "nombre": "MARIA DEL CARMEN RODRIGUEZ MENENDEZ",
+        "email": "carmenrm@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218179/detalle"
+      },
+      {
+        "nombre": "CARLA RUBIERA CANCELAS",
+        "email": "rubieracarla@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218673/detalle"
+      },
+      {
+        "nombre": "MARIA JESUS SANCHEZ GARCIA",
+        "email": "sanchezgmaria@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218386/detalle"
+      },
+      {
+        "nombre": "JUSTINE AGNES CORINE SCARLAKEN",
+        "email": "scarlakenjustine@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/452968/detalle"
+      },
+      {
+        "nombre": "AROA TEJERO PEREZ",
+        "email": "tejeroaroa@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218609/detalle"
+      },
+      {
+        "nombre": "HANS PETER VAN DEN BROEK",
+        "email": "hansvandenbroek@uniovi.es",
+        "url_detalle": "https://portalinvestigacion.uniovi.es/investigadores/218466/detalle"
+      }
+    ],
+    "acronimo": "IUGENDIV"
+  },
+  {
+    "url_centro": "http://ifid.uniovi.es",
+    "nombre_centro": "Instituto de Formación e Innovación Docente",
+    "acronimo": "IFID",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://iude.uniovi.es/",
+    "nombre_centro": "Instituto Universitario de la Empresa",
+    "acronimo": "IUDE",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "http://fundacionvaldessalas.es/",
+    "nombre_centro": "Aula Valdés Salas",
+    "acronimo": "",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://www.unioviedo.es/leonardcohen/",
+    "nombre_centro": "Cátedra Cohen",
+    "acronimo": "",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://www.uniovi.es/web/universidad-de-oviedo/centro-de-servicios-universitarios-de-aviles",
+    "nombre_centro": "Centro de Servicios Universitarios de Avilés",
+    "acronimo": "",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://www.innova.uniovi.es/inicio",
+    "nombre_centro": "Centro de Innovación",
+    "acronimo": "C1NN",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://lacasadelaslenguas.uniovi.es",
+    "nombre_centro": "La Casa de las Lenguas",
+    "acronimo": "",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://www.catedramartinezmarina.com/",
+    "nombre_centro": "Seminario de Historia Constitucional Martínez Marina",
+    "acronimo": "",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "http://cinn.es",
+    "nombre_centro": "Centro Mixto de Investigación en Nanomateriales y Nanotecnología",
+    "acronimo": "CINN",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://www.unioviedo.es/IMIB/",
+    "nombre_centro": "Instituto Mixto de Investigación en Biodiversidad",
+    "acronimo": "",
+    "periodo": "",
+    "investigadores": []
+  },
+  {
+    "url_centro": "https://fio.fernandez-vega.com/instituto-universitario/",
+    "nombre_centro": "Instituto Universitario Fernández Vega",
+    "acronimo": "IUFV",
+    "periodo": "",
+    "investigadores": []
+  }
+]

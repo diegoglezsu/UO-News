@@ -1,0 +1,1436 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="en" xml:lang="en">
+
+    <head>
+        
+                
+        
+        
+        
+        <title>Teoría de la Señal y Comunicaciones | Research groups - Universidad de Oviedo</title>
+        
+        
+    
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+        <link media="all" type="text/css" rel="stylesheet" href="/css/theme_base-c663fa161570519c0673046fd9b2623e.css?ts=1781020800" />
+        <link media="all" type="text/css" rel="stylesheet" href="/css/theme_16-3786c44b5c6659f87312569737a4348c.css?ts=1781020800" />
+        <link media="all" type="text/css" rel="stylesheet" href="/css/style-8c855758e24035b51af7239e05b7d6b4.css" />
+
+        <script src="https://cdn.jsdelivr.net/npm/htmx.org@1.9.12/dist/htmx.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>        
+        <script src="/js/app-5f1057f8bbda83d62fced0b3b3aecbd8.js"></script>
+
+        
+        <link media="all" type="text/css" rel="stylesheet" href="/cookies/cookieconsent-670b37e75a82edfd7af1776c3081eac5.css"/>
+        <script defer src="/cookies/cookieconsent-0a3c8bda3a0c2359787caa8bfe0cae04.js"></script>
+    
+        
+        <link rel="alternate" hreflang="es" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle"/><link rel="alternate" hreflang="ca" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=ca"/><link rel="alternate" hreflang="eu" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=eu"/><link rel="alternate" hreflang="gl" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=gl"/><link rel="alternate" hreflang="en" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=en"/><link rel="alternate" hreflang="fr" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=fr"/><link rel="alternate" hreflang="de" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=de"/>
+        <link rel="alternate" hreflang="x-default" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle"/>
+        <link rel="canonical" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=en_US"/>
+    
+        
+    </head>
+    <body hx-history="false">   
+        
+        
+        <!--button type="button" data-cc="c-settings">Show cookie settings</button-->
+        <script>
+            window.addEventListener('load', function () {
+                /**
+                 * All config. options available here:
+                 * https://cookieconsent.orestbida.com/reference/configuration-reference.html
+                 */
+                CookieConsent.run({
+
+                    // root: 'body',
+                    // autoShow: true,
+                    // disablePageInteraction: true,
+                    // hideFromBots: true,
+                    // mode: 'opt-in',
+                    // revision: 0,
+
+                    cookie: {
+                        name: 'cc_cookie',
+                        // domain: location.hostname,
+                        // path: '/',
+                        // sameSite: "Lax",
+                        // expiresAfterDays: 365,
+                    },
+
+                    // https://cookieconsent.orestbida.com/reference/configuration-reference.html#guioptions
+                    guiOptions: {
+                        consentModal: {
+                            layout: 'bar',
+                            position: 'bottom',
+                            equalWeightButtons: true,
+                            flipButtons: false
+                        },
+                        preferencesModal: {
+                            layout: 'box',
+                            equalWeightButtons: true,
+                            flipButtons: false
+                        }
+                    },
+
+                    categories: {
+                        necessary: {
+                            enabled: true, // this category is enabled by default
+                            readOnly: true  // this category cannot be disabled
+                        },
+                        analytics: {
+                            autoClear: {
+                                cookies: [
+                                    {
+                                        name: /^(_ga|_gid)/
+                                    }
+                                ]
+                            }
+                        }                        
+                    },
+
+                    language: {
+                        default: 'en',
+                        translations: {
+                            en: {
+                                consentModal: {
+                                    title: "This website uses cookies",
+                                    description: "This portal uses its own and third-party cookies for analytical purposes. Those related to analytical purposes will only be taken into account if you accept the cookies.",
+                                    acceptAllBtn: "Allow all",
+                                    acceptNecessaryBtn: "Allow only necessary",
+                                    showPreferencesBtn: "Manage cookies",
+                                    // closeIconLabel: 'Reject all and close modal',
+                                    footer: `<a href="/aviso_legal#cookies" target="_blank">Política de cookies</a>`,
+                                },
+                                preferencesModal: {
+                                    title: "Manage cookies",
+                                    acceptAllBtn: "Allow all",
+                                    acceptNecessaryBtn: "Allow only necessary",
+                                    savePreferencesBtn: "Save preferences",
+                                    closeIconLabel: "Close",
+                                    serviceCounterLabel: 'Service|Services',
+                                    sections: [
+                                        {
+                                            title: "Use of Cookies\uD83D\uDCE2",
+                                            description: "The use of cookies guarantees the basic functionalities of the website and improves your user experience. You can choose for each category whether or not to accept at any time. For more details about cookies and other sensitive data, please read the <a href=\"\/aviso_legal#cookies\" class=\"cc-link\">Cookie Policy<\/a>."
+                                        },
+                                        {
+                                            title: "Technical and Functional (Strictly necessary)",
+                                            description: "Strictly necessary cookies help make a website navigable by activating basic functions, such as language selection, page navigation and access to secure areas of the website. Without these cookies, the site could not function properly.",
+
+                                            //this field will generate a toggle linked to the 'necessary' category
+                                            linkedCategory: 'necessary'
+                                        },
+                                        {
+                                            title: "Statistics",
+                                            description: "Statistical cookies help the website owner understand how visitors interact with the site, collecting and reporting information.",
+                                            linkedCategory: 'analytics',
+                                            cookieTable: {
+                                                headers: {
+                                                    name: "Name",
+                                                    domain: "Domain",
+                                                    vencimiento: "Expiration",
+                                                    desc: "Description"
+                                                },
+                                                body: [
+                                                    {
+                                                        name: '_ga',
+                                                        domain: 'google.com',
+                                                        vencimiento: "2 years",
+                                                        desc: "This cookie is installed by Google Analytics. The cookie is used to calculate the data of visitors, sessions, campaigns and to track the use of the website for the analytical report of said website. Cookies store information anonymously and assign a randomly generated number to identify unique visitors."
+                                                    },
+                                                    {
+                                                        name: '_gat',
+                                                        domain: 'google.com',
+                                                        vencimiento: "1 minute",
+                                                        desc: "This cookie is installed by Google Analytics. The cookie is used to store information about how visitors use the website and helps create an analytical report on how the website is performing. The data collected, including the number of visitors, the source from which they came and the pages, appeared anonymously."
+                                                    },
+                                                    {
+                                                        name: '_gid',
+                                                        domain: 'google.com',
+                                                        vencimiento: "24 hours",
+                                                        desc: "Google Universal Analytics sets these cookies to slow down the request rate and limit data collection on high-traffic sites."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            title: "More information",
+                                            description: "Any questions or concerns regarding the cookie policy, please <a class=\"cc-link\" href=\"\/contacto\">contact us<\/a>."
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+        </script>
+    
+        <header class="site-header">
+            
+    
+    
+        <section class="site-header__container">
+            <nav>
+                <span class="site-header__logos">
+                    <a class="site-header__logo site-header__logo--portal" href="/">
+                        <img src="/img/logo-a41eeda6d21dfaa1b863a086b230aa03.png" alt="Research Portal Logo: Universidad de Oviedo"/>
+                    </a>
+                    <a target="_blank" class="site-header__logo site-header__logo--parent" href="https://www.uniovi.es/">
+                        <img src="/img/parent-logo-20d80e325a34b9860623f288c21b34ef.png" alt="Logo: Universidad de Oviedo"/>
+                    </a>
+                </span>
+                <span class="site-header__push"></span>
+                
+        <span class="site-header__authentication" >
+            <span class="site-header__login">
+                <a class="site-header__link" rel="nofollow" href="/sso/login?redirect_uri=https://portalinvestigacion.uniovi.es/grupos/14103/detalle">Sign in</a>
+
+                
+            </span>
+        </span>
+    
+            </nav>
+        </section>
+        
+
+
+        </header>
+
+        <nav class="site-navbar">
+            
+    
+    
+        <div class="site-navbar__container">
+            <div class="site-navbar__links">
+                <a class="navbar__grupos" href="/grupos">Groups</a>
+                <a class="navbar__investigadores" href="/investigadores">Researchers</a>   
+                <a class="navbar__proyectos" href="/financiaciones">Funding</a>
+                <a class="navbar__produccion" href="/resultados">Results</a>              
+            </div>
+        </div>
+    
+
+
+
+
+
+        </nav>
+
+        <main class="content">            
+            
+            
+            
+        <div class="content-header">
+            <div class="content-header__container">
+                <div class="grupo-header__content">
+                    
+                    <div class="grupo-nombre">
+                        <h1 class="original"><span class="original">TSC-UNIOVI</span></h1>
+                        <h2>Teoría de la Señal y Comunicaciones</h2>
+                    </div>
+                    
+                </div>
+                <div class="c-tabs">
+                    
+                        
+                        <a class="c-tabs__tab c-tabs__tab--current"
+                           href="/grupos/14103/detalle">Detail</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/lineas">Research lines</a>
+
+                    
+                        
+                        
+
+                    
+                        
+                        
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/financiacion">Funding</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/publicaciones">Publications</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/colaboracion">Collaboration</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/tesis">Theses</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/patentes">Patents</a>
+
+                    
+                        
+                        <a class="c-tabs__tab"
+                           href="/grupos/14103/indicadores">Metrics</a>
+
+                    
+                </div>
+
+                <!--<a th:if="${owner}"
+                   class="c-tabs__tab c-tabs__tab&#45;&#45;account"
+                   href="#" th:href="${@environment.getProperty('pciencia-account.url')}"><span th:text="#{'grupo.link.account'}">Editar</span></a>-->
+
+            </div>
+        </div>
+               
+            <div class="main-content">
+                <section class="grupo-detalles">               
+                    <div class="grupo-detalles__imagen">
+                        <img src="/img/uploaded/28A93BFA641BEB072E9587D1ED681FBA.png" width="100%" alt="Teoría de la Señal y Comunicaciones"/>
+                    </div>
+
+                    <div class="grupo-detalles__detalles">
+
+
+                        <p class="grupo-detalles__detalle"><span>Date of inception</span> <span>22 December 2010</span></p>
+
+                        
+
+                        <p class="grupo-detalles__detalle">
+                            <span>Leader</span>:
+                            <span class="item"><a href="/investigadores/217893/detalle"><span>FERNANDO LUIS LAS HERAS ANDRES</span></a></span>
+                        </p>
+
+                        <p class="grupo-detalles__detalle">
+                            <span>Department</span>:
+                            <a href="/unidades/6070/detalle"><span>Ingeniería Eléctrica, Electrónica, de Comunicaciones y de Sistemas (DIEECS)</span></a>
+                        </p>
+
+                                        
+                        
+                        <p class="grupo-detalles__detalle">
+                            <span>Website</span>:
+                            <a href="http://www.tsc.uniovi.es"><span>http://www.tsc.uniovi.es</span></a>
+                        </p>
+                        
+                        
+                        
+                        
+                    </div>
+
+                </section>
+
+                
+        
+    
+
+                <section id="grupo-detalles-descripcion">
+                    <div>
+                        
+                    </div>
+                </section>
+
+                
+        
+    
+
+                <section id="miembros" class="grupo-miembros">
+                    <h2 class="section-title section-title--filterable">
+                        <span>Researchers</span>
+
+                        <div class="c-filter">
+                            <button class="c-filter__btn btn btn-secondary">Filter</button>
+                            <input class="c-filter__size" type="hidden" name="size" value="53"/>
+                            <input class="c-filter__input" placeholder="Filter by first and last name" name="termino" type="text" style="display:none;" aria-label="Filter by first and last name" />
+                            <script type="text/javascript">
+                                $(document).ready(function () {
+                                    new FilterComponent("miembros/filtrar", "personas", "#miembros", ".grupo-miembros__item").init();
+                                });
+                            </script>
+                        </div>
+                    </h2>
+
+                    <div class="grupo-miembros__items">
+                        <div data-id="217893" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217893/detalle">
+                                        <img loading="lazy" src="/img/uploaded/6F7BCCE4BB7E20C2AD63F6924AC749EA.jpg" alt="Foto de FERNANDO LUIS LAS"
+                                             title="Foto de FERNANDO LUIS LAS" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217893/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">FERNANDO LUIS LAS</div>
+                                        <div class="c-persona-card__apellidos">HERAS ANDRES</div>
+                                    </a>
+                                    <div class="c-persona-card__rol">Leader</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219324" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219324/detalle">
+                                        <img loading="lazy" src="/img/uploaded/1D1B8FD64396548B94CC335E05833C2E.jpg" alt="Foto de YURI"
+                                             title="Foto de YURI" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219324/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">YURI</div>
+                                        <div class="c-persona-card__apellidos">ALVAREZ LOPEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218959" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218959/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de GUILLERMO"
+                                             title="Foto de GUILLERMO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218959/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">GUILLERMO</div>
+                                        <div class="c-persona-card__apellidos">ALVAREZ NARCIANDI</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217195" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217195/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de MARIA ELENA DE"
+                                             title="Foto de MARIA ELENA DE" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217195/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MARIA ELENA DE</div>
+                                        <div class="c-persona-card__apellidos">COS GOMEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217053" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217053/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de MIGUEL"
+                                             title="Foto de MIGUEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217053/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MIGUEL</div>
+                                        <div class="c-persona-card__apellidos">FERNANDEZ GARCIA</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219685" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219685/detalle">
+                                        <img loading="lazy" src="/img/uploaded/FAAA8E1B94E0E64EE63036E5823B170F.png" alt="Foto de ALVARO"
+                                             title="Foto de ALVARO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219685/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALVARO</div>
+                                        <div class="c-persona-card__apellidos">FERNANDEZ VAQUERO</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1116424" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1116424/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de JUAN JOSE"
+                                             title="Foto de JUAN JOSE" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1116424/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JUAN JOSE</div>
+                                        <div class="c-persona-card__apellidos">FLOREZ RODRIGUEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218786" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218786/detalle">
+                                        <img loading="lazy" src="/img/uploaded/C518A124EB88DFDE93588FDBBE0BDA73.jpg" alt="Foto de MARIA"
+                                             title="Foto de MARIA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218786/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MARIA</div>
+                                        <div class="c-persona-card__apellidos">GARCIA FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217335" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217335/detalle">
+                                        <img loading="lazy" src="/img/uploaded/90DA7994F7A92307F981C20D9EB06FB3.jpg" alt="Foto de RAFAEL"
+                                             title="Foto de RAFAEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217335/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">RAFAEL</div>
+                                        <div class="c-persona-card__apellidos">GONZALEZ AYESTARAN</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217902" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217902/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de LUIS FERNANDO"
+                                             title="Foto de LUIS FERNANDO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217902/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">LUIS FERNANDO</div>
+                                        <div class="c-persona-card__apellidos">HERRAN ONTAÑON</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217730" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217730/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de Jaime Laviada"
+                                             title="Foto de Jaime Laviada" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217730/detalle">
+                                        <div class="c-persona-card__nombre">Jaime Laviada</div>
+                                        
+                                        
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217735" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217735/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de GERMAN"
+                                             title="Foto de GERMAN" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217735/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">GERMAN</div>
+                                        <div class="c-persona-card__apellidos">LEON FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217762" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217762/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de JESUS ALBERTO"
+                                             title="Foto de JESUS ALBERTO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217762/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">JESUS ALBERTO</div>
+                                        <div class="c-persona-card__apellidos">LOPEZ FERNANDEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="217795" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/217795/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de SUSANA"
+                                             title="Foto de SUSANA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/217795/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">SUSANA</div>
+                                        <div class="c-persona-card__apellidos">LOREDO RODRIGUEZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1116425" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1116425/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de SERGIO"
+                                             title="Foto de SERGIO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1116425/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">SERGIO</div>
+                                        <div class="c-persona-card__apellidos">MENENDEZ FEITO</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1010389" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1010389/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ALVARO"
+                                             title="Foto de ALVARO" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1010389/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ALVARO</div>
+                                        <div class="c-persona-card__apellidos">PENDAS RECONDO</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="1205499" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/1205499/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de LARA"
+                                             title="Foto de LARA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/1205499/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">LARA</div>
+                                        <div class="c-persona-card__apellidos">PRENDES SUAREZ</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="219298" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/219298/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de IGNACIO RODRIGUEZ"
+                                             title="Foto de IGNACIO RODRIGUEZ" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/219298/detalle">
+                                        <div class="c-persona-card__nombre">IGNACIO RODRIGUEZ</div>
+                                        
+                                        
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218646" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218646/detalle">
+                                        <img loading="lazy" src="/img/uploaded/B48C5F534CBFFCEE9004EF6201CC1D2C.jpg" alt="Foto de MARCOS"
+                                             title="Foto de MARCOS" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218646/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">MARCOS</div>
+                                        <div class="c-persona-card__apellidos">RODRIGUEZ PINO</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218471" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218471/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de CARLOS"
+                                             title="Foto de CARLOS" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218471/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">CARLOS</div>
+                                        <div class="c-persona-card__apellidos">VAZQUEZ ANTUÑA</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div data-id="218503" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/218503/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de SAMUEL EZECHIEL"
+                                             title="Foto de SAMUEL EZECHIEL" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/218503/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">SAMUEL EZECHIEL</div>
+                                        <div class="c-persona-card__apellidos">VER HOEYE</div>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                
+        
+    
+
+                <section>
+                    <h2 class="section-title">Classifications</h2>
+                    <ul class="grupo-clasificaciones">     
+                        <li>
+                            <span>area-rama-conocimiento: </span>
+                            <span>Ingeniería y Arquitectura</span>
+                        </li>
+                    </ul>
+                </section>
+
+                
+        
+    
+
+                <section class="grupo-miembros">
+                    <h2 class="section-title">Contributors</h2>
+
+                    <div class="grupo-miembros__items">
+                        <div data-id="220287" class="grupo-miembros__item">
+                            <div class="c-persona-card">
+                                <div class="c-persona-card__foto">
+                                    <a href="/investigadores/220287/detalle">
+                                        <img loading="lazy" src="/img/nophoto-11a61d72634ad47789f777a6311393e0.png" alt="Foto de ANA"
+                                             title="Foto de ANA" width="100%"/>
+                                    </a>
+                                </div>
+                                <div class="c-persona-card__detalles">
+                                    <a href="/investigadores/220287/detalle">
+                                        
+                                        <div class="c-persona-card__nombre">ANA</div>
+                                        <div class="c-persona-card__apellidos">ARBOLEYA ARBOLEYA</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>    
+                </section>
+
+                <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    
+
+    
+</html>
+
+
+                <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    
+    
+    <section class="publicaciones-topics-topn">
+        <h2 class="section-title">
+            <span>beta</span>
+            Prevailing specialties (top 10)
+            <a href="#" class="publicaciones-topics-topn-help">
+                <small>Obtained from publications <i class="material-icons">help</i></small>
+            </a>
+            <div class="publicaciones-topics-topn-help publicaciones-topics-topn-help-detail">
+                <small>Obtained from publications</small>
+                <p>The displayed thematic specialties have been obtained through the application of artificial intelligence models, derived as a result of the Hercules Project from those publications with an abstract, provided that the record does not come from commercial databases, which impose restrictions on data usage.</p>
+                <footer class="publicaciones-topics-topn-help-disclaimer">The list may contain errors. Under evaluation and improvement. Shared to gather community suggestions.</footer>
+            </div>
+        </h2>
+        <ol>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Electrical%20and%20Electronic%20Engineering" title='Filter publications by &quot;Electrical and Electronic Engineering&quot;' style="width: 100%">
+                    Electrical and Electronic Engineering (Engineering) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="33" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Atomic%20and%20Molecular%20Physics,%20and%20Optics" title='Filter publications by &quot;Atomic and Molecular Physics, and Optics&quot;' style="width: 21%">
+                    Atomic and Molecular Physics, and Optics (Physics and Astronomy) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="7" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Computer%20Networks%20and%20Communications" title='Filter publications by &quot;Computer Networks and Communications&quot;' style="width: 12%">
+                    Computer Networks and Communications (Computer Science) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="4" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ffff00'>
+                <a href="publicaciones?herculesThematic=Education" title='Filter publications by &quot;Education&quot;' style="width: 12%">
+                    Education (Social Sciences) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="4" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Condensed%20Matter%20Physics" title='Filter publications by &quot;Condensed Matter Physics&quot;' style="width: 6%">
+                    Condensed Matter Physics (Physics and Astronomy) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="2" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Instrumentation%20and%20Detectors" title='Filter publications by &quot;Instrumentation and Detectors&quot;' style="width: 6%">
+                    Instrumentation and Detectors (Physics and Astronomy) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="2" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Accelerator%20Physics" title='Filter publications by &quot;Accelerator Physics&quot;' style="width: 3%">
+                    Accelerator Physics (Physics and Astronomy) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="1" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Aerospace%20Engineering" title='Filter publications by &quot;Aerospace Engineering&quot;' style="width: 3%">
+                    Aerospace Engineering (Engineering) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="1" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Applied%20Physics" title='Filter publications by &quot;Applied Physics&quot;' style="width: 3%">
+                    Applied Physics (Physics and Astronomy) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="1" style="width: 100%"></span>                    
+                </a>
+            </li>
+            <li style='color: #ff0000'>
+                <a href="publicaciones?herculesThematic=Artificial%20Intelligence" title='Filter publications by &quot;Artificial Intelligence&quot;' style="width: 3%">
+                    Artificial Intelligence (Computer Science) <small class="topic-hover-feedback">Filter</small>
+                    <span class="bar" data-value="1" style="width: 100%"></span>                    
+                </a>
+            </li>
+        </ol>        
+    </section>
+</html> 
+
+
+                
+        
+    
+                
+                <section id="ex-miembros" class="grupo-miembros">
+                    <h2 class="section-title section-title--filterable">
+                        Former members (31)  
+                    </h2>
+                    <ul >
+                        <li data-id="220278">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220278/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ALONSO GONZALEZ,</span>
+                                    <span class="c-persona-card__nombre">LETICIA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2018</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220298">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220298/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ALVAREZ MUÑIZ,</span>
+                                    <span class="c-persona-card__nombre">JANA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2014</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218959">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218959/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ALVAREZ NARCIANDI,</span>
+                                    <span class="c-persona-card__nombre">GUILLERMO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2021</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220287">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220287/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ARBOLEYA ARBOLEYA,</span>
+                                    <span class="c-persona-card__nombre">ANA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="217296">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/217296/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ARREBOLA BAENA,</span>
+                                    <span class="c-persona-card__nombre">MANUEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2024</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220296">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220296/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">CAMBLOR DIAZ,</span>
+                                    <span class="c-persona-card__nombre">RENE</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2015</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220297">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220297/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">DOMINGUEZ CASAS,</span>
+                                    <span class="c-persona-card__nombre">BELEN ARANZAZU</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2011</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220300">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220300/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">ESPARZA LOPEZ,</span>
+                                    <span class="c-persona-card__nombre">NURIA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220282">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220282/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">FERNANDEZ ALVAREZ,</span>
+                                    <span class="c-persona-card__nombre">HUMBERTO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2017</span><span class="fechaFin">2021</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219685">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219685/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">FERNANDEZ VAQUERO,</span>
+                                    <span class="c-persona-card__nombre">ALVARO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2020</span><span class="fechaFin">2021</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="219040">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/219040/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">FLOREZ BERDASCO,</span>
+                                    <span class="c-persona-card__nombre">ALICIA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2021</span><span class="fechaFin">2024</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220286">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220286/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GAGO RIBAS,</span>
+                                    <span class="c-persona-card__nombre">EMILIO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218786">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218786/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GARCIA FERNANDEZ,</span>
+                                    <span class="c-persona-card__nombre">MARIA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2021</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220294">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220294/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GARCIA GONZALEZ,</span>
+                                    <span class="c-persona-card__nombre">CEBRIAN</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2014</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218813">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218813/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GOMEZ ALVAREZ,</span>
+                                    <span class="c-persona-card__nombre">ANDRES</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2022</span><span class="fechaFin">2025</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="217907">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/217907/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GONZALEZ PLAZA,</span>
+                                    <span class="c-persona-card__nombre">ENRIQUE</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220280">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220280/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">GUTIERREZ MEANA,</span>
+                                    <span class="c-persona-card__nombre">JAVIER</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2015</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220279">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220279/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HADARIG,</span>
+                                    <span class="c-persona-card__nombre">ANDREEA IOANA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220295">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220295/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HEREDIA JUESAS,</span>
+                                    <span class="c-persona-card__nombre">JUAN</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2013</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220299">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220299/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HOTOPAN,</span>
+                                    <span class="c-persona-card__nombre">GEORGE ROBERTO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2014</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220288">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220288/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HOTOPAN,</span>
+                                    <span class="c-persona-card__nombre">RAMONA COSMINA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2014</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="1205500">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/1205500/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">HOYO VIJANDE,</span>
+                                    <span class="c-persona-card__nombre">ALEJANDRO DEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2023</span><span class="fechaFin">2025</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218709">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218709/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">IMAZ LUEJE,</span>
+                                    <span class="c-persona-card__nombre">BORJA</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2021</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220285">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220285/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">LOPEZ PORTUGUES,</span>
+                                    <span class="c-persona-card__nombre">MIGUEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="1010353">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/1010353/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">MAHDIPOUR,</span>
+                                    <span class="c-persona-card__nombre">HADI</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2023</span><span class="fechaFin">2025</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220283">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220283/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">MARTINEZ ALVAREZ,</span>
+                                    <span class="c-persona-card__nombre">DAVID</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2015</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218883">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218883/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">RODRIGUEZ PRADO,</span>
+                                    <span class="c-persona-card__nombre">DANIEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2021</span><span class="fechaFin">2023</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218883">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218883/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">RODRIGUEZ PRADO,</span>
+                                    <span class="c-persona-card__nombre">DANIEL</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="2353983">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/2353983/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">SERROUKH,</span>
+                                    <span class="c-persona-card__nombre">ABDELAZIZ</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2010</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="218471">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/218471/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">VAZQUEZ ANTUÑA,</span>
+                                    <span class="c-persona-card__nombre">CARLOS</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2010</span><span class="fechaFin">2017</span></span>
+                            </span>                       
+                        </li>
+                        <li data-id="220281">
+                            <span class="c-persona-card__detalles">
+                                <a href="/investigadores/220281/detalle">
+                                    
+                                    <span class="c-persona-card__apellidos">VIDAL GARCIA,</span>
+                                    <span class="c-persona-card__nombre">PABLO</span></a>                             
+                                
+                                
+                                <span class="c-persona-card__fechas"><span class="fechaInicio">2016</span><span class="fechaFin">2019</span></span>
+                            </span>                       
+                        </li>
+                    </ul>
+                </section>
+
+                
+        
+    
+
+
+            </div>
+
+        
+        </main>
+
+        <nav class="site-navfooter">
+            
+    
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <ul>
+                        
+                        <li><a href="/contacto">Contact</a></li>
+                        
+                        <li><a href="/aviso_legal">Legal notice</a></li>
+                        <li><a href="/mapa_sitio">Site map</a></li>
+                        
+                    </ul>                                        
+                </div>
+                <div>
+        <div class="c-langselect">
+            <a href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle" tabindex="0" class="c-langselect--trigger" title="Change language">
+                <i class="material-icons material-icons--translate">translate</i> en <i class="material-icons">arrow_drop_down</i>
+            </a>
+            
+            <div class="mdc-menu mdc-menu-surface">
+                <div class="mdc-list">
+                    <a href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=en" title="English">
+                        <i class="material-icons material-icons--translate">translate</i> en <i class="material-icons">arrow_drop_down</i>
+                    </a>
+                    <a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=es"
+                       data-lang="es"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Español">
+                        es
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=ca"
+                       data-lang="ca"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Català i valencià">
+                        ca
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=eu"
+                       data-lang="eu"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Euskara">
+                        eu
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=gl"
+                       data-lang="gl"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Galego">
+                        gl
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=en"
+                       data-lang="en"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="English">
+                        en
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=fr"
+                       data-lang="fr"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Francais">
+                        fr
+                    </a><a class="mdc-list-item" href="https://portalinvestigacion.uniovi.es/grupos/14103/detalle?lang=de"
+                       data-lang="de"
+                       onclick="document.cookie=&#39;pciencia.LOCALE=&#39;+this.dataset.lang"
+                       title="Deutsch">
+                        de
+                    </a>
+                </div>
+            </div>
+        </div>        
+    </div>
+            </div>
+        </div>
+    
+
+        </nav>
+        <footer class="site-footer">
+            
+    
+    
+        <section class="site-footer__container">
+            <div class="site-footer__inner">
+                <div class="site-footer__column">
+                    <span class="site-footer__column-title">Relevants</span>
+                    <ul class="site-footer__nav">
+                        <li><a target="_blank" href="https://www.uniovi.es/">Oviedo University</a></li>
+                        <li><a target="_blank" href="https://buo.uniovi.es/">Library</a></li>
+                        <li><a target="_blank" href="https://digibuo.uniovi.es/dspace/">RUO</a></li>
+                        <li><a target="_blank" href="https://accesoabiertouniovi.wordpress.com/">Blog Difunde Uniovi</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer__column">
+                    <span class="site-footer__column-title">Research</span>
+                    <ul class="site-footer__nav">
+                        <li><a target="_blank" href="https://www.uniovi.es/en/conocenos/gobierno/vicerrectorados/investigacion">Research Vice-rectorate</a></li>
+                        <li><a target="_blank" href="https://www.uniovi.es/conocenos/gobierno/vicerrectorados/transferencia">Knowledge Transfer Vice-rectorate</a></li>
+                    </ul>
+                </div>
+                <div class="site-footer__column">
+                    
+
+    
+        <div class="site-footer__column--social">
+            <span class="site-footer__column-title">UniOvi in the network</span>
+            <ul>
+                <li>
+                    <a target="_blank" href="https://www.facebook.com/UniversidadOviedo">
+                        <img src="/img/social/facebook.png" alt="Facebook"/>
+                        Facebook
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://bsky.app/profile/universidadoviedo.bsky.social">
+                        <img src="/img/social/bsky.png" alt="BlueSky"/>
+                        BlueSky
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.instagram.com/accounts/login/?next=/universidad_de_oviedo/">
+                        <img src="/img/social/instagram.png" alt="Instagram"/>
+                        Instagram
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.youtube.com/user/uniovi">
+                        <img src="/img/social/youtube.png" alt="Youtube"/>
+                        Youtube
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="https://www.linkedin.com/school/uniovi/mycompany/verification/">
+                        <img src="/img/social/linkedin.png" alt="LinkedIn"/>
+                        LinkedIn
+                    </a>
+                </li>
+            </ul>
+        </div>
+    
+    
+
+                </div>
+            </div>
+            <div class="site-footer__colaboracion">
+                <p>With the collaboration of: </p>
+                <div class="site-footer__logo">
+                    <img src="/img/ministerio-fecyt-con-banderas-01_JPG.jpg" alt="Logo Ministerio Fecyt"/>
+                </div>
+            </div>
+        </section>
+    
+    
+
+            
+    
+    
+        <div class="site-actualizacion__container">
+            <div class="info-container">
+                Data updated as of:
+                16-07-2026
+                <i class="material-icons">info</i>
+                <div class="info-content">
+                    <p>Portal documents are updated daily. This date refers to the updating of information related to the portal structure (people, research groups, organizational units, projects...).</p>
+                </div>
+            </div>
+        </div>
+    
+
+            
+    
+    
+        <div class="site-footer__copyright">
+            <div>
+                <span>CRIS project developed in collaboration with <strong><a target="_blank" href="https://fundaciondialnet.unirioja.es/" class="externo">Fundación Dialnet</a> (<a target="_blank" href="https://www.unirioja.es/" class="externo">University of La Rioja</a>)</strong></span>
+            </div>
+        </div>       
+        
+
+
+        </footer>
+
+        
+
+
+
+
+
+
+        
+
+    
+
+    
+    
+
+        
+    </body>
+</html>

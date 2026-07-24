@@ -10,7 +10,7 @@ services:
     environment:
       - UO_NEWS_ROOT=/app
     volumes:
-      - ./data:/app/data
+      - uo-news-data:/app/data
       - uo-news-db:/app/db
       - uo-news-logs:/app/logs
     restart: unless-stopped
@@ -24,5 +24,6 @@ services:
               capabilities: [gpu]
 
 volumes:
+  uo-news-data:
   uo-news-db:
   uo-news-logs:

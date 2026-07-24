@@ -26,8 +26,7 @@ def find_project_root() -> Path:
 
 
 ROOT = find_project_root()
-REPO_ROOT = ROOT.parent
-JSON_PATH = REPO_ROOT / "data" / "json" / "noticias_uniovi.json"
+JSON_PATH = ROOT / "data" / "json" / "noticias_uniovi.json"
 DB_PATH = ROOT / "db"
 LOG_DIR = ROOT / "logs"
 
