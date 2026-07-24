@@ -10,10 +10,18 @@ services:
     environment:
       - UO_NEWS_ROOT=/app
     volumes:
-      - ./data:/app/data:ro
+      - ./data:/app/data
       - uo-news-db:/app/db
       - uo-news-logs:/app/logs
     restart: unless-stopped
+    gpus: all
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
 
 volumes:
   uo-news-db:
