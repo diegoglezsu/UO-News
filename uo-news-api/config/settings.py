@@ -11,17 +11,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def find_project_root() -> Path:
-    env_root = os.environ.get("UO_NEWS_ROOT")
-    if env_root:
-        return Path(env_root).resolve()
-
     current = Path(__file__).resolve()
     for parent in current.parents:
         if (parent / "pyproject.toml").exists():
             return parent
     raise FileNotFoundError(
         "Project root not found. "
-        "Set UO_NEWS_ROOT or run from the project directory."
     )
 
 
