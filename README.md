@@ -41,3 +41,6 @@ From the project root:
 ```bash
 docker compose up --build
 ```
+
+> [!INFO]
+> Before running the API, be sure to add the `noticias_uniovi.json` file to the `uo-news-api/data/` directory. This file contains the news data that the API will read.
