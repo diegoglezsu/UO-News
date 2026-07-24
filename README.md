@@ -1,6 +1,6 @@
 # UO-News
 
-## Development Set Up
+## Get Started
 
 Install the dependencies:
 
@@ -24,19 +24,17 @@ cp ./.environments/.env.example .env
 | `API_RELOAD` | `false` | Enable auto-reload on code changes |
 | `LOG_LEVEL` | `INFO` | Logging level (`DEBUG`, `INFO`, `WARNING`, `ERROR`) |
 
-## Running the API REST service
-
-### Local
+### Running the API REST service
 
 From the `uo-news-api/` directory:
+
+- Local
 
 ```bash
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-### Docker
-
-From the project root:
+- Docker
 
 ```bash
 docker compose up --build
