@@ -43,3 +43,13 @@ docker compose up --build
 
 > [!IMPORTANT]
 > Before running the API, be sure to add the `noticias_uniovi.json` file to the `uo-news-api/data/` directory. This file contains the news data that the API will read and it must have the correct structure.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Authors
+
+
+## Acknowledgements
