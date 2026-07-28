@@ -1,0 +1,68 @@
+[
+  {
+    "nombre": "Adrián",
+    "apellido1": "Barbón",
+    "apellido2": "Rodríguez",
+    "rol": "Presidente del Principado de Asturias"
+  },
+  {
+    "nombre": "Gimena",
+    "apellido1": "Llamedo",
+    "apellido2": "González",
+    "rol": "Vicepresidenta y consejera de Presidencia, Reto Demográfico, Igualdad y Turismo"
+  },
+  {
+    "nombre": "Guillermo",
+    "apellido1": "Peláez",
+    "apellido2": "Álvarez",
+    "rol": "Consejero de Hacienda, Justicia y Asuntos Europeos"
+  },
+  {
+    "nombre": "Ovidio",
+    "apellido1": "Zapico",
+    "apellido2": "González",
+    "rol": "Consejero de Ordenación de Territorio, Urbanismo, Vivienda y Derechos Ciudadanos"
+  },
+  {
+    "nombre": "Borja",
+    "apellido1": "Sánchez",
+    "apellido2": "García",
+    "rol": "Consejero de Ciencia, Industria y Empleo"
+  },
+  {
+    "nombre": "María Concepción",
+    "apellido1": "Saavedra",
+    "apellido2": "Rielo",
+    "rol": "Consejera de Salud"
+  },
+  {
+    "nombre": "Eva",
+    "apellido1": "Ledo",
+    "apellido2": "Cabaleiro",
+    "rol": "Consejera de Educación"
+  },
+  {
+    "nombre": "Alejandro Jesús",
+    "apellido1": "Calvo",
+    "apellido2": "Rodríguez",
+    "rol": "Consejero de Movilidad, Medio Ambiente y Gestión de Emergencias"
+  },
+  {
+    "nombre": "Marcelino",
+    "apellido1": "Marcos",
+    "apellido2": "Líndez",
+    "rol": "Consejero de Medio Rural y Política Agraria"
+  },
+  {
+    "nombre": "Marta",
+    "apellido1": "del Arco",
+    "apellido2": "Fernández",
+    "rol": "Consejera de Derechos Sociales y Bienestar"
+  },
+  {
+    "nombre": "Ana Vanesa",
+    "apellido1": "Gutiérrez",
+    "apellido2": "González",
+    "rol": "Consejera de Cultura, Política Llingüística y Deporte"
+  }
+]

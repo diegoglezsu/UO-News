@@ -1,0 +1,140 @@
+[
+  {
+    "nombre": "Pedro",
+    "apellido1": "Sánchez",
+    "apellido2": "Pérez-Castejón",
+    "rol": "Presidente del Gobierno"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido1": "Cuerpo",
+    "apellido2": "Caballero",
+    "rol": "Vicepresidente primero y ministro de Economía, Comercio y Empresa"
+  },
+  {
+    "nombre": "Yolanda",
+    "apellido1": "Díaz",
+    "apellido2": "Pérez",
+    "rol": "Vicepresidenta segunda y ministra de Trabajo y Economía Social"
+  },
+  {
+    "nombre": "Sara",
+    "apellido1": "Aagesen",
+    "apellido2": "Muñoz",
+    "rol": "Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico"
+  },
+  {
+    "nombre": "José Manuel",
+    "apellido1": "Albares",
+    "apellido2": "Bueno",
+    "rol": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación"
+  },
+  {
+    "nombre": "Félix",
+    "apellido1": "Bolaños",
+    "apellido2": "García",
+    "rol": "Ministro de la Presidencia, Justicia y Relaciones con las Cortes"
+  },
+  {
+    "nombre": "Margarita",
+    "apellido1": "Robles",
+    "apellido2": "Fernández",
+    "rol": "Ministra de Defensa"
+  },
+  {
+    "nombre": "Arcadi",
+    "apellido1": "España",
+    "apellido2": "García",
+    "rol": "Ministro de Hacienda"
+  },
+  {
+    "nombre": "Fernando",
+    "apellido1": "Grande-Marlaska",
+    "apellido2": "Gómez",
+    "rol": "Ministro del Interior"
+  },
+  {
+    "nombre": "Óscar",
+    "apellido1": "Puente",
+    "apellido2": "Santiago",
+    "rol": "Ministro de Transportes y Movilidad Sostenible"
+  },
+  {
+    "nombre": "Milagros",
+    "apellido1": "Tolón",
+    "apellido2": "Jaime",
+    "rol": "Ministra de Educación, Formación Profesional y Deportes"
+  },
+  {
+    "nombre": "Jordi",
+    "apellido1": "Hereu",
+    "apellido2": "Boher",
+    "rol": "Ministro de Industria y Turismo"
+  },
+  {
+    "nombre": "Luis",
+    "apellido1": "Planas",
+    "apellido2": "Puchades",
+    "rol": "Ministro de Agricultura, Pesca y Alimentación"
+  },
+  {
+    "nombre": "Ángel Víctor",
+    "apellido1": "Torres",
+    "apellido2": "Pérez",
+    "rol": "Ministro de Política Territorial y Memoria Democrática"
+  },
+  {
+    "nombre": "Isabel",
+    "apellido1": "Rodríguez",
+    "apellido2": "García",
+    "rol": "Ministra de Vivienda y Agenda Urbana"
+  },
+  {
+    "nombre": "Ernest",
+    "apellido1": "Urtasun",
+    "apellido2": "Domènech",
+    "rol": "Ministro de Cultura"
+  },
+  {
+    "nombre": "Mónica",
+    "apellido1": "García",
+    "apellido2": "Gómez",
+    "rol": "Ministra de Sanidad"
+  },
+  {
+    "nombre": "Pablo",
+    "apellido1": "Bustinduy",
+    "apellido2": "Amador",
+    "rol": "Ministro de Derechos Sociales, Consumo y Agenda 2030"
+  },
+  {
+    "nombre": "Diana",
+    "apellido1": "Morant",
+    "apellido2": "Ripoll",
+    "rol": "Ministra de Ciencia, Innovación y Universidades"
+  },
+  {
+    "nombre": "Ana",
+    "apellido1": "Redondo",
+    "apellido2": "García",
+    "rol": "Ministra de Igualdad"
+  },
+  {
+    "nombre": "Elma",
+    "apellido1": "Saiz",
+    "apellido2": "Delgado",
+    "rol": "Ministra de Inclusión, Seguridad Social y Migraciones y portavoz del Gobierno"
+  },
+  {
+    "nombre": "Óscar",
+    "apellido1": "López",
+    "apellido2": "Águeda",
+    "rol": "Ministro para la Transformación Digital y de la Función Pública"
+  },
+  {
+    "nombre": "Sira",
+    "apellido1": "Rego",
+    "apellido2": "",
+    "rol": "Ministra de Juventud e Infancia"
+  }
+]
