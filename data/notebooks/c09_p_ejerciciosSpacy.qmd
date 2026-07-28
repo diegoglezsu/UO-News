@@ -1,0 +1,879 @@
+---
+title: "Uso básico de spaCy"
+format: "html"
+---
+
+Para resolver los ejercicios, utiliza el siguiente procesador:
+
+```{python}
+import spacy
+nlp = spacy.load("es_core_news_sm")
+```
+
+Recuerda que, además de `spacy`, debes instalar el modelo preentrenado si no lo tienes:
+
+```
+python -m spacy download es_core_news_sm
+```
+
+```{python}
+#| echo: false
+from collections import Counter
+from spacy.matcher import Matcher
+from spacy.matcher import PhraseMatcher
+```
+
+## Ejercicio
+
+Dado el siguiente texto, identifica y muestra todas las entidades nombradas junto con su tipo.
+
+```
+La Universidad de Oviedo organizó unas jornadas sobre innovación tecnológica en el Parque Científico Tecnológico de Gijón.
+Al evento asistieron representantes del Ayuntamiento de Gijón y del Gobierno del Principado de Asturias, junto con expertos de empresas como ArcelorMittal.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `doc.ents` para acceder a las entidades.
+* Cada entidad tiene atributos como `.text` y `.label_`.
+* Recorre las entidades con un bucle `for`.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+La Universidad de Oviedo organizó unas jornadas sobre innovación tecnológica en el Parque Científico Tecnológico de Gijón. 
+Al evento asistieron representantes del Ayuntamiento de Gijón y del Gobierno del Principado de Asturias, junto con expertos de empresas como ArcelorMittal.
+"""
+
+doc = nlp(texto)
+
+for ent in doc.ents:
+    print(ent.text, "->", ent.label_)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+A partir del siguiente texto, extrae todos los verbos, utilizando las etiquetas gramaticales.
+
+```
+Me encantó el congreso de innovación educativa. Aprendí muchísimo sobre nuevas metodologías.
+Sin embargo, creo que el horario no fue muy cómodo. Algunos talleres se solapaban y eso generó cierta confusión.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `token.pos_`.
+* Los verbos se identifican con la etiqueta `VERB`.
+* Podrías considerar también `AUX` si quieres incluir auxiliares.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+Me encantó el congreso de innovación educativa. Aprendí muchísimo sobre nuevas metodologías. 
+Sin embargo, creo que el horario no fue muy cómodo. Algunos talleres se solapaban y eso generó cierta confusión.
+"""
+
+doc = nlp(texto)
+
+verbos = [token.text for token in doc if token.pos_ == "VERB"]
+print(verbos)
+```
+
+```{python}
+verbos = [token.text for token in doc if token.pos_ in ("VERB", "AUX")]
+print(verbos)
+```
+
+:::
+
+
+---
+
+## Ejercicio
+
+Extrae todos los sustantivos comunes del siguiente texto.
+
+```
+El Vicerrectorado de Investigación anuncia la apertura del nuevo laboratorio de robótica en la Escuela Politécnica de Gijón.
+Se celebrará un seminario sobre inteligencia artificial aplicada a la industria asturiana.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `token.pos_ == "NOUN"`.
+* Recorre todos los tokens del documento.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+El Vicerrectorado de Investigación anuncia la apertura del nuevo laboratorio de robótica en la Escuela Politécnica de Gijón. 
+Se celebrará un seminario sobre inteligencia artificial aplicada a la industria asturiana.
+"""
+
+doc = nlp(texto)
+
+sustantivos_comunes = [token.text for token in doc if token.pos_ == "NOUN"]
+print(sustantivos_comunes)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Calcula la frecuencia de los lemas más relevantes del siguiente texto, ignorando stopwords y signos de puntuación.
+
+```
+La Universidad de Oviedo promueve la excelencia en la investigación y la formación.
+La comunidad universitaria participa activamente en proyectos de innovación educativa, tecnológica y social.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `token.lemma_`.
+* Filtra con `token.is_stop`, `token.is_space` y `token.is_punct`.
+* Puedes usar `collections.Counter`.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+La Universidad de Oviedo promueve la excelencia en la investigación y la formación. Es la universidad pública del principado de asturias.
+
+La comunidad universitaria participa activamente en proyectos de innovación educativa, tecnológica y social.
+"""
+
+doc = nlp(texto)
+
+for token in doc:
+    print(f"{token} ({token.lemma_})")
+
+lemas = [
+    token.lemma_.lower()
+    for token in doc
+    if not token.is_stop and not token.is_punct and not token.is_space
+]
+
+frecuencias = Counter(lemas)
+
+for lema, freq in frecuencias.most_common(10):
+    print(lema, "->", freq)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Muestra únicamente aquellas frases del texto que contengan al menos un nombre propio.
+
+```
+María presentó su TFG sobre procesamiento de lenguaje natural en la Universidad de Oviedo. Pedro, su compañero, lo hizo sobre visión artificial. En el aula en el que les tocó presentar hacía mucho calor. Los dos trabajos fueron premiados por el tribunal. Además, fueron evaluados por Pepe, que tiene fama de ser duro. Tienen mucho mérito.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `doc.sents` para recorrer frases.
+* Los nombres propios tienen etiqueta `PROPN`.
+* Usa `any()` para comprobar si hay alguno en la frase.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+María presentó su TFG sobre procesamiento de lenguaje natural en la Universidad de Oviedo. Pedro, su compañero, lo hizo sobre visión artificial. En el aula en el que les tocó presentar hacía mucho calor. Los dos trabajos fueron premiados por el tribunal. Además, fueron evaluados por Pepe, que tiene fama de ser duro. Tienen mucho mérito.
+"""
+
+doc = nlp(texto)
+
+for sent in doc.sents:
+    if any(token.pos_ == "PROPN" for token in sent):
+        print(sent.text)
+```
+
+```{python}
+import numpy as np
+for sent in doc.sents:
+    pos = []
+    for token in sent:
+        pos.append(token.pos_)
+    if np.any(np.array(pos) == "PROPN"):
+        print(sent.text)
+```
+
+:::
+
+---
+
+<!--
+
+## Ejercicio 7
+
+Define una extensión personalizada en spaCy que permita identificar si un token pertenece a un actor institucional (persona u organización).
+
+```
+El rector Ignacio Villaverde participó junto a representantes de la Universidad de Oviedo y de la Fundación Princesa de Asturias en la ceremonia inaugural.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `Token.set_extension()`.
+* Puedes basarte en `token.ent_type_`.
+* Considera etiquetas como `PER` y `ORG`.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+El rector Ignacio Villaverde participó junto a representantes de la Universidad de Oviedo y de la Fundación Princesa de Asturias en la ceremonia inaugural. También asistieron miembros del Gobierno del Principado y del Consejo Social.
+"""
+
+doc = nlp(texto)
+
+def es_actor_institucional(token):
+    return token.ent_type_ in ("PER", "ORG")
+
+Token.set_extension("es_actor_institucional", getter=es_actor_institucional, force=True)
+
+tokens_filtrados = [token.text for token in doc if token._.es_actor_institucional]
+print(tokens_filtrados)
+
+print("\nEntidades completas:")
+for ent in doc.ents:
+    if ent.label_ in ("PER", "ORG"):
+        print(ent.text, "->", ent.label_)
+```
+
+Nota: para imprimir nombres completos, es mejor recorrer doc.ents, porque si recorres token a token te separará las entidades en palabras.
+
+
+:::
+
+-->
+
+
+## Ejercicio
+
+Identifica todas las combinaciones adjetivo + sustantivo que aparezcan en el siguiente texto.
+
+```
+La nueva biblioteca del campus ofrece un gran espacio de estudio.
+Además, se ha instalado moderna infraestructura tecnológica en las aulas.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Recorre los tokens por índice.
+* Comprueba pares consecutivos (`doc[i]` y `doc[i+1]`).
+* Usa `ADJ` y `NOUN`.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+La nueva biblioteca del campus ofrece un gran espacio de estudio. 
+Además, se ha instalado moderna infraestructura tecnológica en las aulas.
+"""
+
+doc = nlp(texto)
+
+for i in range(len(doc) - 1):
+    if doc[i].pos_ == "ADJ" and doc[i+1].pos_ == "NOUN":
+        print(doc[i].text, doc[i+1].text)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Cuenta cuántas entidades de cada tipo aparecen en el texto.
+
+```
+La Universidad de Oviedo colabora con la Fundación CTIC, el Instituto Nacional de Ciberseguridad y el Gobierno de Asturias en un nuevo proyecto.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `doc.ents`.
+* Puedes contar con `Counter`.
+* Fíjate en etiquetas como `ORG`, `PER`, etc.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+La Universidad de Oviedo colabora con la Fundación CTIC, el Instituto Nacional de Ciberseguridad y el Gobierno de Asturias en un nuevo proyecto.
+"""
+
+doc = nlp(texto)
+
+conteo = Counter(ent.label_ for ent in doc.ents)
+
+print("Frecuencia por tipo de entidad:")
+for tipo, cantidad in conteo.items():
+    print(tipo, "->", cantidad)
+
+print("\nEntidades detectadas:")
+for ent in doc.ents:
+    print(ent.text, "->", ent.label_)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Analiza la estructura sintáctica del siguiente texto utilizando la visualización de dependencias.
+
+```
+El artículo sobre redes neuronales profundas fue publicado en una revista científica de alto impacto.
+```
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `displacy.render()`.
+* El estilo es `"dep"`.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+from spacy import displacy
+
+texto = """
+El artículo sobre redes neuronales profundas fue publicado en una revista científica de alto impacto.
+"""
+
+doc = nlp(texto)
+
+displacy.render(doc, style="dep", jupyter=True)
+```
+
+:::
+
+---
+
+
+## Ejercicio
+
+Utiliza `PhraseMatcher` para detectar asignaturas mencionadas en el siguiente texto.
+
+```
+Este cuatrimestre estoy cursando Procesamiento del Lenguaje Natural, Minería de Datos y Aprendizaje Automático.
+```
+
+Debes detectar al menos estas expresiones:
+
+* `Procesamiento del Lenguaje Natural`
+* `Minería de Datos`
+* `Aprendizaje Automático`
+
+<details>
+<summary>Pistas</summary>
+
+* Establece la lista de asignaturas de interés
+* Usa `PhraseMatcher(nlp.vocab, attr="LOWER")`.
+* Convierte cada asignatura en un patrón con `nlp(...)`.
+* Añade todos los patrones al matcher y recorre los resultados.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = "Este cuatrimestre estoy cursando Procesamiento del Lenguaje Natural, Minería de Datos y Aprendizaje Automático."
+
+doc = nlp(texto)
+
+matcher = PhraseMatcher(nlp.vocab, attr="LOWER")
+
+asignaturas = [
+    "Procesamiento del Lenguaje Natural",
+    "Minería de Datos",
+    "Aprendizaje Automático"
+]
+
+patterns = [nlp(asig) for asig in asignaturas]
+matcher.add("ASIGNATURAS", patterns)
+
+matches = matcher(doc)
+
+print("Coincidencias encontradas:")
+for match_id, start, end in matches:
+    print("-", doc[start:end].text)
+```
+
+:::
+
+## Ejercicio
+
+Utiliza `PhraseMatcher` para detectar menciones a **instituciones y organizaciones** en el siguiente texto.
+
+```
+La Universidad de Oviedo colabora con el Instituto Nacional de Ciberseguridad y la Fundación CTIC en varios proyectos. 
+Además, mantiene acuerdos con el Gobierno de Asturias y el Ayuntamiento de Gijón.
+```
+
+Debes detectar al menos las siguientes expresiones:
+
+* Universidad de Oviedo
+* Instituto Nacional de Ciberseguridad
+* Fundación CTIC
+* Gobierno de Asturias
+* Ayuntamiento de Gijón
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `PhraseMatcher(nlp.vocab)`.
+* Primero convierte las expresiones en documentos con `nlp()`.
+* Añádelas como lista:
+
+  ```
+  patterns = [nlp(texto) for texto in lista_expresiones]
+  ```
+* Usa `matcher.add("ORG", patterns)`
+* A diferencia de `Matcher`, aquí trabajas con **frases exactas**, no con reglas.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+La Universidad de Oviedo colabora con el Instituto Nacional de Ciberseguridad y la Fundación CTIC en varios proyectos. 
+Además, mantiene acuerdos con el Gobierno de Asturias y el Ayuntamiento de Gijón.
+"""
+
+doc = nlp(texto)
+
+matcher = PhraseMatcher(nlp.vocab, attr="LOWER")
+
+expresiones = [
+    "Universidad de Oviedo",
+    "Instituto Nacional de Ciberseguridad",
+    "Fundación CTIC",
+    "Gobierno de Asturias",
+    "Ayuntamiento de Gijón"
+]
+
+patterns = [nlp(exp) for exp in expresiones]
+matcher.add("ORGANIZACIONES", patterns)
+
+matches = matcher(doc)
+
+print("Coincidencias encontradas:")
+for match_id, start, end in matches:
+    print("-", doc[start:end].text)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Utiliza `Matcher` para detectar expresiones de la forma **determinante + sustantivo** en el siguiente texto.
+
+```
+El profesor explicó la práctica y los estudiantes tomaron apuntes en el cuaderno.
+```
+
+Debes localizar, por ejemplo:
+
+* `El profesor`
+* `la práctica`
+* `los estudiantes`
+* `el cuaderno`
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `Matcher(nlp.vocab)`.
+* Crea un patrón con:
+  * `DET`
+  * `NOUN`
+* Recorre después las coincidencias e imprime el texto encontrado.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+matcher = Matcher(nlp.vocab)
+
+# Patrón: determinante + sustantivo
+patron = [
+    {"POS": "DET"},
+    {"POS": "NOUN"}
+]
+
+matcher.add("DET_NOUN", [patron])
+
+matches = matcher(doc)
+
+print("Coincidencias encontradas:")
+for match_id, start, end in matches:
+    print("-", doc[start:end].text)
+```
+
+:::
+
+---
+
+
+
+## Ejercicio
+
+Utiliza `Matcher` para detectar expresiones que indiquen **opinión o valoración** en el siguiente texto.
+
+```
+La charla fue muy interesante y bastante útil para mi formación. 
+Creo que los contenidos están bien organizados, aunque algunas partes resultaron algo confusas. 
+En general, me pareció una experiencia bastante positiva.
+```
+
+Tu objetivo es identificar expresiones como:
+
+* “muy interesante”
+* “bastante útil”
+* “bien organizados”
+* “algo confusas”
+* “bastante positiva”
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `Matcher(nlp.vocab)`.
+* Puedes definir patrones `"POS"` para categorías gramaticales del tipo:
+  * adverbio + adjetivo (`ADV` + `ADJ`)
+* Puedes necesitar patrones adicionales.
+* Añade los patrones con `matcher.add()` y recorre los resultados.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+La charla fue muy interesante y bastante útil para mi formación. 
+Creo que los contenidos están bien organizados, aunque algunas partes resultaron algo confusas. 
+En general, me pareció una experiencia bastante positiva.
+"""
+
+doc = nlp(texto)
+
+matcher = Matcher(nlp.vocab)
+
+# 1. Adverbio + adjetivo
+patron_adv_adj = [
+    {"POS": "ADV"},
+    {"POS": "ADJ"}
+]
+
+# 2. Caso específico: "bien" + adjetivo
+patron_bien_adj = [
+    {"LOWER": "bien"},
+    {"POS": "ADJ"}
+]
+
+matcher.add("VALORACION", [patron_adv_adj, patron_bien_adj])
+
+matches = matcher(doc)
+
+print("Coincidencias encontradas:")
+for match_id, start, end in matches:
+    print("-", doc[start:end].text)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Construye patrones con `Matcher` para detectar **expresiones de solicitud de información** en el siguiente texto.
+
+```text
+Buenos días, me gustaría tener información sobre si el aula de prácticas está disponible esta semana.
+También quisiera consultar información sobre los horarios de tutorías de la profesora de IA.
+Necesito información sobre el acceso remoto al laboratorio.
+Gracias.
+```
+
+En particular, el objetivo es reconocer estructuras como estas:
+
+* `gustaría tener información`
+* `quisiera consultar información`
+* `Necesito información`
+
+Fíjate en que todas comparten una idea parecida:
+**un verbo que expresa petición, interés o necesidad**, seguido de la palabra **`información`**.
+
+Intenta construir dos patrones (`patron_peticion` y `patron_pnecesidad`) lo bastante generales como para capturar esas expresiones sin escribir una regla totalmente distinta para cada frase.
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `Matcher(nlp.vocab)`.
+* Puedes basarte en `LEMMA` para agrupar verbos relacionados con petición o necesidad.
+* Piensa en dos esquemas generales:
+  * verbo de petición/interés + otro verbo + `información`
+  * verbo de necesidad + `información`
+* Añade los patrones con `matcher.add()` y muestra después las coincidencias encontradas.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+matcher = Matcher(nlp.vocab)
+
+texto = """
+Buenos días, me gustaría tener información sobre si el aula de prácticas está disponible esta semana.
+También quisiera consultar información sobre los horarios de tutorías de la profesora de IA.
+Necesito información sobre el acceso remoto al laboratorio.
+Gracias.
+"""
+
+doc = nlp(texto)
+
+# 1. Verbo de petición/interés + verbo en infinitivo + "información"
+patron_peticion = [
+    {"LEMMA": {"IN": ["gustar", "querer"]}},
+    {"POS": "VERB"},
+    {"LOWER": "información"}
+]
+
+# 2. Verbo de necesidad + "información"
+patron_necesidad = [
+    {"LEMMA": "necesitar"},
+    {"LOWER": "información"}
+]
+
+matcher.add("PETICION_INFO", [patron_peticion, patron_necesidad])
+
+matches = matcher(doc)
+
+for match_id, start, end in matches:
+    print(doc[start:end].text)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Utiliza `Matcher` para detectar expresiones que indiquen **intención futura o plan** en el texto.
+
+En este caso, consideramos que pueden existir los siguientes patrones:
+
+- Verbos como _querer, intentar, pensar, esperar, desear_ + infinitivo
+- Perífrasis _ir a_ + infinitivo
+- Perífrasis _tener que_ + infinitivo
+
+```
+Mañana voy a empezar el proyecto final. 
+También quiero revisar los apuntes y tengo que terminar la práctica. 
+Quizá intente implementar un modelo más complejo.
+```
+
+Debes capturar expresiones como:
+
+* `voy a empezar`
+* `quiero revisar`
+* `tengo que terminar`
+* `intente implementar`
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `LEMMA`.
+* Busca que `LEMMA` esté en una lista de opciones con `IN`.
+* Añade al `matcher` la `INTENCION_O_PLAN` que tenga una lista de los patrones que hayas definido.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+texto = """
+Mañana voy a empezar el proyecto final.
+También quiero revisar los apuntes y tengo que terminar la práctica.
+Quizá intente implementar un modelo más complejo.
+Más adelante espero presentar los resultados y pienso ampliar el estudio.
+"""
+
+doc = nlp(texto)
+
+matcher = Matcher(nlp.vocab)
+
+# 1. Verbos de intención + infinitivo
+patron_intencion = [
+    {"LEMMA": {"IN": ["querer", "intentar", "pensar", "esperar", "desear"]}},
+    {"POS": "VERB"}
+]
+
+patron_modal_infinitivo = [
+    {"LEMMA": {"IN": ["querer", "intentar", "pensar", "esperar", "desear", "tener"]}},
+    {"LOWER": "que", "OP": "?"},
+    {"LOWER": "a", "OP": "?"},
+    {"POS": "VERB"}
+]
+
+matcher.add("INTENCION_O_PLAN", [
+    patron_intencion,
+    patron_modal_infinitivo
+])
+
+matches = matcher(doc)
+
+print("Coincidencias encontradas:")
+for match_id, start, end in matches:
+    print("-", doc[start:end].text)
+```
+
+:::
+
+---
+
+## Ejercicio
+
+Utiliza `Matcher` para encontrar expresiones donde haya **negación de una acción**.
+
+```
+No entiendo bien este ejercicio. 
+Nunca he trabajado con spaCy antes. 
+No creo que sea difícil, pero tampoco estoy seguro. 
+Jamás utilizaría ese enfoque en producción.
+```
+
+Debes detectar expresiones como:
+
+* `No entiendo`
+* `Nunca he trabajado`
+* `No creo`
+* `tampoco estoy`
+* `Jamás utilizaría`
+
+<details>
+<summary>Pistas</summary>
+
+* Usa `IN` para buscar palabras como:
+  * `no`, `nunca`, `jamás`, `tampoco`
+* Combínalas con verbos (`VERB` o `AUX`).
+* Añade al `matcher` una `NEGACION` que liste todos tus patrones.
+
+</details>
+
+::: {.content-visible when-profile="profesor"}
+
+```{python}
+import spacy
+from spacy.matcher import Matcher
+
+nlp = spacy.load("es_core_news_sm")
+
+texto = """
+No entiendo bien este ejercicio. 
+Nunca he trabajado con spaCy antes. 
+No creo que sea difícil, pero tampoco estoy seguro. 
+Jamás utilizaría ese enfoque en producción.
+"""
+
+doc = nlp(texto)
+
+matcher = Matcher(nlp.vocab)
+
+patron_negacion_simple = [
+    {"LOWER": {"IN": ["no", "nunca", "jamás", "tampoco"]}},
+    {"POS": {"IN": ["AUX", "VERB"]}}
+]
+
+patron_negacion_aux_verbo = [
+    {"LOWER": {"IN": ["no", "nunca", "jamás", "tampoco"]}},
+    {"POS": "AUX"},
+    {"POS": "VERB"}
+]
+
+matcher.add("NEGACION", [
+    patron_negacion_simple,
+    patron_negacion_aux_verbo
+])
+
+matches = matcher(doc)
+
+print("Coincidencias encontradas:")
+for match_id, start, end in matches:
+    print("-", doc[start:end].text)
+```
+
+```{python}
+from spacy.matcher import Matcher
+from spacy.util import filter_spans
+
+text = "No entiendo bien este ejercicio. Nunca he trabajado con spaCy antes. No creo que sea difícil, pero tampoco estoy seguro. Jamás utilizaría ese enfoque en producción."
+
+patterns = [
+    [
+        {"LOWER": {"IN": ["no", "nunca", "jamás", "tampoco"]}},
+        {"POS": {"IN": ["VERB", "AUX"]}, "OP": "+"}
+    ]
+]
+
+matcher = Matcher(nlp.vocab)
+matcher.add("NEGACION", patterns)
+
+doc = nlp(text)
+
+matches = matcher(doc)
+
+# Convertir a spans
+spans = [doc[start:end] for _, start, end in matches]
+
+filtered_spans = filter_spans(spans)
+
+for span in filtered_spans:
+    print(span.text)
+```
+
+:::
