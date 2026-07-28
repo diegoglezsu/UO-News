@@ -17119,8 +17119,8 @@
   },
   {
     "nombre":"Leopoldo J.",
-    "apellido1":"Pérez Luis",
-    "apellido2":null,
+    "apellido1":"Pérez",
+    "apellido2":"Luis",
     "email":null
   },
   {
@@ -51030,9 +51030,9 @@
     "email":"secadesalfonso@uniovi.es"
   },
   {
-    "nombre":"MARIA DEL VALLE GOMEZ DE TERRENOS GUARDIOLA",
-    "apellido1":null,
-    "apellido2":null,
+    "nombre":"MARIA DEL VALLE",
+    "apellido1":"GOMEZ DE TERRENOS",
+    "apellido2":"GUARDIOLA",
     "email":null
   },
   {
@@ -51199,8 +51199,8 @@
   },
   {
     "nombre":"JORGE",
-    "apellido1":"GUARDIOLA WARDEN BERGHE",
-    "apellido2":null,
+    "apellido1":"GUARDIOLA",
+    "apellido2":"WARDEN BERGHE",
     "email":null
   },
   {
