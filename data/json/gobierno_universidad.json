@@ -3,90 +3,90 @@
     "nombre": "Ignacio",
     "apellido1": "Villaverde",
     "apellido2": "Menéndez",
-    "rol": "rector"
+    "rol": "Rector"
   },
   {
     "nombre": "Pedro",
     "apellido1": "Alonso",
     "apellido2": "Velázquez",
-    "rol": "vicerrector de Políticas de Profesorado y Ordenación Académica"
+    "rol": "Vicerrector de Políticas de Profesorado y Ordenación Académica"
   },
   {
     "nombre": "Irene",
     "apellido1": "Díaz",
     "apellido2": "Rodríguez",
-    "rol": "vicerrectora de Investigación"
+    "rol": "Vicerrectora de Investigación"
   },
   {
     "nombre": "María Pilar",
     "apellido1": "García",
     "apellido2": "Cuetos",
-    "rol": "vicerrectora de Extensión Universitaria y Proyección Cultural"
+    "rol": "Vicerrectora de Extensión Universitaria y Proyección Cultural"
   },
   {
     "nombre": "Alfonso Joaquín",
     "apellido1": "López",
     "apellido2": "Muñiz",
-    "rol": "vicerrector de Estudiantes y Empleabilidad"
+    "rol": "Vicerrector de Estudiantes y Empleabilidad"
   },
   {
     "nombre": "Susana",
     "apellido1": "Luque",
     "apellido2": "Rodríguez",
-    "rol": "vicerrectora de Transferencia y Relaciones con la Empresa"
+    "rol": "Vicerrectora de Transferencia y Relaciones con la Empresa"
   },
   {
     "nombre": "Inés",
     "apellido1": "Peñuelas",
     "apellido2": "Sánchez",
-    "rol": "vicerrectora de Sostenibilidad y Digitalización"
+    "rol": "Vicerrectora de Sostenibilidad y Digitalización"
   },
   {
     "nombre": "Ana",
     "apellido1": "Suárez",
     "apellido2": "Vázquez",
-    "rol": "vicerrectora de Internacionalización"
+    "rol": "Vicerrectora de Internacionalización"
   },
   {
     "nombre": "Juan Carlos",
     "apellido1": "San Pedro",
     "apellido2": "Veledo",
-    "rol": "vicerrectora de Planificación Estratégica y Coordinación de Campus"
+    "rol": "Vicerrectora de Planificación Estratégica y Coordinación de Campus"
   },
   {
     "nombre": "Juan Manuel",
     "apellido1": "Marchante",
     "apellido2": "Gayón",
-    "rol": "vicerrector de Estudios y Docencia"
+    "rol": "Vicerrector de Estudios y Docencia"
   },
   {
     "nombre": "Marcelino",
     "apellido1": "Fernández-Raigoso",
     "apellido2": "Castaño",
-    "rol": "delegado del Rector para la Coordinación y las Relaciones Institucionales"
+    "rol": "Delegado del Rector para la Coordinación y las Relaciones Institucionales"
   },
   {
     "nombre": "Jesús Daniel",
     "apellido1": "Santos",
     "apellido2": "Rodríguez",
-    "rol": "delegado del Rector para Alianzas Internacionales"
+    "rol": "Delegado del Rector para Alianzas Internacionales"
   },
   {
     "nombre": "Cristina",
     "apellido1": "Valdés",
     "apellido2": "Rodríguez",
-    "rol": "delegada del Rector para el Real Colegio Complutense en Harvard y América del Norte"
+    "rol": "Delegada del Rector para el Real Colegio Complutense en Harvard y América del Norte"
   },
   {
     "nombre": "Ángel",
     "apellido1": "Espiniella",
     "apellido2": "Menéndez",
-    "rol": "secretario general"
+    "rol": "Secretario general"
   },
   {
     "nombre": "José Antonio",
     "apellido1": "Díaz",
     "apellido2": "Lago",
-    "rol": "gerente"
+    "rol": "Gerente"
   }
 ]
