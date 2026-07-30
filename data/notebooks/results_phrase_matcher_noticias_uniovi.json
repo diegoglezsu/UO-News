@@ -110,8 +110,8 @@
       {
         "start": 5798,
         "end": 5814,
-        "token_start": 1040,
-        "token_end": 1043,
+        "token_start": 1038,
+        "token_end": 1041,
         "label": "RESEARCHER",
         "text": "Javier de Andrés",
         "normalized_text": "Javier de Andres"
@@ -784,8 +784,8 @@
       {
         "start": 740,
         "end": 763,
-        "token_start": 130,
-        "token_end": 133,
+        "token_start": 128,
+        "token_end": 131,
         "label": "RESEARCHER",
         "text": "Óscar Rodríguez Buznego",
         "normalized_text": "Oscar Rodriguez Buznego"
@@ -793,8 +793,8 @@
       {
         "start": 884,
         "end": 898,
-        "token_start": 152,
-        "token_end": 154,
+        "token_start": 150,
+        "token_end": 152,
         "label": "RESEARCHER",
         "text": "Verónica Cañal",
         "normalized_text": "Veronica Canal"
@@ -1986,8 +1986,8 @@
       {
         "start": 845,
         "end": 858,
-        "token_start": 142,
-        "token_end": 144,
+        "token_start": 140,
+        "token_end": 142,
         "label": "RESEARCHER",
         "text": "Alicia Valdés",
         "normalized_text": "Alicia Valdes"
@@ -2259,13 +2259,13 @@
     "fuente_html": "15129415.html",
     "ner_titulo": [
       {
-        "start": 144,
-        "end": 164,
-        "token_start": 23,
-        "token_end": 26,
-        "label": "RESEARCHER",
-        "text": "Paz Suárez Rendueles",
-        "normalized_text": "Paz Suarez Rendueles"
+        "start": 108,
+        "end": 165,
+        "token_start": 18,
+        "token_end": 27,
+        "label": "CENTER_NAME",
+        "text": "Escuela Internacional de Doctorado ‘Paz Suárez Rendueles’",
+        "normalized_text": "Escuela Internacional de Doctorado 'Paz Suarez Rendueles'"
       }
     ],
     "ner_resumen": [
@@ -2325,6 +2325,42 @@
       }
     ],
     "ner_texto": [
+      {
+        "start": 166,
+        "end": 223,
+        "token_start": 30,
+        "token_end": 39,
+        "label": "CENTER_NAME",
+        "text": "Escuela Internacional de Doctorado ‘Paz Suárez Rendueles’",
+        "normalized_text": "Escuela Internacional de Doctorado 'Paz Suarez Rendueles'"
+      },
+      {
+        "start": 1521,
+        "end": 1578,
+        "token_start": 251,
+        "token_end": 260,
+        "label": "CENTER_NAME",
+        "text": "Escuela Internacional de Doctorado ‘Paz Suárez Rendueles’",
+        "normalized_text": "Escuela Internacional de Doctorado 'Paz Suarez Rendueles'"
+      },
+      {
+        "start": 2006,
+        "end": 2063,
+        "token_start": 334,
+        "token_end": 343,
+        "label": "CENTER_NAME",
+        "text": "Escuela Internacional de Doctorado ‘Paz Suárez Rendueles’",
+        "normalized_text": "Escuela Internacional de Doctorado 'Paz Suarez Rendueles'"
+      },
+      {
+        "start": 5312,
+        "end": 5369,
+        "token_start": 918,
+        "token_end": 927,
+        "label": "CENTER_NAME",
+        "text": "Escuela Internacional de Doctorado 'Paz Suárez Rendueles'",
+        "normalized_text": "Escuela Internacional de Doctorado 'Paz Suarez Rendueles'"
+      },
       {
         "start": 3769,
         "end": 3800,
@@ -2398,15 +2434,6 @@
         "normalized_text": "Francisco Javier Sebastian Zuniga"
       },
       {
-        "start": 202,
-        "end": 222,
-        "token_start": 35,
-        "token_end": 38,
-        "label": "RESEARCHER",
-        "text": "Paz Suárez Rendueles",
-        "normalized_text": "Paz Suarez Rendueles"
-      },
-      {
         "start": 1056,
         "end": 1079,
         "token_start": 167,
@@ -2441,24 +2468,6 @@
         "label": "RESEARCHER",
         "text": "Susana Montes Rodríguez",
         "normalized_text": "Susana Montes Rodriguez"
-      },
-      {
-        "start": 1557,
-        "end": 1577,
-        "token_start": 256,
-        "token_end": 259,
-        "label": "RESEARCHER",
-        "text": "Paz Suárez Rendueles",
-        "normalized_text": "Paz Suarez Rendueles"
-      },
-      {
-        "start": 2042,
-        "end": 2062,
-        "token_start": 339,
-        "token_end": 342,
-        "label": "RESEARCHER",
-        "text": "Paz Suárez Rendueles",
-        "normalized_text": "Paz Suarez Rendueles"
       },
       {
         "start": 3831,
@@ -2540,15 +2549,6 @@
         "label": "RESEARCHER",
         "text": "Cristina González Morán",
         "normalized_text": "Cristina Gonzalez Moran"
-      },
-      {
-        "start": 5348,
-        "end": 5368,
-        "token_start": 923,
-        "token_end": 926,
-        "label": "RESEARCHER",
-        "text": "Paz Suárez Rendueles",
-        "normalized_text": "Paz Suarez Rendueles"
       },
       {
         "start": 959,
@@ -3234,8 +3234,8 @@
       {
         "start": 1115,
         "end": 1126,
-        "token_start": 193,
-        "token_end": 195,
+        "token_start": 191,
+        "token_end": 193,
         "label": "RESEARCHER",
         "text": "Marta Mateo",
         "normalized_text": "Marta Mateo"
@@ -3289,8 +3289,8 @@
       {
         "start": 2588,
         "end": 2613,
-        "token_start": 453,
-        "token_end": 456,
+        "token_start": 451,
+        "token_end": 454,
         "label": "RESEARCHER",
         "text": "Amador Menéndez Velázquez",
         "normalized_text": "Amador Menendez Velazquez"
@@ -3540,8 +3540,8 @@
       {
         "start": 3858,
         "end": 3878,
-        "token_start": 654,
-        "token_end": 657,
+        "token_start": 652,
+        "token_end": 655,
         "label": "RESEARCHER",
         "text": "Noemí Pinilla Alonso",
         "normalized_text": "Noemi Pinilla Alonso"
@@ -3549,8 +3549,8 @@
       {
         "start": 6763,
         "end": 6788,
-        "token_start": 1138,
-        "token_end": 1141,
+        "token_start": 1134,
+        "token_end": 1137,
         "label": "RESEARCHER",
         "text": "Santiago Iglesias Álvarez",
         "normalized_text": "Santiago Iglesias Alvarez"
@@ -3558,8 +3558,8 @@
       {
         "start": 4305,
         "end": 4310,
-        "token_start": 736,
-        "token_end": 737,
+        "token_start": 734,
+        "token_end": 735,
         "label": "CENTER_ACRONYM",
         "text": "ICTEA",
         "normalized_text": "ICTEA"
@@ -4274,8 +4274,8 @@
       {
         "start": 3684,
         "end": 3733,
-        "token_start": 589,
-        "token_end": 595,
+        "token_start": 588,
+        "token_end": 594,
         "label": "CENTER_NAME",
         "text": "Instituto Mixto de Investigación en Biodiversidad",
         "normalized_text": "Instituto Mixto de Investigacion en Biodiversidad"
@@ -4283,8 +4283,8 @@
       {
         "start": 2390,
         "end": 2413,
-        "token_start": 379,
-        "token_end": 383,
+        "token_start": 378,
+        "token_end": 382,
         "label": "RESEARCHER",
         "text": "Clara Espinosa del Alba",
         "normalized_text": "Clara Espinosa del Alba"
@@ -4292,8 +4292,8 @@
       {
         "start": 4540,
         "end": 4563,
-        "token_start": 737,
-        "token_end": 741,
+        "token_start": 736,
+        "token_end": 740,
         "label": "RESEARCHER",
         "text": "Clara Espinosa del Alba",
         "normalized_text": "Clara Espinosa del Alba"
@@ -4301,8 +4301,8 @@
       {
         "start": 4565,
         "end": 4590,
-        "token_start": 742,
-        "token_end": 745,
+        "token_start": 741,
+        "token_end": 744,
         "label": "RESEARCHER",
         "text": "Eduardo Fernández Pascual",
         "normalized_text": "Eduardo Fernandez Pascual"
@@ -4310,8 +4310,8 @@
       {
         "start": 4132,
         "end": 4152,
-        "token_start": 664,
-        "token_end": 666,
+        "token_start": 663,
+        "token_end": 665,
         "label": "RESEARCHER",
         "text": "Borja Jiménez-Alfaro",
         "normalized_text": "Borja Jimenez-Alfaro"
@@ -4319,8 +4319,8 @@
       {
         "start": 4593,
         "end": 4613,
-        "token_start": 746,
-        "token_end": 748,
+        "token_start": 745,
+        "token_end": 747,
         "label": "RESEARCHER",
         "text": "Borja Jiménez-Alfaro",
         "normalized_text": "Borja Jimenez-Alfaro"
@@ -5615,8 +5615,8 @@
       {
         "start": 3606,
         "end": 3649,
-        "token_start": 608,
-        "token_end": 614,
+        "token_start": 604,
+        "token_end": 610,
         "label": "CENTER_NAME",
         "text": "Instituto de Formación e Innovación Docente",
         "normalized_text": "Instituto de Formacion e Innovacion Docente"
@@ -5642,8 +5642,8 @@
       {
         "start": 2088,
         "end": 2109,
-        "token_start": 352,
-        "token_end": 355,
+        "token_start": 348,
+        "token_end": 351,
         "label": "RESEARCHER",
         "text": "Juan Manuel Marchante",
         "normalized_text": "Juan Manuel Marchante"
@@ -5651,8 +5651,8 @@
       {
         "start": 2088,
         "end": 2109,
-        "token_start": 352,
-        "token_end": 355,
+        "token_start": 348,
+        "token_end": 351,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Juan Manuel Marchante",
         "normalized_text": "Juan Manuel Marchante"
@@ -5660,8 +5660,8 @@
       {
         "start": 3513,
         "end": 3534,
-        "token_start": 592,
-        "token_end": 595,
+        "token_start": 588,
+        "token_end": 591,
         "label": "RESEARCHER",
         "text": "Juan Manuel Marchante",
         "normalized_text": "Juan Manuel Marchante"
@@ -5669,8 +5669,8 @@
       {
         "start": 3513,
         "end": 3534,
-        "token_start": 592,
-        "token_end": 595,
+        "token_start": 588,
+        "token_end": 591,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Juan Manuel Marchante",
         "normalized_text": "Juan Manuel Marchante"
@@ -5678,8 +5678,8 @@
       {
         "start": 2064,
         "end": 2082,
-        "token_start": 348,
-        "token_end": 350,
+        "token_start": 344,
+        "token_end": 346,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -5687,8 +5687,8 @@
       {
         "start": 2064,
         "end": 2082,
-        "token_start": 348,
-        "token_end": 350,
+        "token_start": 344,
+        "token_end": 346,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -5696,8 +5696,8 @@
       {
         "start": 3672,
         "end": 3686,
-        "token_start": 620,
-        "token_end": 622,
+        "token_start": 616,
+        "token_end": 618,
         "label": "RESEARCHER",
         "text": "Antonio Urbano",
         "normalized_text": "Antonio Urbano"
@@ -5705,8 +5705,8 @@
       {
         "start": 3688,
         "end": 3702,
-        "token_start": 623,
-        "token_end": 625,
+        "token_start": 619,
+        "token_end": 621,
         "label": "RESEARCHER",
         "text": "Álvaro Postigo",
         "normalized_text": "Alvaro Postigo"
@@ -5714,8 +5714,8 @@
       {
         "start": 3705,
         "end": 3720,
-        "token_start": 626,
-        "token_end": 628,
+        "token_start": 622,
+        "token_end": 624,
         "label": "RESEARCHER",
         "text": "Verónica García",
         "normalized_text": "Veronica Garcia"
@@ -5723,8 +5723,8 @@
       {
         "start": 3651,
         "end": 3655,
-        "token_start": 615,
-        "token_end": 616,
+        "token_start": 611,
+        "token_end": 612,
         "label": "CENTER_ACRONYM",
         "text": "IFID",
         "normalized_text": "IFID"
@@ -6129,8 +6129,8 @@
       {
         "start": 4766,
         "end": 4795,
-        "token_start": 820,
-        "token_end": 825,
+        "token_start": 818,
+        "token_end": 823,
         "label": "RESEARCHER",
         "text": "María del Pilar Mosteiro Díaz",
         "normalized_text": "Maria del Pilar Mosteiro Diaz"
@@ -6138,8 +6138,8 @@
       {
         "start": 772,
         "end": 796,
-        "token_start": 132,
-        "token_end": 135,
+        "token_start": 130,
+        "token_end": 133,
         "label": "RESEARCHER",
         "text": "Carmen Fernández Álvarez",
         "normalized_text": "Carmen Fernandez Alvarez"
@@ -6147,8 +6147,8 @@
       {
         "start": 3783,
         "end": 3804,
-        "token_start": 654,
-        "token_end": 657,
+        "token_start": 652,
+        "token_end": 655,
         "label": "RESEARCHER",
         "text": "Alba Maestro González",
         "normalized_text": "Alba Maestro Gonzalez"
@@ -6156,8 +6156,8 @@
       {
         "start": 4104,
         "end": 4128,
-        "token_start": 705,
-        "token_end": 708,
+        "token_start": 703,
+        "token_end": 706,
         "label": "RESEARCHER",
         "text": "Carmen Fernández Álvarez",
         "normalized_text": "Carmen Fernandez Alvarez"
@@ -6165,8 +6165,8 @@
       {
         "start": 4716,
         "end": 4737,
-        "token_start": 812,
-        "token_end": 815,
+        "token_start": 810,
+        "token_end": 813,
         "label": "RESEARCHER",
         "text": "Alba Maestro González",
         "normalized_text": "Alba Maestro Gonzalez"
@@ -6174,8 +6174,8 @@
       {
         "start": 4739,
         "end": 4763,
-        "token_start": 816,
-        "token_end": 819,
+        "token_start": 814,
+        "token_end": 817,
         "label": "RESEARCHER",
         "text": "Carmen Fernández Álvarez",
         "normalized_text": "Carmen Fernandez Alvarez"
@@ -6183,8 +6183,8 @@
       {
         "start": 4445,
         "end": 4447,
-        "token_start": 770,
-        "token_end": 771,
+        "token_start": 768,
+        "token_end": 769,
         "label": "GROUP_ACRONYM",
         "text": "MP",
         "normalized_text": "MP"
@@ -6276,8 +6276,8 @@
       {
         "start": 2732,
         "end": 2755,
-        "token_start": 481,
-        "token_end": 485,
+        "token_start": 477,
+        "token_end": 481,
         "label": "RESEARCHER",
         "text": "María del Carmen García",
         "normalized_text": "Maria del Carmen Garcia"
@@ -6312,8 +6312,8 @@
       {
         "start": 1927,
         "end": 1946,
-        "token_start": 341,
-        "token_end": 344,
+        "token_start": 337,
+        "token_end": 340,
         "label": "RESEARCHER",
         "text": "Juan Antonio García",
         "normalized_text": "Juan Antonio Garcia"
@@ -6321,8 +6321,8 @@
       {
         "start": 1932,
         "end": 1953,
-        "token_start": 342,
-        "token_end": 345,
+        "token_start": 338,
+        "token_end": 341,
         "label": "RESEARCHER",
         "text": "Antonio García García",
         "normalized_text": "Antonio Garcia Garcia"
@@ -6330,8 +6330,8 @@
       {
         "start": 2498,
         "end": 2512,
-        "token_start": 440,
-        "token_end": 442,
+        "token_start": 436,
+        "token_end": 438,
         "label": "RESEARCHER",
         "text": "Carlos Delgado",
         "normalized_text": "Carlos Delgado"
@@ -6354,8 +6354,8 @@
       {
         "start": 3068,
         "end": 3087,
-        "token_start": 583,
-        "token_end": 586,
+        "token_start": 581,
+        "token_end": 584,
         "label": "RESEARCHER",
         "text": "Alfonso López Muñiz",
         "normalized_text": "Alfonso Lopez Muniz"
@@ -6363,8 +6363,8 @@
       {
         "start": 918,
         "end": 932,
-        "token_start": 178,
-        "token_end": 180,
+        "token_start": 176,
+        "token_end": 178,
         "label": "RESEARCHER",
         "text": "Ramón Menéndez",
         "normalized_text": "Ramon Menendez"
@@ -6372,8 +6372,8 @@
       {
         "start": 2825,
         "end": 2839,
-        "token_start": 530,
-        "token_end": 532,
+        "token_start": 528,
+        "token_end": 530,
         "label": "RESEARCHER",
         "text": "Ramón Menéndez",
         "normalized_text": "Ramon Menendez"
@@ -6797,8 +6797,8 @@
       {
         "start": 11594,
         "end": 11630,
-        "token_start": 2097,
-        "token_end": 2101,
+        "token_start": 2095,
+        "token_end": 2099,
         "label": "CENTER_NAME",
         "text": "Instituto Universitario de Oncología",
         "normalized_text": "Instituto Universitario de Oncologia"
@@ -6878,8 +6878,8 @@
       {
         "start": 9694,
         "end": 9712,
-        "token_start": 1744,
-        "token_end": 1746,
+        "token_start": 1742,
+        "token_end": 1744,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -6887,8 +6887,8 @@
       {
         "start": 9694,
         "end": 9712,
-        "token_start": 1744,
-        "token_end": 1746,
+        "token_start": 1742,
+        "token_end": 1744,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -6914,8 +6914,8 @@
       {
         "start": 8122,
         "end": 8127,
-        "token_start": 1469,
-        "token_end": 1470,
+        "token_start": 1467,
+        "token_end": 1468,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -6923,8 +6923,8 @@
       {
         "start": 8857,
         "end": 8862,
-        "token_start": 1602,
-        "token_end": 1603,
+        "token_start": 1600,
+        "token_end": 1601,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -7228,8 +7228,8 @@
       {
         "start": 1641,
         "end": 1662,
-        "token_start": 301,
-        "token_end": 304,
+        "token_start": 299,
+        "token_end": 302,
         "label": "RESEARCHER",
         "text": "Ana Rodríguez Álvarez",
         "normalized_text": "Ana Rodriguez Alvarez"
@@ -7246,8 +7246,8 @@
       {
         "start": 2740,
         "end": 2753,
-        "token_start": 491,
-        "token_end": 493,
+        "token_start": 489,
+        "token_end": 491,
         "label": "RESEARCHER",
         "text": "Manuel Llorca",
         "normalized_text": "Manuel Llorca"
@@ -7374,8 +7374,8 @@
       {
         "start": 1064,
         "end": 1089,
-        "token_start": 186,
-        "token_end": 189,
+        "token_start": 185,
+        "token_end": 188,
         "label": "RESEARCHER",
         "text": "Eduardo Fernández Pascual",
         "normalized_text": "Eduardo Fernandez Pascual"
@@ -7442,8 +7442,8 @@
       {
         "start": 2167,
         "end": 2178,
-        "token_start": 376,
-        "token_end": 378,
+        "token_start": 374,
+        "token_end": 376,
         "label": "RESEARCHER",
         "text": "Sara García",
         "normalized_text": "Sara Garcia"
@@ -7451,8 +7451,8 @@
       {
         "start": 2308,
         "end": 2324,
-        "token_start": 404,
-        "token_end": 406,
+        "token_start": 402,
+        "token_end": 404,
         "label": "RESEARCHER",
         "text": "Noelia Fernández",
         "normalized_text": "Noelia Fernandez"
@@ -7460,8 +7460,8 @@
       {
         "start": 2341,
         "end": 2354,
-        "token_start": 410,
-        "token_end": 412,
+        "token_start": 408,
+        "token_end": 410,
         "label": "RESEARCHER",
         "text": "Adriano Mones",
         "normalized_text": "Adriano Mones"
@@ -8092,8 +8092,8 @@
       {
         "start": 3428,
         "end": 3446,
-        "token_start": 588,
-        "token_end": 590,
+        "token_start": 586,
+        "token_end": 588,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -8101,8 +8101,8 @@
       {
         "start": 3428,
         "end": 3446,
-        "token_start": 588,
-        "token_end": 590,
+        "token_start": 586,
+        "token_end": 588,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -8110,8 +8110,8 @@
       {
         "start": 3881,
         "end": 3898,
-        "token_start": 662,
-        "token_end": 664,
+        "token_start": 660,
+        "token_end": 662,
         "label": "RESEARCHER",
         "text": "Fernando Martínez",
         "normalized_text": "Fernando Martinez"
@@ -8119,8 +8119,8 @@
       {
         "start": 4606,
         "end": 4617,
-        "token_start": 786,
-        "token_end": 788,
+        "token_start": 784,
+        "token_end": 786,
         "label": "RESEARCHER",
         "text": "Marta Mateo",
         "normalized_text": "Marta Mateo"
@@ -8128,8 +8128,8 @@
       {
         "start": 4681,
         "end": 4693,
-        "token_start": 799,
-        "token_end": 801,
+        "token_start": 797,
+        "token_end": 799,
         "label": "RESEARCHER",
         "text": "Susana Luque",
         "normalized_text": "Susana Luque"
@@ -8137,8 +8137,8 @@
       {
         "start": 4681,
         "end": 4693,
-        "token_start": 799,
-        "token_end": 801,
+        "token_start": 797,
+        "token_end": 799,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Susana Luque",
         "normalized_text": "Susana Luque"
@@ -8146,8 +8146,8 @@
       {
         "start": 4777,
         "end": 4794,
-        "token_start": 818,
-        "token_end": 820,
+        "token_start": 816,
+        "token_end": 818,
         "label": "RESEARCHER",
         "text": "Fernando Martínez",
         "normalized_text": "Fernando Martinez"
@@ -8155,8 +8155,8 @@
       {
         "start": 4835,
         "end": 4853,
-        "token_start": 829,
-        "token_end": 831,
+        "token_start": 827,
+        "token_end": 829,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -8164,8 +8164,8 @@
       {
         "start": 4835,
         "end": 4853,
-        "token_start": 829,
-        "token_end": 831,
+        "token_start": 827,
+        "token_end": 829,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -8173,8 +8173,8 @@
       {
         "start": 4982,
         "end": 4993,
-        "token_start": 856,
-        "token_end": 858,
+        "token_start": 854,
+        "token_end": 856,
         "label": "RESEARCHER",
         "text": "Jorge Roces",
         "normalized_text": "Jorge Roces"
@@ -8182,8 +8182,8 @@
       {
         "start": 5056,
         "end": 5074,
-        "token_start": 869,
-        "token_end": 871,
+        "token_start": 867,
+        "token_end": 869,
         "label": "RESEARCHER",
         "text": "Santiago Fernández",
         "normalized_text": "Santiago Fernandez"
@@ -8191,8 +8191,8 @@
       {
         "start": 5172,
         "end": 5189,
-        "token_start": 894,
-        "token_end": 896,
+        "token_start": 892,
+        "token_end": 894,
         "label": "RESEARCHER",
         "text": "Fernando Martínez",
         "normalized_text": "Fernando Martinez"
@@ -8200,8 +8200,8 @@
       {
         "start": 5202,
         "end": 5220,
-        "token_start": 900,
-        "token_end": 902,
+        "token_start": 898,
+        "token_end": 900,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -8209,8 +8209,8 @@
       {
         "start": 5202,
         "end": 5220,
-        "token_start": 900,
-        "token_end": 902,
+        "token_start": 898,
+        "token_end": 900,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -9049,8 +9049,8 @@
       {
         "start": 5756,
         "end": 5777,
-        "token_start": 985,
-        "token_end": 989,
+        "token_start": 983,
+        "token_end": 987,
         "label": "RESEARCHER",
         "text": "Juan Carlos San Pedro",
         "normalized_text": "Juan Carlos San Pedro"
@@ -9058,8 +9058,8 @@
       {
         "start": 5756,
         "end": 5777,
-        "token_start": 985,
-        "token_end": 989,
+        "token_start": 983,
+        "token_end": 987,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Juan Carlos San Pedro",
         "normalized_text": "Juan Carlos San Pedro"
@@ -9067,8 +9067,8 @@
       {
         "start": 5908,
         "end": 5929,
-        "token_start": 1011,
-        "token_end": 1015,
+        "token_start": 1009,
+        "token_end": 1013,
         "label": "RESEARCHER",
         "text": "Juan Carlos San Pedro",
         "normalized_text": "Juan Carlos San Pedro"
@@ -9076,8 +9076,8 @@
       {
         "start": 5908,
         "end": 5929,
-        "token_start": 1011,
-        "token_end": 1015,
+        "token_start": 1009,
+        "token_end": 1013,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Juan Carlos San Pedro",
         "normalized_text": "Juan Carlos San Pedro"
@@ -9085,8 +9085,8 @@
       {
         "start": 5554,
         "end": 5570,
-        "token_start": 948,
-        "token_end": 951,
+        "token_start": 946,
+        "token_end": 949,
         "label": "RESEARCHER",
         "text": "Carlos San Pedro",
         "normalized_text": "Carlos San Pedro"
@@ -9112,8 +9112,8 @@
       {
         "start": 5600,
         "end": 5614,
-        "token_start": 957,
-        "token_end": 959,
+        "token_start": 955,
+        "token_end": 957,
         "label": "PROVINCE_GOVERNMENT_MEMBER",
         "text": "Gimena Llamedo",
         "normalized_text": "Gimena Llamedo"
@@ -9241,8 +9241,8 @@
       {
         "start": 4079,
         "end": 4108,
-        "token_start": 696,
-        "token_end": 700,
+        "token_start": 694,
+        "token_end": 698,
         "label": "RESEARCHER",
         "text": "Francisco José Delgado Rivero",
         "normalized_text": "Francisco Jose Delgado Rivero"
@@ -9250,8 +9250,8 @@
       {
         "start": 4792,
         "end": 4821,
-        "token_start": 831,
-        "token_end": 835,
+        "token_start": 829,
+        "token_end": 833,
         "label": "RESEARCHER",
         "text": "Francisco José Delgado Rivero",
         "normalized_text": "Francisco Jose Delgado Rivero"
@@ -9322,8 +9322,8 @@
       {
         "start": 4223,
         "end": 4239,
-        "token_start": 722,
-        "token_end": 724,
+        "token_start": 720,
+        "token_end": 722,
         "label": "PROVINCE_GOVERNMENT_MEMBER",
         "text": "Guillermo Peláez",
         "normalized_text": "Guillermo Pelaez"
@@ -9331,8 +9331,8 @@
       {
         "start": 4303,
         "end": 4315,
-        "token_start": 735,
-        "token_end": 737,
+        "token_start": 733,
+        "token_end": 735,
         "label": "RESEARCHER",
         "text": "Susana Luque",
         "normalized_text": "Susana Luque"
@@ -9340,8 +9340,8 @@
       {
         "start": 4303,
         "end": 4315,
-        "token_start": 735,
-        "token_end": 737,
+        "token_start": 733,
+        "token_end": 735,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Susana Luque",
         "normalized_text": "Susana Luque"
@@ -9349,8 +9349,8 @@
       {
         "start": 4382,
         "end": 4396,
-        "token_start": 750,
-        "token_end": 752,
+        "token_start": 748,
+        "token_end": 750,
         "label": "RESEARCHER",
         "text": "Verónica Cañal",
         "normalized_text": "Veronica Canal"
@@ -9358,8 +9358,8 @@
       {
         "start": 4463,
         "end": 4479,
-        "token_start": 767,
-        "token_end": 769,
+        "token_start": 765,
+        "token_end": 767,
         "label": "PROVINCE_GOVERNMENT_MEMBER",
         "text": "Guillermo Peláez",
         "normalized_text": "Guillermo Pelaez"
@@ -9367,8 +9367,8 @@
       {
         "start": 4522,
         "end": 4540,
-        "token_start": 779,
-        "token_end": 781,
+        "token_start": 777,
+        "token_end": 779,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -9376,8 +9376,8 @@
       {
         "start": 4522,
         "end": 4540,
-        "token_start": 779,
-        "token_end": 781,
+        "token_start": 777,
+        "token_end": 779,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -9385,8 +9385,8 @@
       {
         "start": 4664,
         "end": 4680,
-        "token_start": 807,
-        "token_end": 809,
+        "token_start": 805,
+        "token_end": 807,
         "label": "PROVINCE_GOVERNMENT_MEMBER",
         "text": "Guillermo Peláez",
         "normalized_text": "Guillermo Pelaez"
@@ -9394,8 +9394,8 @@
       {
         "start": 4721,
         "end": 4739,
-        "token_start": 818,
-        "token_end": 820,
+        "token_start": 816,
+        "token_end": 818,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -9403,8 +9403,8 @@
       {
         "start": 4721,
         "end": 4739,
-        "token_start": 818,
-        "token_end": 820,
+        "token_start": 816,
+        "token_end": 818,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -9445,8 +9445,8 @@
       {
         "start": 4086,
         "end": 4103,
-        "token_start": 676,
-        "token_end": 679,
+        "token_start": 674,
+        "token_end": 677,
         "label": "RESEARCHER",
         "text": "Ignacio del Rosal",
         "normalized_text": "Ignacio del Rosal"
@@ -9454,8 +9454,8 @@
       {
         "start": 4682,
         "end": 4694,
-        "token_start": 777,
-        "token_end": 779,
+        "token_start": 775,
+        "token_end": 777,
         "label": "RESEARCHER",
         "text": "Begoña Cueto",
         "normalized_text": "Begona Cueto"
@@ -9726,8 +9726,8 @@
       {
         "start": 2011,
         "end": 2039,
-        "token_start": 325,
-        "token_end": 330,
+        "token_start": 323,
+        "token_end": 328,
         "label": "RESEARCHER",
         "text": "Adriana Díez Gómez del Casal",
         "normalized_text": "Adriana Diez Gomez del Casal"
@@ -9735,8 +9735,8 @@
       {
         "start": 2611,
         "end": 2636,
-        "token_start": 425,
-        "token_end": 428,
+        "token_start": 423,
+        "token_end": 426,
         "label": "RESEARCHER",
         "text": "Covadonga Menéndez Suárez",
         "normalized_text": "Covadonga Menendez Suarez"
@@ -9744,8 +9744,8 @@
       {
         "start": 4788,
         "end": 4810,
-        "token_start": 789,
-        "token_end": 792,
+        "token_start": 787,
+        "token_end": 790,
         "label": "RESEARCHER",
         "text": "Víctor Martínez Loredo",
         "normalized_text": "Victor Martinez Loredo"
@@ -9753,8 +9753,8 @@
       {
         "start": 351,
         "end": 367,
-        "token_start": 56,
-        "token_end": 58,
+        "token_start": 54,
+        "token_end": 56,
         "label": "RESEARCHER",
         "text": "Susana Al-Halabí",
         "normalized_text": "Susana Al-Halabi"
@@ -9762,8 +9762,8 @@
       {
         "start": 729,
         "end": 745,
-        "token_start": 117,
-        "token_end": 119,
+        "token_start": 115,
+        "token_end": 117,
         "label": "RESEARCHER",
         "text": "Susana Al-Halabí",
         "normalized_text": "Susana Al-Halabi"
@@ -9771,8 +9771,8 @@
       {
         "start": 2402,
         "end": 2414,
-        "token_start": 392,
-        "token_end": 394,
+        "token_start": 390,
+        "token_end": 392,
         "label": "RESEARCHER",
         "text": "Belén García",
         "normalized_text": "Belen Garcia"
@@ -9780,8 +9780,8 @@
       {
         "start": 2479,
         "end": 2489,
-        "token_start": 404,
-        "token_end": 406,
+        "token_start": 402,
+        "token_end": 404,
         "label": "RESEARCHER",
         "text": "Ana Moreno",
         "normalized_text": "Ana Moreno"
@@ -9789,8 +9789,8 @@
       {
         "start": 2809,
         "end": 2821,
-        "token_start": 458,
-        "token_end": 460,
+        "token_start": 456,
+        "token_end": 458,
         "label": "RESEARCHER",
         "text": "José Errasti",
         "normalized_text": "Jose Errasti"
@@ -9798,8 +9798,8 @@
       {
         "start": 3279,
         "end": 3292,
-        "token_start": 539,
-        "token_end": 541,
+        "token_start": 537,
+        "token_end": 539,
         "label": "RESEARCHER",
         "text": "Víctor García",
         "normalized_text": "Victor Garcia"
@@ -9807,8 +9807,8 @@
       {
         "start": 4764,
         "end": 4776,
-        "token_start": 785,
-        "token_end": 787,
+        "token_start": 783,
+        "token_end": 785,
         "label": "RESEARCHER",
         "text": "Belén García",
         "normalized_text": "Belen Garcia"
@@ -9816,8 +9816,8 @@
       {
         "start": 4838,
         "end": 4850,
-        "token_start": 797,
-        "token_end": 799,
+        "token_start": 795,
+        "token_end": 797,
         "label": "RESEARCHER",
         "text": "José Errasti",
         "normalized_text": "Jose Errasti"
@@ -9825,8 +9825,8 @@
       {
         "start": 4852,
         "end": 4868,
-        "token_start": 800,
-        "token_end": 802,
+        "token_start": 798,
+        "token_end": 800,
         "label": "RESEARCHER",
         "text": "Susana Al-Halabí",
         "normalized_text": "Susana Al-Halabi"
@@ -9834,8 +9834,8 @@
       {
         "start": 866,
         "end": 872,
-        "token_start": 137,
-        "token_end": 138,
+        "token_start": 135,
+        "token_end": 136,
         "label": "GROUP_ACRONYM",
         "text": "CIPRES",
         "normalized_text": "CIPRES"
@@ -9889,8 +9889,8 @@
       {
         "start": 3885,
         "end": 3906,
-        "token_start": 713,
-        "token_end": 716,
+        "token_start": 711,
+        "token_end": 714,
         "label": "RESEARCHER",
         "text": "María Soledad Álvarez",
         "normalized_text": "Maria Soledad Alvarez"
@@ -9916,8 +9916,8 @@
       {
         "start": 3088,
         "end": 3106,
-        "token_start": 564,
-        "token_end": 566,
+        "token_start": 562,
+        "token_end": 564,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -9925,8 +9925,8 @@
       {
         "start": 3088,
         "end": 3106,
-        "token_start": 564,
-        "token_end": 566,
+        "token_start": 562,
+        "token_end": 564,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -10083,8 +10083,8 @@
       {
         "start": 803,
         "end": 861,
-        "token_start": 152,
-        "token_end": 160,
+        "token_start": 150,
+        "token_end": 158,
         "label": "CENTER_NAME",
         "text": "Instituto de Ciencias y Tecnologías Espaciales de Asturias",
         "normalized_text": "Instituto de Ciencias y Tecnologias Espaciales de Asturias"
@@ -10092,8 +10092,8 @@
       {
         "start": 1290,
         "end": 1300,
-        "token_start": 231,
-        "token_end": 233,
+        "token_start": 229,
+        "token_end": 231,
         "label": "RESEARCHER",
         "text": "Irene Díaz",
         "normalized_text": "Irene Diaz"
@@ -10101,8 +10101,8 @@
       {
         "start": 1290,
         "end": 1300,
-        "token_start": 231,
-        "token_end": 233,
+        "token_start": 229,
+        "token_end": 231,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Irene Díaz",
         "normalized_text": "Irene Diaz"
@@ -10110,8 +10110,8 @@
       {
         "start": 2216,
         "end": 2234,
-        "token_start": 395,
-        "token_end": 397,
+        "token_start": 393,
+        "token_end": 395,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -10119,8 +10119,8 @@
       {
         "start": 2216,
         "end": 2234,
-        "token_start": 395,
-        "token_end": 397,
+        "token_start": 393,
+        "token_end": 395,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -10128,8 +10128,8 @@
       {
         "start": 863,
         "end": 868,
-        "token_start": 161,
-        "token_end": 162,
+        "token_start": 159,
+        "token_end": 160,
         "label": "CENTER_ACRONYM",
         "text": "ICTEA",
         "normalized_text": "ICTEA"
@@ -10202,8 +10202,8 @@
       {
         "start": 3811,
         "end": 3832,
-        "token_start": 703,
-        "token_end": 706,
+        "token_start": 701,
+        "token_end": 704,
         "label": "RESEARCHER",
         "text": "María Soledad Álvarez",
         "normalized_text": "Maria Soledad Alvarez"
@@ -10229,8 +10229,8 @@
       {
         "start": 3014,
         "end": 3032,
-        "token_start": 554,
-        "token_end": 556,
+        "token_start": 552,
+        "token_end": 554,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -10238,8 +10238,8 @@
       {
         "start": 3014,
         "end": 3032,
-        "token_start": 554,
-        "token_end": 556,
+        "token_start": 552,
+        "token_end": 554,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -10558,8 +10558,8 @@
       {
         "start": 1915,
         "end": 1931,
-        "token_start": 343,
-        "token_end": 345,
+        "token_start": 342,
+        "token_end": 344,
         "label": "RESEARCHER",
         "text": "Eusebio González",
         "normalized_text": "Eusebio Gonzalez"
@@ -10567,8 +10567,8 @@
       {
         "start": 2333,
         "end": 2348,
-        "token_start": 434,
-        "token_end": 436,
+        "token_start": 433,
+        "token_end": 435,
         "label": "RESEARCHER",
         "text": "Domingo Álvarez",
         "normalized_text": "Domingo Alvarez"
@@ -11201,8 +11201,8 @@
       {
         "start": 4143,
         "end": 4173,
-        "token_start": 703,
-        "token_end": 707,
+        "token_start": 701,
+        "token_end": 705,
         "label": "RESEARCHER",
         "text": "José Antonio Fernández Álvarez",
         "normalized_text": "Jose Antonio Fernandez Alvarez"
@@ -11219,8 +11219,8 @@
       {
         "start": 5008,
         "end": 5025,
-        "token_start": 853,
-        "token_end": 855,
+        "token_start": 851,
+        "token_end": 853,
         "label": "RESEARCHER",
         "text": "Antonio Fernández",
         "normalized_text": "Antonio Fernandez"
@@ -11497,8 +11497,8 @@
       {
         "start": 5727,
         "end": 5750,
-        "token_start": 1027,
-        "token_end": 1031,
+        "token_start": 1025,
+        "token_end": 1029,
         "label": "RESEARCHER",
         "text": "María del Mar Fernández",
         "normalized_text": "Maria del Mar Fernandez"
@@ -11506,8 +11506,8 @@
       {
         "start": 5753,
         "end": 5770,
-        "token_start": 1032,
-        "token_end": 1035,
+        "token_start": 1030,
+        "token_end": 1033,
         "label": "RESEARCHER",
         "text": "Rubén Martín Payo",
         "normalized_text": "Ruben Martin Payo"
@@ -11515,8 +11515,8 @@
       {
         "start": 5712,
         "end": 5725,
-        "token_start": 1024,
-        "token_end": 1026,
+        "token_start": 1022,
+        "token_end": 1024,
         "label": "RESEARCHER",
         "text": "Judit Cachero",
         "normalized_text": "Judit Cachero"
@@ -11600,8 +11600,8 @@
       {
         "start": 1232,
         "end": 1243,
-        "token_start": 216,
-        "token_end": 218,
+        "token_start": 214,
+        "token_end": 216,
         "label": "RESEARCHER",
         "text": "Mar Delgado",
         "normalized_text": "Mar Delgado"
@@ -11609,8 +11609,8 @@
       {
         "start": 4171,
         "end": 4182,
-        "token_start": 714,
-        "token_end": 716,
+        "token_start": 710,
+        "token_end": 712,
         "label": "RESEARCHER",
         "text": "Mar Delgado",
         "normalized_text": "Mar Delgado"
@@ -11618,8 +11618,8 @@
       {
         "start": 4239,
         "end": 4254,
-        "token_start": 726,
-        "token_end": 728,
+        "token_start": 722,
+        "token_end": 724,
         "label": "RESEARCHER",
         "text": "Rafael Benjumea",
         "normalized_text": "Rafael Benjumea"
@@ -11655,8 +11655,8 @@
       {
         "start": 3794,
         "end": 3815,
-        "token_start": 638,
-        "token_end": 641,
+        "token_start": 634,
+        "token_end": 637,
         "label": "RESEARCHER",
         "text": "Juan Manuel Marchante",
         "normalized_text": "Juan Manuel Marchante"
@@ -11664,8 +11664,8 @@
       {
         "start": 3794,
         "end": 3815,
-        "token_start": 638,
-        "token_end": 641,
+        "token_start": 634,
+        "token_end": 637,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Juan Manuel Marchante",
         "normalized_text": "Juan Manuel Marchante"
@@ -11754,8 +11754,8 @@
       {
         "start": 2958,
         "end": 2980,
-        "token_start": 498,
-        "token_end": 502,
+        "token_start": 496,
+        "token_end": 500,
         "label": "RESEARCHER",
         "text": "María Esther del Moral",
         "normalized_text": "Maria Esther del Moral"
@@ -11763,8 +11763,8 @@
       {
         "start": 3277,
         "end": 3305,
-        "token_start": 553,
-        "token_end": 556,
+        "token_start": 551,
+        "token_end": 554,
         "label": "RESEARCHER",
         "text": "Jonathan Castañeda Fernández",
         "normalized_text": "Jonathan Castaneda Fernandez"
@@ -11772,8 +11772,8 @@
       {
         "start": 3522,
         "end": 3540,
-        "token_start": 592,
-        "token_end": 595,
+        "token_start": 590,
+        "token_end": 593,
         "label": "RESEARCHER",
         "text": "Nerea López Bouzas",
         "normalized_text": "Nerea Lopez Bouzas"
@@ -11781,8 +11781,8 @@
       {
         "start": 3809,
         "end": 3830,
-        "token_start": 638,
-        "token_end": 641,
+        "token_start": 636,
+        "token_end": 639,
         "label": "RESEARCHER",
         "text": "Carmen Bellver Moreno",
         "normalized_text": "Carmen Bellver Moreno"
@@ -12602,8 +12602,8 @@
       {
         "start": 1321,
         "end": 1341,
-        "token_start": 211,
-        "token_end": 214,
+        "token_start": 209,
+        "token_end": 212,
         "label": "RESEARCHER",
         "text": "Gonzalo García Carro",
         "normalized_text": "Gonzalo Garcia Carro"
@@ -12611,8 +12611,8 @@
       {
         "start": 1423,
         "end": 1442,
-        "token_start": 228,
-        "token_end": 231,
+        "token_start": 226,
+        "token_end": 229,
         "label": "RESEARCHER",
         "text": "César Bobes Álvarez",
         "normalized_text": "Cesar Bobes Alvarez"
@@ -12620,8 +12620,8 @@
       {
         "start": 2920,
         "end": 2931,
-        "token_start": 468,
-        "token_end": 470,
+        "token_start": 466,
+        "token_end": 468,
         "label": "RESEARCHER",
         "text": "César Bobes",
         "normalized_text": "Cesar Bobes"
@@ -12629,8 +12629,8 @@
       {
         "start": 2960,
         "end": 2973,
-        "token_start": 475,
-        "token_end": 477,
+        "token_start": 473,
+        "token_end": 475,
         "label": "RESEARCHER",
         "text": "Adriano Mones",
         "normalized_text": "Adriano Mones"
@@ -12941,8 +12941,8 @@
       {
         "start": 2024,
         "end": 2047,
-        "token_start": 346,
-        "token_end": 349,
+        "token_start": 344,
+        "token_end": 347,
         "label": "RESEARCHER",
         "text": "Vanesa Fernández García",
         "normalized_text": "Vanesa Fernandez Garcia"
@@ -12950,8 +12950,8 @@
       {
         "start": 1858,
         "end": 1876,
-        "token_start": 316,
-        "token_end": 318,
+        "token_start": 314,
+        "token_end": 316,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -12959,8 +12959,8 @@
       {
         "start": 1858,
         "end": 1876,
-        "token_start": 316,
-        "token_end": 318,
+        "token_start": 314,
+        "token_end": 316,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -12983,8 +12983,8 @@
       {
         "start": 824,
         "end": 842,
-        "token_start": 150,
-        "token_end": 152,
+        "token_start": 148,
+        "token_end": 150,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -12992,8 +12992,8 @@
       {
         "start": 824,
         "end": 842,
-        "token_start": 150,
-        "token_end": 152,
+        "token_start": 148,
+        "token_end": 150,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -13001,8 +13001,8 @@
       {
         "start": 903,
         "end": 919,
-        "token_start": 163,
-        "token_end": 165,
+        "token_start": 161,
+        "token_end": 163,
         "label": "RESEARCHER",
         "text": "Vanesa Fernández",
         "normalized_text": "Vanesa Fernandez"
@@ -13528,8 +13528,8 @@
       {
         "start": 8279,
         "end": 8322,
-        "token_start": 1380,
-        "token_end": 1386,
+        "token_start": 1376,
+        "token_end": 1382,
         "label": "CENTER_NAME",
         "text": "Instituto de Formación e Innovación Docente",
         "normalized_text": "Instituto de Formacion e Innovacion Docente"
@@ -13564,8 +13564,8 @@
       {
         "start": 8324,
         "end": 8328,
-        "token_start": 1387,
-        "token_end": 1388,
+        "token_start": 1383,
+        "token_end": 1384,
         "label": "CENTER_ACRONYM",
         "text": "IFID",
         "normalized_text": "IFID"
@@ -14462,8 +14462,8 @@
       {
         "start": 2395,
         "end": 2406,
-        "token_start": 407,
-        "token_end": 409,
+        "token_start": 406,
+        "token_end": 408,
         "label": "RESEARCHER",
         "text": "Noemí López",
         "normalized_text": "Noemi Lopez"
@@ -14498,8 +14498,8 @@
       {
         "start": 1905,
         "end": 1909,
-        "token_start": 326,
-        "token_end": 327,
+        "token_start": 325,
+        "token_end": 326,
         "label": "CENTER_ACRONYM",
         "text": "CINN",
         "normalized_text": "CINN"
@@ -14507,8 +14507,8 @@
       {
         "start": 2449,
         "end": 2453,
-        "token_start": 416,
-        "token_end": 417,
+        "token_start": 415,
+        "token_end": 416,
         "label": "CENTER_ACRONYM",
         "text": "CINN",
         "normalized_text": "CINN"
@@ -14516,8 +14516,8 @@
       {
         "start": 3732,
         "end": 3736,
-        "token_start": 632,
-        "token_end": 633,
+        "token_start": 631,
+        "token_end": 632,
         "label": "CENTER_ACRONYM",
         "text": "CINN",
         "normalized_text": "CINN"
@@ -14525,8 +14525,8 @@
       {
         "start": 3971,
         "end": 3975,
-        "token_start": 678,
-        "token_end": 679,
+        "token_start": 677,
+        "token_end": 678,
         "label": "CENTER_ACRONYM",
         "text": "CINN",
         "normalized_text": "CINN"
@@ -14550,8 +14550,8 @@
       {
         "start": 978,
         "end": 988,
-        "token_start": 170,
-        "token_end": 172,
+        "token_start": 168,
+        "token_end": 170,
         "label": "RESEARCHER",
         "text": "Irene Díaz",
         "normalized_text": "Irene Diaz"
@@ -14559,8 +14559,8 @@
       {
         "start": 978,
         "end": 988,
-        "token_start": 170,
-        "token_end": 172,
+        "token_start": 168,
+        "token_end": 170,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Irene Díaz",
         "normalized_text": "Irene Diaz"
@@ -14846,8 +14846,8 @@
       {
         "start": 4764,
         "end": 4784,
-        "token_start": 785,
-        "token_end": 788,
+        "token_start": 783,
+        "token_end": 786,
         "label": "RESEARCHER",
         "text": "Norma Alas Gutiérrez",
         "normalized_text": "Norma Alas Gutierrez"
@@ -15536,8 +15536,8 @@
       {
         "start": 4736,
         "end": 4754,
-        "token_start": 805,
-        "token_end": 807,
+        "token_start": 803,
+        "token_end": 805,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -15545,8 +15545,8 @@
       {
         "start": 4736,
         "end": 4754,
-        "token_start": 805,
-        "token_end": 807,
+        "token_start": 803,
+        "token_end": 805,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -15554,8 +15554,8 @@
       {
         "start": 5511,
         "end": 5521,
-        "token_start": 929,
-        "token_end": 931,
+        "token_start": 927,
+        "token_end": 929,
         "label": "RESEARCHER",
         "text": "Juan Rayón",
         "normalized_text": "Juan Rayon"
@@ -15563,8 +15563,8 @@
       {
         "start": 5652,
         "end": 5662,
-        "token_start": 953,
-        "token_end": 955,
+        "token_start": 951,
+        "token_end": 953,
         "label": "RESEARCHER",
         "text": "Juan Rayón",
         "normalized_text": "Juan Rayon"
@@ -15572,8 +15572,8 @@
       {
         "start": 6402,
         "end": 6415,
-        "token_start": 1088,
-        "token_end": 1090,
+        "token_start": 1086,
+        "token_end": 1088,
         "label": "RESEARCHER",
         "text": "Daniel Santos",
         "normalized_text": "Daniel Santos"
@@ -15723,8 +15723,8 @@
       {
         "start": 3904,
         "end": 3915,
-        "token_start": 680,
-        "token_end": 682,
+        "token_start": 679,
+        "token_end": 681,
         "label": "RESEARCHER",
         "text": "Julio López",
         "normalized_text": "Julio Lopez"
@@ -15732,8 +15732,8 @@
       {
         "start": 3966,
         "end": 3977,
-        "token_start": 691,
-        "token_end": 693,
+        "token_start": 690,
+        "token_end": 692,
         "label": "RESEARCHER",
         "text": "Germán Flor",
         "normalized_text": "German Flor"
@@ -15741,8 +15741,8 @@
       {
         "start": 3317,
         "end": 3322,
-        "token_start": 586,
-        "token_end": 587,
+        "token_start": 585,
+        "token_end": 586,
         "label": "GROUP_ACRONYM",
         "text": "ISYMA",
         "normalized_text": "ISYMA"
@@ -16118,8 +16118,8 @@
       {
         "start": 3784,
         "end": 3803,
-        "token_start": 654,
-        "token_end": 658,
+        "token_start": 652,
+        "token_end": 656,
         "label": "RESEARCHER",
         "text": "Marco de la Rasilla",
         "normalized_text": "Marco de la Rasilla"
@@ -16127,8 +16127,8 @@
       {
         "start": 3665,
         "end": 3683,
-        "token_start": 634,
-        "token_end": 637,
+        "token_start": 632,
+        "token_end": 635,
         "label": "RESEARCHER",
         "text": "Eva García Vázquez",
         "normalized_text": "Eva Garcia Vazquez"
@@ -16136,8 +16136,8 @@
       {
         "start": 3884,
         "end": 3904,
-        "token_start": 669,
-        "token_end": 672,
+        "token_start": 667,
+        "token_end": 670,
         "label": "RESEARCHER",
         "text": "Luis Rodríguez Muñiz",
         "normalized_text": "Luis Rodriguez Muniz"
@@ -16172,8 +16172,8 @@
       {
         "start": 1779,
         "end": 1797,
-        "token_start": 308,
-        "token_end": 310,
+        "token_start": 306,
+        "token_end": 308,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -16181,8 +16181,8 @@
       {
         "start": 1779,
         "end": 1797,
-        "token_start": 308,
-        "token_end": 310,
+        "token_start": 306,
+        "token_end": 308,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -16190,8 +16190,8 @@
       {
         "start": 2734,
         "end": 2747,
-        "token_start": 473,
-        "token_end": 475,
+        "token_start": 471,
+        "token_end": 473,
         "label": "PROVINCE_GOVERNMENT_MEMBER",
         "text": "Borja Sánchez",
         "normalized_text": "Borja Sanchez"
@@ -16199,8 +16199,8 @@
       {
         "start": 3521,
         "end": 3531,
-        "token_start": 612,
-        "token_end": 614,
+        "token_start": 610,
+        "token_end": 612,
         "label": "RESEARCHER",
         "text": "Alba Morán",
         "normalized_text": "Alba Moran"
@@ -16208,8 +16208,8 @@
       {
         "start": 4542,
         "end": 4558,
-        "token_start": 777,
-        "token_end": 779,
+        "token_start": 775,
+        "token_end": 777,
         "label": "RESEARCHER",
         "text": "Luigi Toffolatti",
         "normalized_text": "Luigi Toffolatti"
@@ -16217,8 +16217,8 @@
       {
         "start": 4699,
         "end": 4713,
-        "token_start": 802,
-        "token_end": 804,
+        "token_start": 800,
+        "token_end": 802,
         "label": "RESEARCHER",
         "text": "Lucía González",
         "normalized_text": "Lucia Gonzalez"
@@ -16447,8 +16447,8 @@
       {
         "start": 1953,
         "end": 1967,
-        "token_start": 321,
-        "token_end": 323,
+        "token_start": 320,
+        "token_end": 322,
         "label": "RESEARCHER",
         "text": "Yolanda Lozano",
         "normalized_text": "Yolanda Lozano"
@@ -16456,8 +16456,8 @@
       {
         "start": 1970,
         "end": 1985,
-        "token_start": 324,
-        "token_end": 326,
+        "token_start": 323,
+        "token_end": 325,
         "label": "RESEARCHER",
         "text": "Bárbara Álvarez",
         "normalized_text": "Barbara Alvarez"
@@ -16465,8 +16465,8 @@
       {
         "start": 4034,
         "end": 4048,
-        "token_start": 671,
-        "token_end": 673,
+        "token_start": 670,
+        "token_end": 672,
         "label": "RESEARCHER",
         "text": "Yolanda Lozano",
         "normalized_text": "Yolanda Lozano"
@@ -16474,8 +16474,8 @@
       {
         "start": 4051,
         "end": 4066,
-        "token_start": 674,
-        "token_end": 676,
+        "token_start": 673,
+        "token_end": 675,
         "label": "RESEARCHER",
         "text": "Bárbara Álvarez",
         "normalized_text": "Barbara Alvarez"
@@ -17725,8 +17725,8 @@
       {
         "start": 5250,
         "end": 5265,
-        "token_start": 856,
-        "token_end": 858,
+        "token_start": 854,
+        "token_end": 856,
         "label": "RESEARCHER",
         "text": "Antonio Navarro",
         "normalized_text": "Antonio Navarro"
@@ -17734,8 +17734,8 @@
       {
         "start": 5658,
         "end": 5674,
-        "token_start": 929,
-        "token_end": 931,
+        "token_start": 927,
+        "token_end": 929,
         "label": "RESEARCHER",
         "text": "Carlos Rodríguez",
         "normalized_text": "Carlos Rodriguez"
@@ -17978,26 +17978,17 @@
       {
         "start": 1739,
         "end": 1775,
-        "token_start": 317,
-        "token_end": 321,
+        "token_start": 315,
+        "token_end": 319,
         "label": "CENTER_NAME",
         "text": "Instituto Universitario de Oncología",
         "normalized_text": "Instituto Universitario de Oncologia"
       },
       {
-        "start": 644,
-        "end": 661,
-        "token_start": 107,
-        "token_end": 110,
-        "label": "RESEARCHER",
-        "text": "Carlos López Otín",
-        "normalized_text": "Carlos Lopez Otin"
-      },
-      {
         "start": 663,
         "end": 682,
-        "token_start": 111,
-        "token_end": 114,
+        "token_start": 110,
+        "token_end": 113,
         "label": "RESEARCHER",
         "text": "Carlos Suárez Nieto",
         "normalized_text": "Carlos Suarez Nieto"
@@ -18005,26 +17996,26 @@
       {
         "start": 684,
         "end": 707,
-        "token_start": 115,
-        "token_end": 118,
+        "token_start": 114,
+        "token_end": 117,
         "label": "RESEARCHER",
         "text": "Agustín Hidalgo Balsera",
         "normalized_text": "Agustin Hidalgo Balsera"
       },
       {
         "start": 710,
-        "end": 731,
-        "token_start": 119,
-        "token_end": 122,
+        "end": 723,
+        "token_start": 118,
+        "token_end": 120,
         "label": "RESEARCHER",
-        "text": "Antonio Cueto Espinar",
-        "normalized_text": "Antonio Cueto Espinar"
+        "text": "Antonio Cueto",
+        "normalized_text": "Antonio Cueto"
       },
       {
         "start": 929,
         "end": 947,
-        "token_start": 161,
-        "token_end": 163,
+        "token_start": 159,
+        "token_end": 161,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -18032,8 +18023,8 @@
       {
         "start": 929,
         "end": 947,
-        "token_start": 161,
-        "token_end": 163,
+        "token_start": 159,
+        "token_end": 161,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -18041,8 +18032,8 @@
       {
         "start": 1347,
         "end": 1360,
-        "token_start": 247,
-        "token_end": 249,
+        "token_start": 245,
+        "token_end": 247,
         "label": "RESEARCHER",
         "text": "Carlos Suárez",
         "normalized_text": "Carlos Suarez"
@@ -18050,8 +18041,8 @@
       {
         "start": 1656,
         "end": 1669,
-        "token_start": 300,
-        "token_end": 302,
+        "token_start": 298,
+        "token_end": 300,
         "label": "RESEARCHER",
         "text": "Ana Gutiérrez",
         "normalized_text": "Ana Gutierrez"
@@ -18068,8 +18059,8 @@
       {
         "start": 857,
         "end": 862,
-        "token_start": 146,
-        "token_end": 147,
+        "token_start": 144,
+        "token_end": 145,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -18077,8 +18068,8 @@
       {
         "start": 984,
         "end": 989,
-        "token_start": 171,
-        "token_end": 172,
+        "token_start": 169,
+        "token_end": 170,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -18086,8 +18077,8 @@
       {
         "start": 1157,
         "end": 1162,
-        "token_start": 205,
-        "token_end": 206,
+        "token_start": 203,
+        "token_end": 204,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -18095,8 +18086,8 @@
       {
         "start": 1445,
         "end": 1450,
-        "token_start": 265,
-        "token_end": 266,
+        "token_start": 263,
+        "token_end": 264,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -18104,8 +18095,8 @@
       {
         "start": 1649,
         "end": 1654,
-        "token_start": 298,
-        "token_end": 299,
+        "token_start": 296,
+        "token_end": 297,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -18113,8 +18104,8 @@
       {
         "start": 2948,
         "end": 2953,
-        "token_start": 537,
-        "token_end": 538,
+        "token_start": 533,
+        "token_end": 534,
         "label": "CENTER_ACRONYM",
         "text": "IUOPA",
         "normalized_text": "IUOPA"
@@ -18674,8 +18665,8 @@
       {
         "start": 2956,
         "end": 2980,
-        "token_start": 498,
-        "token_end": 501,
+        "token_start": 494,
+        "token_end": 497,
         "label": "RESEARCHER",
         "text": "Sara Fernández Fernández",
         "normalized_text": "Sara Fernandez Fernandez"
@@ -18692,8 +18683,8 @@
       {
         "start": 3433,
         "end": 3442,
-        "token_start": 579,
-        "token_end": 581,
+        "token_start": 575,
+        "token_end": 577,
         "label": "RESEARCHER",
         "text": "Luis Royo",
         "normalized_text": "Luis Royo"
@@ -18701,8 +18692,8 @@
       {
         "start": 3444,
         "end": 3456,
-        "token_start": 582,
-        "token_end": 584,
+        "token_start": 578,
+        "token_end": 580,
         "label": "RESEARCHER",
         "text": "María Montes",
         "normalized_text": "Maria Montes"
@@ -18710,8 +18701,8 @@
       {
         "start": 3458,
         "end": 3469,
-        "token_start": 585,
-        "token_end": 587,
+        "token_start": 581,
+        "token_end": 583,
         "label": "RESEARCHER",
         "text": "Alba Ardura",
         "normalized_text": "Alba Ardura"
@@ -18719,8 +18710,8 @@
       {
         "start": 3472,
         "end": 3486,
-        "token_start": 588,
-        "token_end": 590,
+        "token_start": 584,
+        "token_end": 586,
         "label": "RESEARCHER",
         "text": "Sara Fernández",
         "normalized_text": "Sara Fernandez"
@@ -18979,8 +18970,8 @@
       {
         "start": 4079,
         "end": 4097,
-        "token_start": 724,
-        "token_end": 726,
+        "token_start": 722,
+        "token_end": 724,
         "label": "RESEARCHER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -18988,8 +18979,8 @@
       {
         "start": 4079,
         "end": 4097,
-        "token_start": 724,
-        "token_end": 726,
+        "token_start": 722,
+        "token_end": 724,
         "label": "UNIVERSITY_GOVERNMENT_MEMBER",
         "text": "Ignacio Villaverde",
         "normalized_text": "Ignacio Villaverde"
@@ -18997,8 +18988,8 @@
       {
         "start": 4821,
         "end": 4834,
-        "token_start": 845,
-        "token_end": 847,
+        "token_start": 843,
+        "token_end": 845,
         "label": "RESEARCHER",
         "text": "Gustavo Bueno",
         "normalized_text": "Gustavo Bueno"
@@ -19040,8 +19031,8 @@
       {
         "start": 3752,
         "end": 3770,
-        "token_start": 673,
-        "token_end": 676,
+        "token_start": 669,
+        "token_end": 672,
         "label": "RESEARCHER",
         "text": "ría Pilar García C",
         "normalized_text": "Maria Pilar Garcia"
@@ -19049,8 +19040,8 @@
       {
         "start": 3925,
         "end": 3942,
-        "token_start": 700,
-        "token_end": 703,
+        "token_start": 696,
+        "token_end": 699,
         "label": "RESEARCHER",
         "text": "is Bagué Quílez, ",
         "normalized_text": "Luis Bague Quilez"
@@ -19067,8 +19058,8 @@
       {
         "start": 2969,
         "end": 2983,
-        "token_start": 539,
-        "token_end": 541,
+        "token_start": 535,
+        "token_end": 537,
         "label": "RESEARCHER",
         "text": "gel González” ",
         "normalized_text": "Angel Gonzalez"
@@ -19076,8 +19067,8 @@
       {
         "start": 3396,
         "end": 3410,
-        "token_start": 613,
-        "token_end": 615,
+        "token_start": 609,
+        "token_end": 611,
         "label": "RESEARCHER",
         "text": "gel González d",
         "normalized_text": "Angel Gonzalez"
@@ -19085,8 +19076,8 @@
       {
         "start": 3867,
         "end": 3883,
-        "token_start": 690,
-        "token_end": 692,
+        "token_start": 686,
+        "token_end": 688,
         "label": "RESEARCHER",
         "text": "aceli Iravedra, ",
         "normalized_text": "Araceli Iravedra"
@@ -19094,8 +19085,8 @@
       {
         "start": 3909,
         "end": 3923,
-        "token_start": 697,
-        "token_end": 699,
+        "token_start": 693,
+        "token_end": 695,
         "label": "RESEARCHER",
         "text": "gel González; ",
         "normalized_text": "Angel Gonzalez"
@@ -19103,8 +19094,8 @@
       {
         "start": 4636,
         "end": 4650,
-        "token_start": 819,
-        "token_end": 821,
+        "token_start": 815,
+        "token_end": 817,
         "label": "RESEARCHER",
         "text": "gel González, ",
         "normalized_text": "Angel Gonzalez"
@@ -19382,8 +19373,8 @@
       {
         "start": 2516,
         "end": 2541,
-        "token_start": 448,
-        "token_end": 452,
+        "token_start": 446,
+        "token_end": 450,
         "label": "RESEARCHER",
         "text": "María Pilar García Cuetos",
         "normalized_text": "Maria Pilar Garcia Cuetos"
@@ -19409,8 +19400,8 @@
       {
         "start": 3929,
         "end": 3943,
-        "token_start": 714,
-        "token_end": 716,
+        "token_start": 712,
+        "token_end": 714,
         "label": "RESEARCHER",
         "text": "Luis Fernández",
         "normalized_text": "Luis Fernandez"
@@ -19731,8 +19722,8 @@
       {
         "start": 5222,
         "end": 5237,
-        "token_start": 992,
-        "token_end": 994,
+        "token_start": 991,
+        "token_end": 993,
         "label": "RESEARCHER",
         "text": "Alfonso Palacio",
         "normalized_text": "Alfonso Palacio"
@@ -20324,8 +20315,8 @@
       {
         "start": 4119,
         "end": 4168,
-        "token_start": 672,
-        "token_end": 678,
+        "token_start": 666,
+        "token_end": 672,
         "label": "CENTER_NAME",
         "text": "Instituto Mixto de Investigación en Biodiversidad",
         "normalized_text": "Instituto Mixto de Investigacion en Biodiversidad"
